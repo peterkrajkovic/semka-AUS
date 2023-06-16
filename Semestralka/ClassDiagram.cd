@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Territory" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAECCQiAAQAAAAAAABAAhkRAAAhAAAAAAAAAAAAA=</HashCode>
+      <FileName>Territory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Printer" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Printer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Algorithm" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAEAAAAAAAACAAAAAAQAA=</HashCode>
+      <FileName>Algorithm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Structures">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAEAAIEAAAAAAAAAAAAAABAwAKIQAQAAAAAAAAE=</HashCode>
+      <FileName>Structures.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

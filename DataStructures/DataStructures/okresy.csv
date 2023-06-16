@@ -1,0 +1,82 @@
+﻿sortNumber;code;officialTitle;mediumTitle;shortTitle;note
+1;SK0101;Okres Bratislava I;Bratislava I;Bratislava I;101
+2;SK0102;Okres Bratislava II;Bratislava II;Bratislava II;102
+3;SK0103;Okres Bratislava III;Bratislava III;Bratislava III;103
+4;SK0104;Okres Bratislava IV;Bratislava IV;Bratislava IV;104
+5;SK0105;Okres Bratislava V;Bratislava V;Bratislava V;105
+6;SK0106;Okres Malacky;Malacky;Malacky;106
+7;SK0107;Okres Pezinok;Pezinok;Pezinok;107
+8;SK0108;Okres Senec;Senec;Senec;108
+9;SK0211;Okres Dunajsk� Streda;Dunajsk� Streda;Dunajsk� Streda;201
+10;SK0212;Okres Galanta;Galanta;Galanta;202
+11;SK0213;Okres Hlohovec;Hlohovec;Hlohovec;203
+12;SK0214;Okres Pie��any;Pie��any;Pie��any;204
+13;SK0215;Okres Senica;Senica;Senica;205
+14;SK0216;Okres Skalica;Skalica;Skalica;206
+15;SK0217;Okres Trnava;Trnava;Trnava;207
+16;SK0221;Okres B�novce nad Bebravou;B�novce nad Bebravou;B�novce nad Bebravou;301
+17;SK0222;Okres Ilava;Ilava;Ilava;302
+18;SK0223;Okres Myjava;Myjava;Myjava;303
+19;SK0224;Okres Nov� Mesto nad V�hom;Nov� Mesto nad V�hom;Nov� Mesto nad V�hom;304
+20;SK0225;Okres Partiz�nske;Partiz�nske;Partiz�nske;305
+21;SK0226;Okres Pova�sk� Bystrica;Pova�sk� Bystrica;Pova�sk� Bystrica;306
+22;SK0227;Okres Prievidza;Prievidza;Prievidza;307
+23;SK0228;Okres P�chov;P�chov;P�chov;308
+24;SK0229;Okres Tren��n;Tren��n;Tren��n;309
+25;SK0231;Okres Kom�rno;Kom�rno;Kom�rno;401
+26;SK0232;Okres Levice;Levice;Levice;402
+27;SK0233;Okres Nitra;Nitra;Nitra;403
+28;SK0234;Okres Nov� Z�mky;Nov� Z�mky;Nov� Z�mky;404
+29;SK0235;Okres �a�a;�a�a;�a�a;405
+30;SK0236;Okres Topo��any;Topo��any;Topo��any;406
+31;SK0237;Okres Zlat� Moravce;Zlat� Moravce;Zlat� Moravce;407
+32;SK031A;Okres Tvrdo��n;Tvrdo��n;Tvrdo��n;510
+33;SK031B;Okres �ilina;�ilina;�ilina;511
+34;SK0311;Okres Byt�a;Byt�a;Byt�a;501
+35;SK0312;Okres �adca;�adca;�adca;502
+36;SK0313;Okres Doln� Kub�n;Doln� Kub�n;Doln� Kub�n;503
+37;SK0314;Okres Kysuck� Nov� Mesto;Kysuck� Nov� Mesto;Kysuck� Nov� Mesto;504
+38;SK0315;Okres Liptovsk� Mikul�;Liptovsk� Mikul�;Liptovsk� Mikul�;505
+39;SK0316;Okres Martin;Martin;Martin;506
+40;SK0317;Okres N�mestovo;N�mestovo;N�mestovo;507
+41;SK0318;Okres Ru�omberok;Ru�omberok;Ru�omberok;508
+42;SK0319;Okres Tur�ianske Teplice;Tur�ianske Teplice;Tur�ianske Teplice;509
+43;SK032A;Okres Ve�k� Krt�;Ve�k� Krt�;Ve�k� Krt�;610
+44;SK032B;Okres Zvolen;Zvolen;Zvolen;611
+45;SK032C;Okres �arnovica;�arnovica;�arnovica;612
+46;SK032D;Okres �iar nad Hronom;�iar nad Hronom;�iar nad Hronom;613
+47;SK0321;Okres Bansk� Bystrica;Bansk� Bystrica;Bansk� Bystrica;601
+48;SK0322;Okres Bansk� �tiavnica;Bansk� �tiavnica;Bansk� �tiavnica;602
+49;SK0323;Okres Brezno;Brezno;Brezno;603
+50;SK0324;Okres Detva;Detva;Detva;604
+51;SK0325;Okres Krupina;Krupina;Krupina;605
+52;SK0326;Okres Lu�enec;Lu�enec;Lu�enec;606
+53;SK0327;Okres Polt�r;Polt�r;Polt�r;607
+54;SK0328;Okres Rev�ca;Rev�ca;Rev�ca;608
+55;SK0329;Okres Rimavsk� Sobota;Rimavsk� Sobota;Rimavsk� Sobota;609
+56;SK041A;Okres Star� �ubov�a;Star� �ubov�a;Star� �ubov�a;710
+57;SK041B;Okres Stropkov;Stropkov;Stropkov;711
+58;SK041C;Okres Svidn�k;Svidn�k;Svidn�k;712
+59;SK041D;Okres Vranov nad Top�ou;Vranov nad Top�ou;Vranov nad Top�ou;713
+60;SK0411;Okres Bardejov;Bardejov;Bardejov;701
+61;SK0412;Okres Humenn�;Humenn�;Humenn�;702
+62;SK0413;Okres Ke�marok;Ke�marok;Ke�marok;703
+63;SK0414;Okres Levo�a;Levo�a;Levo�a;704
+64;SK0415;Okres Medzilaborce;Medzilaborce;Medzilaborce;705
+65;SK0416;Okres Poprad;Poprad;Poprad;706
+66;SK0417;Okres Pre�ov;Pre�ov;Pre�ov;707
+67;SK0418;Okres Sabinov;Sabinov;Sabinov;708
+68;SK0419;Okres Snina;Snina;Snina;709
+69;SK042A;Okres Spi�sk� Nov� Ves;Spi�sk� Nov� Ves;Spi�sk� Nov� Ves;810
+70;SK042B;Okres Trebi�ov;Trebi�ov;Trebi�ov;811
+71;SK0421;Okres Gelnica;Gelnica;Gelnica;801
+72;SK0422;Okres Ko�ice I;Ko�ice I;Ko�ice I;802
+73;SK0423;Okres Ko�ice II;Ko�ice II;Ko�ice II;803
+74;SK0424;Okres Ko�ice III;Ko�ice III;Ko�ice III;804
+75;SK0425;Okres Ko�ice IV;Ko�ice IV;Ko�ice IV;805
+76;SK0426;Okres Ko�ice - okolie;Ko�ice - okolie;Ko�ice - okolie;806
+77;SK0427;Okres Michalovce;Michalovce;Michalovce;807
+78;SK0428;Okres Ro��ava;Ro��ava;Ro��ava;808
+79;SK0429;Okres Sobrance;Sobrance;Sobrance;809
+80;SKZZZ;Zahrani�ie;Zahrani�ie;Zahrani�ie
+81;SKZZZZ;Zahrani�ie;Zahrani�ie;Zahrani�ie 

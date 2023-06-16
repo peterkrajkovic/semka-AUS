@@ -1,0 +1,2931 @@
+﻿sortNumber;code;officialTitle;mediumTitle;shortTitle;note
+1;SK0101528595;Bratislava - mestsk� �as� Star� Mesto;Bratislava-Star� Mesto;Bratislava-Star� Mesto;528595
+2;SK0102529311;Bratislava - mestsk� �as� Podunajsk� Biskupice;Bratislava-Podunajsk� Biskupice;Bratislava-Pod.Biskup.;529311
+3;SK0102529320;Bratislava - mestsk� �as� Ru�inov;Bratislava-Ru�inov;Bratislava-Ru�inov;529320
+4;SK0102529338;Bratislava - mestsk� �as� Vraku�a;Bratislava-Vraku�a;Bratislava-Vraku�a;529338
+5;SK0103529346;Bratislava - mestsk� �as� Nov� Mesto;Bratislava-Nov� Mesto;Bratislava-Nov� Mesto;529346
+6;SK0103529354;Bratislava - mestsk� �as� Ra�a;Bratislava-Ra�a;Bratislava-Ra�a;529354
+7;SK0103529362;Bratislava - mestsk� �as� Vajnory;Bratislava-Vajnory;Bratislava-Vajnory;529362
+8;SK0104529371;Bratislava - mestsk� �as� Dev�nska Nov� Ves;Bratislava-Dev�nska Nov� Ves;Bratislava-Dev.Nov� Ves;529371
+9;SK0104529389;Bratislava - mestsk� �as� D�bravka;Bratislava-D�bravka;Bratislava-D�bravka;529389
+10;SK0104529397;Bratislava - mestsk� �as� Karlova Ves;Bratislava-Karlova Ves;Bratislava-Karlova Ves;529397
+11;SK0104529401;Bratislava - mestsk� �as� Dev�n;Bratislava-Dev�n;Bratislava-Dev�n;529401
+12;SK0104529419;Bratislava - mestsk� �as� Lama�;Bratislava-Lama�;Bratislava-Lama�;529419
+13;SK0104529427;Bratislava - mestsk� �as� Z�horsk� Bystrica;Bratislava-Z�horsk� Bystrica;Bratislava-Z�hor.Bystr.;529427
+14;SK0105529435;Bratislava - mestsk� �as� �unovo;Bratislava-�unovo;Bratislava-�unovo;529435
+15;SK0105529443;Bratislava - mestsk� �as� Jarovce;Bratislava-Jarovce;Bratislava-Jarovce;529443
+16;SK0105529460;Bratislava - mestsk� �as� Petr�alka;Bratislava-Petr�alka;Bratislava-Petr�alka;529460
+17;SK0105529494;Bratislava - mestsk� �as� Rusovce;Bratislava-Rusovce;Bratislava-Rusovce;529494
+18;SK0106500267;Z�horie (vojensk� obvod);Z�horie;Z�horie (voj.obvod);500267
+19;SK0106504556;Mal� Lev�re;Mal� Lev�re;Mal� Lev�re;504556
+20;SK0106504629;Plaveck� Podhradie;Plaveck� Podhradie;Plaveck� Podhradie;504629
+21;SK0106504637;Plaveck� Mikul�;Plaveck� Mikul�;Plaveck� Mikul�;504637
+22;SK0106504769;Roho�n�k;Roho�n�k;Roho�n�k;504769
+23;SK0106504858;Solo�nica;Solo�nica;Solo�nica;504858
+24;SK0106504874;Studienka;Studienka;Studienka;504874
+25;SK0106504947;Ve�k� Lev�re;Ve�k� Lev�re;Ve�k� Lev�re;504947
+26;SK0106504980;Z�vod;Z�vod;Z�vod;504980
+27;SK0106507831;Borinka;Borinka;Borinka;507831
+28;SK0106507890;Gajary;Gajary;Gajary;507890
+29;SK0106507954;Jablonov�;Jablonov�;Jablonov�;507954
+30;SK0106507962;Jakubov;Jakubov;Jakubov;507962
+31;SK0106508012;Kostoli�te;Kostoli�te;Kostoli�te;508012
+32;SK0106508021;Kuchy�a;Kuchy�a;Kuchy�a;508021
+33;SK0106508039;L�b;L�b;L�b;508039
+34;SK0106508055;Lozorno;Lozorno;Lozorno;508055
+35;SK0106508063;Malacky;Malacky;Malacky;508063
+36;SK0106508080;Marianka;Marianka;Marianka;508080
+37;SK0106508161;Pernek;Pernek;Pernek;508161
+38;SK0106508195;Plaveck� �tvrtok;Plaveck� �tvrtok;Plaveck� �tvrtok;508195
+39;SK0106508233;Stupava;Stupava;Stupava;508233
+40;SK0106508241;Suchohrad;Suchohrad;Suchohrad;508241
+41;SK0106508349;Vysok� pri Morave;Vysok� pri Morave;Vysok� pri Morave;508349
+42;SK0106508365;Z�horsk� Ves;Z�horsk� Ves;Z�horsk� Ves;508365
+43;SK0106508381;Zohor;Zohor;Zohor;508381
+44;SK0107507806;B�ho�;B�ho�;B�ho�;507806
+45;SK0107507849;Budmerice;Budmerice;Budmerice;507849
+46;SK0107507857;�ast�;�ast�;�ast�;507857
+47;SK0107507873;Do�any;Do�any;Do�any;507873
+48;SK0107507881;Dubov�;Dubov�;Dubov�;507881
+49;SK0107507946;Jablonec;Jablonec;Jablonec;507946
+50;SK0107507989;Sv�t� Jur;Sv�t� Jur;Sv�t� Jur;507989
+51;SK0107508047;Limbach;Limbach;Limbach;508047
+52;SK0107508101;Modra;Modra;Modra;508101
+53;SK0107508179;Pezinok;Pezinok;Pezinok;508179
+54;SK0107508187;P�la;P�la;P�la;508187
+55;SK0107508225;Slovensk� Grob;Slovensk� Grob;Slovensk� Grob;508225
+56;SK0107508250;�enkvice;�enkvice;�enkvice;508250
+57;SK0107508268;�tefanov�;�tefanov�;�tefanov�;508268
+58;SK0107508306;Vini�n�;Vini�n�;Vini�n�;508306
+59;SK0107508314;Vinosady;Vinosady;Vinosady;508314
+60;SK0107508322;Vi�tuk;Vi�tuk;Vi�tuk;508322
+61;SK0108503681;Boldog;Boldog;Boldog;503681
+62;SK0108503797;Hrub� Bor�a;Hrub� Bor�a;Hrub� Bor�a;503797
+63;SK0108503801;Hrub� ��r;Hrub� ��r;Hrub� ��r;503801
+64;SK0108503819;Hurbanova Ves;Hurbanova Ves;Hurbanova Ves;503819
+65;SK0108503851;Kostoln� pri Dunaji;Kostoln� pri Dunaji;Kostoln� pri Dunaji;503851
+66;SK0108503894;Kr�ov� pri Senci;Kr�ov� pri Senci;Kr�ov� pri Senci;503894
+67;SK0108503983;Reca;Reca;Reca;503983
+68;SK0108507814;Bernol�kovo;Bernol�kovo;Bernol�kovo;507814
+69;SK0108507822;Blatn�;Blatn�;Blatn�;507822
+70;SK0108507865;�ataj;�ataj;�ataj;507865
+71;SK0108507903;Hamuliakovo;Hamuliakovo;Hamuliakovo;507903
+72;SK0108507911;Chorv�tsky Grob;Chorv�tsky Grob;Chorv�tsky Grob;507911
+73;SK0108507938;Ivanka pri Dunaji;Ivanka pri Dunaji;Ivanka pri Dunaji;507938
+74;SK0108507997;Kalinkovo;Kalinkovo;Kalinkovo;507997
+75;SK0108508071;Malinovo;Malinovo;Malinovo;508071
+76;SK0108508098;Miloslavov;Miloslavov;Miloslavov;508098
+77;SK0108508110;Most pri Bratislave;Most pri Bratislave;Most pri Bratislave;508110
+78;SK0108508136;Nov� Dedinka;Nov� Dedinka;Nov� Dedinka;508136
+79;SK0108508209;Rovinka;Rovinka;Rovinka;508209
+80;SK0108508217;Senec;Senec;Senec;508217
+81;SK0108508276;Tom�ov;Tom�ov;Tom�ov;508276
+82;SK0108508284;Ture�;Ture�;Ture�;508284
+83;SK0108508292;Ve�k� Biel;Ve�k� Biel;Ve�k� Biel;508292
+84;SK0108508331;Vlky;Vlky;Vlky;508331
+85;SK0108545333;Dunajsk� Lu�n�;Dunajsk� Lu�n�;Dunajsk� Lu�n�;545333
+86;SK0108555487;Igram;Igram;Igram;555487
+87;SK0108555495;Kaplna;Kaplna;Kaplna;555495
+88;SK0108555509;Z�lesie;Z�lesie;Z�lesie;555509
+89;SK0108582549;Nov� Svet;Nov� Svet;Nov� Svet;582549
+90;SK0211501433;Dunajsk� Streda;Dunajsk� Streda;Dunajsk� Streda;501433
+91;SK0211501441;B��;B��;B��;501441
+92;SK0211501450;Baka;Baka;Baka;501450
+93;SK0211501468;Balo�;Balo�;Balo�;501468
+94;SK0211501484;Blahov�;Blahov�;Blahov�;501484
+95;SK0211501492;Blatn� na Ostrove;Blatn� na Ostrove;Blatn� na Ostrove;501492
+96;SK0211501506;Bohe�ov;Bohe�ov;Bohe�ov;501506
+97;SK0211501514;�akany;�akany;�akany;501514
+98;SK0211501522;Ve�k� Meder;Ve�k� Meder;Ve�k� Meder;501522
+99;SK0211501531;�ili�sk� Radva�;�ili�sk� Radva�;�ili�sk� Radva�;501531
+100;SK0211501549;Dobroho��;Dobroho��;Dobroho��;501549
+101;SK0211501557;Doln� Bar;Doln� Bar;Doln� Bar;501557
+102;SK0211501573;Gab��kovo;Gab��kovo;Gab��kovo;501573
+103;SK0211501581;Holice;Holice;Holice;501581
+104;SK0211501590;Horn� Pot��;Horn� Pot��;Horn� Pot��;501590
+105;SK0211501603;Horn� Bar;Horn� Bar;Horn� Bar;501603
+106;SK0211501611;Doln� �t�l;Doln� �t�l;Doln� �t�l;501611
+107;SK0211501620;Hubice;Hubice;Hubice;501620
+108;SK0211501638;Hviezdoslavov;Hviezdoslavov;Hviezdoslavov;501638
+109;SK0211501654;Jahodn�;Jahodn�;Jahodn�;501654
+110;SK0211501662;Jan�ky;Jan�ky;Jan�ky;501662
+111;SK0211501671;Jurov�;Jurov�;Jurov�;501671
+112;SK0211501689;K���ovec;K���ovec;K���ovec;501689
+113;SK0211501697;Kostoln� Kra�any;Kostoln� Kra�any;Kostoln� Kra�any;501697
+114;SK0211501701;Kr�ovi�ove Kra�any;Kr�ovi�ove Kra�any;Kr�ovi�ove Kra�any;501701
+115;SK0211501719;K�tniky;K�tniky;K�tniky;501719
+116;SK0211501727;Kvetoslavov;Kvetoslavov;Kvetoslavov;501727
+117;SK0211501735;Lehnice;Lehnice;Lehnice;501735
+118;SK0211501743;L�� na Ostrove;L�� na Ostrove;L�� na Ostrove;501743
+119;SK0211501760;Medve�ov;Medve�ov;Medve�ov;501760
+120;SK0211501778;Mierovo;Mierovo;Mierovo;501778
+121;SK0211501786;Michal na Ostrove;Michal na Ostrove;Michal na Ostrove;501786
+122;SK0211501808;Nov� �ivot;Nov� �ivot;Nov� �ivot;501808
+123;SK0211501816;Ohrady;Ohrady;Ohrady;501816
+124;SK0211501824;Oko�;Oko�;Oko�;501824
+125;SK0211501832;O�dza;O�dza;O�dza;501832
+126;SK0211501859;Orechov� Pot��;Orechov� Pot��;Orechov� Pot��;501859
+127;SK0211501867;Pad��;Pad��;Pad��;501867
+128;SK0211501875;Sap;Sap;Sap;501875
+129;SK0211501883;Pata�;Pata�;Pata�;501883
+130;SK0211501891;Rohovce;Rohovce;Rohovce;501891
+131;SK0211501905;�amor�n;�amor�n;�amor�n;501905
+132;SK0211501913;�tvrtok na Ostrove;�tvrtok na Ostrove;�tvrtok na Ostrove;501913
+133;SK0211501921;Topo�n�ky;Topo�n�ky;Topo�n�ky;501921
+134;SK0211501930;��rad;��rad;��rad;501930
+135;SK0211501956;Trn�vka;Trn�vka;Trn�vka;501956
+136;SK0211501964;Trsten� na Ostrove;Trsten� na Ostrove;Trsten� na Ostrove;501964
+137;SK0211501972;Ve�k� Paka;Ve�k� Paka;Ve�k� Paka;501972
+138;SK0211501981;Ve�k� Blahovo;Ve�k� Blahovo;Ve�k� Blahovo;501981
+139;SK0211501999;Vojka nad Dunajom;Vojka nad Dunajom;Vojka nad Dunajom;501999
+140;SK0211502006;Vrak��;Vrak��;Vrak��;502006
+141;SK0211502014;Vydrany;Vydrany;Vydrany;502014
+142;SK0211502022;Zlat� Klasy;Zlat� Klasy;Zlat� Klasy;502022
+143;SK0211503461;Bod�ky;Bod�ky;Bod�ky;503461
+144;SK0211555517;Bellova Ves;Bellova Ves;Bellova Ves;555517
+145;SK0211555541;Dunajsk� Kl�tov;Dunajsk� Kl�tov;Dunajsk� Kl�tov;555541
+146;SK0211555568;Horn� M�to;Horn� M�to;Horn� M�to;555568
+147;SK0211555576;Trhov� Hradsk�;Trhov� Hradsk�;Trhov� Hradsk�;555576
+148;SK0211555606;Macov;Macov;Macov;555606
+149;SK0211555649;Mad;Mad;Mad;555649
+150;SK0211555665;Mal� Dvorn�ky;Mal� Dvorn�ky;Mal� Dvorn�ky;555665
+151;SK0211555673;Ve�k� Dvorn�ky;Ve�k� Dvorn�ky;Ve�k� Dvorn�ky;555673
+152;SK0211555720;Povoda;Povoda;Povoda;555720
+153;SK0211555746;Vieska;Vieska;Vieska;555746
+154;SK0211580554;�enkovce;�enkovce;�enkovce;580554
+155;SK0211580597;Kyselica;Kyselica;Kyselica;580597
+156;SK0211582522;Pot�nske L�ky;Pot�nske L�ky;Pot�nske L�ky;582522
+157;SK0212503665;Galanta;Galanta;Galanta;503665
+158;SK0212503673;Abrah�m;Abrah�m;Abrah�m;503673
+159;SK0212503690;�ierna Voda;�ierna Voda;�ierna Voda;503690
+160;SK0212503703;�ierny Brod;�ierny Brod;�ierny Brod;503703
+161;SK0212503746;Doln� Saliby;Doln� Saliby;Doln� Saliby;503746
+162;SK0212503754;Doln� Chot�r;Doln� Chot�r;Doln� Chot�r;503754
+163;SK0212503762;G��;G��;G��;503762
+164;SK0212503771;Horn� Saliby;Horn� Saliby;Horn� Saliby;503771
+165;SK0212503789;Hoste;Hoste;Hoste;503789
+166;SK0212503827;J�novce;J�novce;J�novce;503827
+167;SK0212503835;Jelka;Jelka;Jelka;503835
+168;SK0212503843;Kajal;Kajal;Kajal;503843
+169;SK0212503860;Ko��ty;Ko��ty;Ko��ty;503860
+170;SK0212503878;Kr�ov Brod;Kr�ov Brod;Kr�ov Brod;503878
+171;SK0212503924;Mostov�;Mostov�;Mostov�;503924
+172;SK0212503959;Pata;Pata;Pata;503959
+173;SK0212503967;Pust� Sady;Pust� Sady;Pust� Sady;503967
+174;SK0212503975;Pust� ھany;Pust� ھany;Pust� ھany;503975
+175;SK0212504009;Sere�;Sere�;Sere�;504009
+176;SK0212504017;Sl�dkovi�ovo;Sl�dkovi�ovo;Sl�dkovi�ovo;504017
+177;SK0212504033;�algo�ka;�algo�ka;�algo�ka;504033
+178;SK0212504041;�intava;�intava;�intava;504041
+179;SK0212504050;�opor�a;�opor�a;�opor�a;504050
+180;SK0212504076;Tom�ikovo;Tom�ikovo;Tom�ikovo;504076
+181;SK0212504084;Topo�nica;Topo�nica;Topo�nica;504084
+182;SK0212504106;Trstice;Trstice;Trstice;504106
+183;SK0212504114;V�hovce;V�hovce;V�hovce;504114
+184;SK0212504122;Ve�k� Ma�a;Ve�k� Ma�a;Ve�k� Ma�a;504122
+185;SK0212504131;Ve�k� ھany;Ve�k� ھany;Ve�k� ھany;504131
+186;SK0212504149;Ve�k� Grob;Ve�k� Grob;Ve�k� Grob;504149
+187;SK0212504157;Vinohrady nad V�hom;Vinohrady nad V�hom;Vinohrady nad V�hom;504157
+188;SK0212504173;Vozokany;Vozokany;Vozokany;504173
+189;SK0212504181;Zemianske Sady;Zemianske Sady;Zemianske Sady;504181
+190;SK0212555754;Mat��kovo;Mat��kovo;Mat��kovo;555754
+191;SK0212555789;Doln� Streda;Doln� Streda;Doln� Streda;555789
+192;SK0212582638;Mal� Ma�a;Mal� Ma�a;Mal� Ma�a;582638
+193;SK0213506800;Bojni�ky;Bojni�ky;Bojni�ky;506800
+194;SK0213506885;�erven�k;�erven�k;�erven�k;506885
+195;SK0213506958;Doln� Otrokovce;Doln� Otrokovce;Doln� Otrokovce;506958
+196;SK0213506966;Doln� Trhovi�te;Doln� Trhovi�te;Doln� Trhovi�te;506966
+197;SK0213507024;Dvorn�ky;Dvorn�ky;Dvorn�ky;507024
+198;SK0213507032;Hlohovec;Hlohovec;Hlohovec;507032
+199;SK0213507075;Horn� Otrokovce;Horn� Otrokovce;Horn� Otrokovce;507075
+200;SK0213507130;Jal�ov�;Jal�ov�;Jal�ov�;507130
+201;SK0213507172;K�a�any;K�a�any;K�a�any;507172
+202;SK0213507202;Koplotovce;Koplotovce;Koplotovce;507202
+203;SK0213507253;Leopoldov;Leopoldov;Leopoldov;507253
+204;SK0213507288;Madunice;Madunice;Madunice;507288
+205;SK0213507326;Mera�ice;Mera�ice;Mera�ice;507326
+206;SK0213507415;Pastuchov;Pastuchov;Pastuchov;507415
+207;SK0213507521;Sasinkovo;Sasinkovo;Sasinkovo;507521
+208;SK0213507539;Siladice;Siladice;Siladice;507539
+209;SK0213507661;Trakovice;Trakovice;Trakovice;507661
+210;SK0213507792;�lkovce;�lkovce;�lkovce;507792
+211;SK0213518620;Ratkovce;Ratkovce;Ratkovce;518620
+212;SK0213556521;Doln� Zelenice;Doln� Zelenice;Doln� Zelenice;556521
+213;SK0213556530;Horn� Zelenice;Horn� Zelenice;Horn� Zelenice;556530
+214;SK0213556602;Horn� Trhovi�te;Horn� Trhovi�te;Horn� Trhovi�te;556602
+215;SK0213556611;Tekol�any;Tekol�any;Tekol�any;556611
+216;SK0213556645;Tepli�ky;Tepli�ky;Tepli�ky;556645
+217;SK0214506834;Borovce;Borovce;Borovce;506834
+218;SK0214506982;Doln� Lopa�ov;Doln� Lopa�ov;Doln� Lopa�ov;506982
+219;SK0214506991;Drahovce;Drahovce;Drahovce;506991
+220;SK0214507008;Dubovany;Dubovany;Dubovany;507008
+221;SK0214507121;Chtelnica;Chtelnica;Chtelnica;507121
+222;SK0214507199;Ko��n-Lan��r;Ko��n-Lan��r;Ko��n-Lan��r;507199
+223;SK0214507229;Krakovany;Krakovany;Krakovany;507229
+224;SK0214507342;Moravany nad V�hom;Moravany nad V�hom;Moravany nad V�hom;507342
+225;SK0214507369;Ni�n�;Ni�n�;Ni�n�;507369
+226;SK0214507385;Ostrov;Ostrov;Ostrov;507385
+227;SK0214507431;Pe�e�ady;Pe�e�ady;Pe�e�ady;507431
+228;SK0214507440;Pie��any;Pie��any;Pie��any;507440
+229;SK0214507466;Pra�n�k;Pra�n�k;Pra�n�k;507466
+230;SK0214507482;Rakovice;Rakovice;Rakovice;507482
+231;SK0214507491;Ratnovce;Ratnovce;Ratnovce;507491
+232;SK0214507563;Sokolovce;Sokolovce;Sokolovce;507563
+233;SK0214507679;Trebatice;Trebatice;Trebatice;507679
+234;SK0214507709;Ve�k� Kosto�any;Ve�k� Kosto�any;Ve�k� Kosto�any;507709
+235;SK0214507725;Vesel�;Vesel�;Vesel�;507725
+236;SK0214507750;Vrbov�;Vrbov�;Vrbov�;507750
+237;SK0214556548;�terusy;�terusy;�terusy;556548
+238;SK0214556572;Ve�k� Orvi�te;Ve�k� Orvi�te;Ve�k� Orvi�te;556572
+239;SK0214556581;Hubina;Hubina;Hubina;556581
+240;SK0214558338;Ducov�;Ducov�;Ducov�;558338
+241;SK0214558354;Ba�ovce;Ba�ovce;Ba�ovce;558354
+242;SK0214558397;��pkov�;��pkov�;��pkov�;558397
+243;SK0214581399;Banka;Banka;Banka;581399
+244;SK0215504203;Senica;Senica;Senica;504203
+245;SK0215504211;B�lkove Humence;B�lkove Humence;B�lkove Humence;504211
+246;SK0215504220;Borsk� Sv�t� Jur;Borsk� Sv�t� Jur;Borsk� Sv�t� Jur;504220
+247;SK0215504238;Borsk� Mikul�;Borsk� Mikul�;Borsk� Mikul�;504238
+248;SK0215504297;Cerov�;Cerov�;Cerov�;504297
+249;SK0215504319;��ry;��ry;��ry;504319
+250;SK0215504327;�astkov;�astkov;�astkov;504327
+251;SK0215504335;Doj�;Doj�;Doj�;504335
+252;SK0215504360;Hlbok�;Hlbok�;Hlbok�;504360
+253;SK0215504386;Hradi�te pod Vr�tnom;Hradi�te pod Vr�tnom;Hradi�te pod Vr�tnom;504386
+254;SK0215504416;Jablonica;Jablonica;Jablonica;504416
+255;SK0215504475;Kov�lov;Kov�lov;Kov�lov;504475
+256;SK0215504491;Kuklov;Kuklov;Kuklov;504491
+257;SK0215504513;K�ty;K�ty;K�ty;504513
+258;SK0215504521;Lak��rska Nov� Ves;Lak��rska Nov� Ves;Lak��rska Nov� Ves;504521
+259;SK0215504572;Moravsk� Sv�t� J�n;Moravsk� Sv�t� J�n;Moravsk� Sv�t� J�n;504572
+260;SK0215504602;Osusk�;Osusk�;Osusk�;504602
+261;SK0215504645;Plaveck� Peter;Plaveck� Peter;Plaveck� Peter;504645
+262;SK0215504653;Podbran�;Podbran�;Podbran�;504653
+263;SK0215504700;Prietr�;Prietr�;Prietr�;504700
+264;SK0215504726;Prievaly;Prievaly;Prievaly;504726
+265;SK0215504777;Rovensko;Rovensko;Rovensko;504777
+266;SK0215504823;Smolinsk�;Smolinsk�;Smolinsk�;504823
+267;SK0215504831;Smrd�ky;Smrd�ky;Smrd�ky;504831
+268;SK0215504840;Soboti�te;Soboti�te;Soboti�te;504840
+269;SK0215504882;�ajd�kove Humence;�ajd�kove Humence;�ajd�kove Humence;504882
+270;SK0215504891;�a�t�n-Str�e;�a�t�n-Str�e;�a�t�n-Str�e;504891
+271;SK0215504904;�tefanov;�tefanov;�tefanov;504904
+272;SK0215556114;Sekule;Sekule;Sekule;556114
+273;SK0215556122;Rohov;Rohov;Rohov;556122
+274;SK0215556131;Rybky;Rybky;Rybky;556131
+275;SK0216504271;Brodsk�;Brodsk�;Brodsk�;504271
+276;SK0216504343;Dubovce;Dubovce;Dubovce;504343
+277;SK0216504351;Gbely;Gbely;Gbely;504351
+278;SK0216504378;Hol��;Hol��;Hol��;504378
+279;SK0216504394;Chropov;Chropov;Chropov;504394
+280;SK0216504432;K�tov;K�tov;K�tov;504432
+281;SK0216504459;Kop�any;Kop�any;Kop�any;504459
+282;SK0216504483;Kov�lovec;Kov�lovec;Kov�lovec;504483
+283;SK0216504530;Letni�ie;Letni�ie;Letni�ie;504530
+284;SK0216504548;Lopa�ov;Lopa�ov;Lopa�ov;504548
+285;SK0216504564;Mokr� H�j;Mokr� H�j;Mokr� H�j;504564
+286;SK0216504599;Oresk�;Oresk�;Oresk�;504599
+287;SK0216504611;Petrova Ves;Petrova Ves;Petrova Ves;504611
+288;SK0216504670;Popudinsk� Mo�id�any;Popudinsk� Mo�id�any;Popudinsk� Mo�id�any;504670
+289;SK0216504718;Prietr�ka;Prietr�ka;Prietr�ka;504718
+290;SK0216504734;Radimov;Radimov;Radimov;504734
+291;SK0216504742;Rado�ovce;Rado�ovce;Rado�ovce;504742
+292;SK0216504815;Skalica;Skalica;Skalica;504815
+293;SK0216504912;Trnovec;Trnovec;Trnovec;504912
+294;SK0216504939;Un�n;Un�n;Un�n;504939
+295;SK0216504963;Vr�di�te;Vr�di�te;Vr�di�te;504963
+296;SK0217506745;Trnava;Trnava;Trnava;506745
+297;SK0217506788;B��ovce;B��ovce;B��ovce;506788
+298;SK0217506796;Bohdanovce nad Trnavou;Bohdanovce nad Trnavou;Bohdanovce nad Trnavou;506796
+299;SK0217506818;Boler�z;Boler�z;Boler�z;506818
+300;SK0217506826;Borov�;Borov�;Borov�;506826
+301;SK0217506842;Brestovany;Brestovany;Brestovany;506842
+302;SK0217506851;Bu�any;Bu�any;Bu�any;506851
+303;SK0217506869;Bukov�;Bukov�;Bukov�;506869
+304;SK0217506877;C�fer;C�fer;C�fer;506877
+305;SK0217506893;Dechtice;Dechtice;Dechtice;506893
+306;SK0217506915;Dobr� Voda;Dobr� Voda;Dobr� Voda;506915
+307;SK0217506923;Doln� Krup�;Doln� Krup�;Doln� Krup�;506923
+308;SK0217506931;Doln� Dubov�;Doln� Dubov�;Doln� Dubov�;506931
+309;SK0217506940;Doln� Ore�any;Doln� Ore�any;Doln� Ore�any;506940
+310;SK0217507041;Horn� Krup�;Horn� Krup�;Horn� Krup�;507041
+311;SK0217507059;Horn� Dubov�;Horn� Dubov�;Horn� Dubov�;507059
+312;SK0217507067;Horn� Ore�any;Horn� Ore�any;Horn� Ore�any;507067
+313;SK0217507156;Jaslovsk� Bohunice;Jaslovsk� Bohunice;Jaslovsk� Bohunice;507156
+314;SK0217507164;K�tlovce;K�tlovce;K�tlovce;507164
+315;SK0217507211;Ko�oln�;Ko�oln�;Ko�oln�;507211
+316;SK0217507296;Majcichov;Majcichov;Majcichov;507296
+317;SK0217507318;Mal�enice;Mal�enice;Mal�enice;507318
+318;SK0217507351;Nah��;Nah��;Nah��;507351
+319;SK0217507512;Ru�indol;Ru�indol;Ru�indol;507512
+320;SK0217507555;Smolenice;Smolenice;Smolenice;507555
+321;SK0217507571;Such� nad Parnou;Such� nad Parnou;Such� nad Parnou;507571
+322;SK0217507601;�pa�ince;�pa�ince;�pa�ince;507601
+323;SK0217507636;��rovce;��rovce;��rovce;507636
+324;SK0217507687;Trst�n;Trst�n;Trst�n;507687
+325;SK0217507741;Voderady;Voderady;Voderady;507741
+326;SK0217507768;Zavar;Zavar;Zavar;507768
+327;SK0217507776;Zelene�;Zelene�;Zelene�;507776
+328;SK0217556483;Kri�ovany nad Dudv�hom;Kri�ovany nad Dudv�hom;Kri�ovany nad Dudv�hom;556483
+329;SK0217556491;Opoj;Opoj;Opoj;556491
+330;SK0217556513;Vl�kovce;Vl�kovce;Vl�kovce;556513
+331;SK0217556556;Pavlice;Pavlice;Pavlice;556556
+332;SK0217556564;Slovensk� Nov� Ves;Slovensk� Nov� Ves;Slovensk� Nov� Ves;556564
+333;SK0217556599;Dlh�;Dlh�;Dlh�;556599
+334;SK0217556653;Rado�ovce;Rado�ovce;Rado�ovce;556653
+335;SK0217556661;Doln� Lov�ice;Doln� Lov�ice;Doln� Lov�ice;556661
+336;SK0217556670;�elpice;�elpice;�elpice;556670
+337;SK0217556688;Lo�onec;Lo�onec;Lo�onec;556688
+338;SK0217580473;Biely Kostol;Biely Kostol;Biely Kostol;580473
+339;SK0217581020;Hrn�iarovce nad Parnou;Hrn�iarovce nad Parnou;Hrn�iarovce nad Parnou;581020
+340;SK0217581488;Zvon��n;Zvon��n;Zvon��n;581488
+341;SK0221505056;�utov;�utov;�utov;505056
+342;SK0221505072;Mal� Hradn�;Mal� Hradn�;Mal� Hradn�;505072
+343;SK0221505102;Mal� Hoste;Mal� Hoste;Mal� Hoste;505102
+344;SK0221505153;Miezgovce;Miezgovce;Miezgovce;505153
+345;SK0221505200;Neda�ovce;Neda�ovce;Neda�ovce;505200
+346;SK0221505277;Omastin�;Omastin�;Omastin�;505277
+347;SK0221505331;Pe�e�any;Pe�e�any;Pe�e�any;505331
+348;SK0221505358;Podlu�any;Podlu�any;Podlu�any;505358
+349;SK0221505382;Pravotice;Pravotice;Pravotice;505382
+350;SK0221505412;Prusy;Prusy;Prusy;505412
+351;SK0221505447;Ruskovce;Ruskovce;Ruskovce;505447
+352;SK0221505455;Rybany;Rybany;Rybany;505455
+353;SK0221505471;Slatina nad Bebravou;Slatina nad Bebravou;Slatina nad Bebravou;505471
+354;SK0221505480;Slatinka nad Bebravou;Slatinka nad Bebravou;Slatinka nad Bebravou;505480
+355;SK0221505544;��pkov;��pkov;��pkov;505544
+356;SK0221505552;�i�ov;�i�ov;�i�ov;505552
+357;SK0221505579;Timoradza;Timoradza;Timoradza;505579
+358;SK0221505595;Trebichava;Trebichava;Trebichava;505595
+359;SK0221505625;Uhrovec;Uhrovec;Uhrovec;505625
+360;SK0221505633;Uhrovsk� Podhradie;Uhrovsk� Podhradie;Uhrovsk� Podhradie;505633
+361;SK0221505684;Ve�k� Hoste;Ve�k� Hoste;Ve�k� Hoste;505684
+362;SK0221505692;Ve�k� Chlievany;Ve�k� Chlievany;Ve�k� Chlievany;505692
+363;SK0221505765;Vyso�any;Vyso�any;Vyso�any;505765
+364;SK0221505790;Zlatn�ky;Zlatn�ky;Zlatn�ky;505790
+365;SK0221505811;�itn�-Radi�a;�itn�-Radi�a;�itn�-Radi�a;505811
+366;SK0221542652;B�novce nad Bebravou;B�novce nad Bebravou;B�novce nad Bebravou;542652
+367;SK0221542741;Brezolupy;Brezolupy;Brezolupy;542741
+368;SK0221542776;Cimenn�;Cimenn�;Cimenn�;542776
+369;SK0221542806;�ierna Lehota;�ierna Lehota;�ierna Lehota;542806
+370;SK0221542822;De�erice;De�erice;De�erice;542822
+371;SK0221542849;Doln� Na�tice;Doln� Na�tice;Doln� Na�tice;542849
+372;SK0221542857;Dubni�ka;Dubni�ka;Dubni�ka;542857
+373;SK0221542873;Dvorec;Dvorec;Dvorec;542873
+374;SK0221542890;Hal��ovce;Hal��ovce;Hal��ovce;542890
+375;SK0221542920;Horn� Na�tice;Horn� Na�tice;Horn� Na�tice;542920
+376;SK0221543080;Kr�sna Ves;Kr�sna Ves;Kr�sna Ves;543080
+377;SK0221543136;K�inn�;K�inn�;K�inn�;543136
+378;SK0221545651;Ve�k� Dr�kovce;Ve�k� Dr�kovce;Ve�k� Dr�kovce;545651
+379;SK0221556289;Otrh�nky;Otrh�nky;Otrh�nky;556289
+380;SK0221556360;Libichava;Libichava;Libichava;556360
+381;SK0221556408;Chud� Lehota;Chud� Lehota;Chud� Lehota;556408
+382;SK0221556742;Pochabany;Pochabany;Pochabany;556742
+383;SK0221556793;Bor�any;Bor�any;Bor�any;556793
+384;SK0222512885;Bole�ov;Bole�ov;Bole�ov;512885
+385;SK0222512931;�erven� Kame�;�erven� Kame�;�erven� Kame�;512931
+386;SK0222513016;Dubnica nad V�hom;Dubnica nad V�hom;Dubnica nad V�hom;513016
+387;SK0222513024;Dulov;Dulov;Dulov;513024
+388;SK0222513091;Horn� Poruba;Horn� Poruba;Horn� Poruba;513091
+389;SK0222513156;Ilava;Ilava;Ilava;513156
+390;SK0222513253;Ko�eca;Ko�eca;Ko�eca;513253
+391;SK0222513296;Ladce;Ladce;Ladce;513296
+392;SK0222513351;Ko�eck� Podhradie;Ko�eck� Podhradie;Ko�eck� Podhradie;513351
+393;SK0222513385;Miku�ovce;Miku�ovce;Miku�ovce;513385
+394;SK0222513440;Nov� Dubnica;Nov� Dubnica;Nov� Dubnica;513440
+395;SK0222513598;Prusk�;Prusk�;Prusk�;513598
+396;SK0222513725;Tuchy�a;Tuchy�a;Tuchy�a;513725
+397;SK0222513865;Zliechov;Zliechov;Zliechov;513865
+398;SK0222557391;Bor�ice;Bor�ice;Bor�ice;557391
+399;SK0222557404;Kameni�any;Kameni�any;Kameni�any;557404
+400;SK0222557412;Sedmerovec;Sedmerovec;Sedmerovec;557412
+401;SK0222557421;Slavnica;Slavnica;Slavnica;557421
+402;SK0222557617;Krivokl�t;Krivokl�t;Krivokl�t;557617
+403;SK0222557625;Vr�atsk� Podhradie;Vr�atsk� Podhradie;Vr�atsk� Podhradie;557625
+404;SK0222582301;Bohunice;Bohunice;Bohunice;582301
+405;SK0223504254;Brestovec;Brestovec;Brestovec;504254
+406;SK0223504262;Brezov� pod Bradlom;Brezov� pod Bradlom;Brezov� pod Bradlom;504262
+407;SK0223504289;Bukovec;Bukovec;Bukovec;504289
+408;SK0223504408;Chvojnica;Chvojnica;Chvojnica;504408
+409;SK0223504424;Jablonka;Jablonka;Jablonka;504424
+410;SK0223504467;Ko�arisk�;Ko�arisk�;Ko�arisk�;504467
+411;SK0223504581;Myjava;Myjava;Myjava;504581
+412;SK0223504661;Polianka;Polianka;Polianka;504661
+413;SK0223504688;Poriadie;Poriadie;Poriadie;504688
+414;SK0223504696;Priepasn�;Priepasn�;Priepasn�;504696
+415;SK0223504793;Rudn�k;Rudn�k;Rudn�k;504793
+416;SK0223504866;Star� Myjava;Star� Myjava;Star� Myjava;504866
+417;SK0223504971;Vrbovce;Vrbovce;Vrbovce;504971
+418;SK0223506079;Hra�n�;Hra�n�;Hra�n�;506079
+419;SK0223506141;Kostoln�;Kostoln�;Kostoln�;506141
+420;SK0223506150;Krajn�;Krajn�;Krajn�;506150
+421;SK0223506419;Podkylava;Podkylava;Podkylava;506419
+422;SK0224505846;Beckov;Beckov;Beckov;505846
+423;SK0224505871;Bo��ca;Bo��ca;Bo��ca;505871
+424;SK0224505889;Brunovce;Brunovce;Brunovce;505889
+425;SK0224505897;Bzince pod Javorinou;Bzince pod Javorinou;Bzince pod Javorinou;505897
+426;SK0224505901;�achtice;�achtice;�achtice;505901
+427;SK0224505919;�astkovce;�astkovce;�astkovce;505919
+428;SK0224505951;Doln� Srnie;Doln� Srnie;Doln� Srnie;505951
+429;SK0224505994;H�rka nad V�hom;H�rka nad V�hom;H�rka nad V�hom;505994
+430;SK0224506001;Horn� Streda;Horn� Streda;Horn� Streda;506001
+431;SK0224506052;Hr�dok;Hr�dok;Hr�dok;506052
+432;SK0224506061;Hrachovi�te;Hrachovi�te;Hrachovi�te;506061
+433;SK0224506109;K�lnica;K�lnica;K�lnica;506109
+434;SK0224506125;Ko�ovce;Ko�ovce;Ko�ovce;506125
+435;SK0224506184;Lubina;Lubina;Lubina;506184
+436;SK0224506206;L�ka;L�ka;L�ka;506206
+437;SK0224506249;Modrov�;Modrov�;Modrov�;506249
+438;SK0224506257;Modrovka;Modrovka;Modrovka;506257
+439;SK0224506265;Moravsk� Lieskov�;Moravsk� Lieskov�;Moravsk� Lieskov�;506265
+440;SK0224506303;Nov� Bo��ca;Nov� Bo��ca;Nov� Bo��ca;506303
+441;SK0224506311;Nov� Lehota;Nov� Lehota;Nov� Lehota;506311
+442;SK0224506338;Nov� Mesto nad V�hom;Nov� Mesto nad V�hom;Nov� Mesto nad V�hom;506338
+443;SK0224506346;O�kov;O�kov;O�kov;506346
+444;SK0224506401;Pobedim;Pobedim;Pobedim;506401
+445;SK0224506427;Podolie;Podolie;Podolie;506427
+446;SK0224506435;Potvorice;Potvorice;Potvorice;506435
+447;SK0224506443;Pova�any;Pova�any;Pova�any;506443
+448;SK0224506516;Star� Lehota;Star� Lehota;Star� Lehota;506516
+449;SK0224506524;Star� Tur�;Star� Tur�;Star� Tur�;506524
+450;SK0224506583;Tren�ianske Bohuslavice;Tren�ianske Bohuslavice;Tren�ianske Bohuslavice;506583
+451;SK0224506630;Va�ovce;Va�ovce;Va�ovce;506630
+452;SK0224506672;Vi��ov�;Vi��ov�;Vi��ov�;506672
+453;SK0224556424;Haluzice;Haluzice;Haluzice;556424
+454;SK0224556441;Zemianske Podhradie;Zemianske Podhradie;Zemianske Podhradie;556441
+455;SK0224556459;Nov� Ves nad V�hom;Nov� Ves nad V�hom;Nov� Ves nad V�hom;556459
+456;SK0225505129;Mal� Kr�te�any;Mal� Kr�te�any;Mal� Kr�te�any;505129
+457;SK0225505170;Nadlice;Nadlice;Nadlice;505170
+458;SK0225505196;Nedanovce;Nedanovce;Nedanovce;505196
+459;SK0225505307;Ostratice;Ostratice;Ostratice;505307
+460;SK0225505315;Partiz�nske;Partiz�nske;Partiz�nske;505315
+461;SK0225505323;Pa�i�;Pa�i�;Pa�i�;505323
+462;SK0225505463;Ska�any;Ska�any;Ska�any;505463
+463;SK0225505706;Ve�k� Kr�te�any;Ve�k� Kr�te�any;Ve�k� Kr�te�any;505706
+464;SK0225505722;Ve�k� Uherce;Ve�k� Uherce;Ve�k� Uherce;505722
+465;SK0225505731;Ve�k� Kl�;Ve�k� Kl�;Ve�k� Kl�;505731
+466;SK0225505803;�abokreky nad Nitrou;�abokreky nad Nitrou;�abokreky nad Nitrou;505803
+467;SK0225542733;Bo�any;Bo�any;Bo�any;542733
+468;SK0225542962;Hradi�te;Hradi�te;Hradi�te;542962
+469;SK0225543004;Chynorany;Chynorany;Chynorany;543004
+470;SK0225543047;Kl�tova Nov� Ves;Kl�tova Nov� Ves;Kl�tova Nov� Ves;543047
+471;SK0225543055;Kola�no;Kola�no;Kola�no;543055
+472;SK0225556173;Livina;Livina;Livina;556173
+473;SK0225556190;Livinsk� Opatovce;Livinsk� Opatovce;Livinsk� Opatovce;556190
+474;SK0225556246;Kr�sno;Kr�sno;Kr�sno;556246
+475;SK0225556271;Tur�ianky;Tur�ianky;Tur�ianky;556271
+476;SK0225556416;Je�kova Ves;Je�kova Ves;Je�kova Ves;556416
+477;SK0225580449;Brodzany;Brodzany;Brodzany;580449
+478;SK0225580953;Mal� Uherce;Mal� Uherce;Mal� Uherce;580953
+479;SK0226512842;Pova�sk� Bystrica;Pova�sk� Bystrica;Pova�sk� Bystrica;512842
+480;SK0226512915;Brvni�te;Brvni�te;Brvni�te;512915
+481;SK0226512966;Doln� Marikov�;Doln� Marikov�;Doln� Marikov�;512966
+482;SK0226513008;Domani�a;Domani�a;Domani�a;513008
+483;SK0226513083;Horn� Marikov�;Horn� Marikov�;Horn� Marikov�;513083
+484;SK0226513172;Jasenica;Jasenica;Jasenica;513172
+485;SK0226513245;Kostolec;Kostolec;Kostolec;513245
+486;SK0226513466;Papradno;Papradno;Papradno;513466
+487;SK0226513474;Plevn�k-Drienov�;Plevn�k-Drienov�;Plevn�k-Drienov�;513474
+488;SK0226513563;Pre��n;Pre��n;Pre��n;513563
+489;SK0226513601;Pru�ina;Pru�ina;Pru�ina;513601
+490;SK0226513687;Stupn�;Stupn�;Stupn�;513687
+491;SK0226513741;Udi�a;Udi�a;Udi�a;513741
+492;SK0226513784;Vrchtepl�;Vrchtepl�;Vrchtepl�;513784
+493;SK0226513822;Z�skalie;Z�skalie;Z�skalie;513822
+494;SK0226518913;Sverepec;Sverepec;Sverepec;518913
+495;SK0226546640;Doln� Lieskov;Doln� Lieskov;Doln� Lieskov;546640
+496;SK0226557480;Slopn�;Slopn�;Slopn�;557480
+497;SK0226557510;Hatn�;Hatn�;Hatn�;557510
+498;SK0226557552;Klie�tina;Klie�tina;Klie�tina;557552
+499;SK0226557561;�elkova Lehota;�elkova Lehota;�elkova Lehota;557561
+500;SK0226557579;Mal� Lednice;Mal� Lednice;Mal� Lednice;557579
+501;SK0226557595;S�do�n�;S�do�n�;S�do�n�;557595
+502;SK0226557609;�ur�ov�;�ur�ov�;�ur�ov�;557609
+503;SK0226557633;Bodin�;Bodin�;Bodin�;557633
+504;SK0226558222;Po�arov�;Po�arov�;Po�arov�;558222
+505;SK0226580856;Horn� Lieskov;Horn� Lieskov;Horn� Lieskov;580856
+506;SK0226580864;Podskalie;Podskalie;Podskalie;580864
+507;SK0227513881;Prievidza;Prievidza;Prievidza;513881
+508;SK0227513903;Bojnice;Bojnice;Bojnice;513903
+509;SK0227513911;Bystri�any;Bystri�any;Bystri�any;513911
+510;SK0227513920;Cige�;Cige�;Cige�;513920
+511;SK0227513938;�avoj;�avoj;�avoj;513938
+512;SK0227513946;�ere�any;�ere�any;�ere�any;513946
+513;SK0227513954;Diviacka Nov� Ves;Diviacka Nov� Ves;Diviacka Nov� Ves;513954
+514;SK0227513962;Diviaky nad Nitricou;Diviaky nad Nitricou;Diviaky nad Nitricou;513962
+515;SK0227513971;Dl��n;Dl��n;Dl��n;513971
+516;SK0227513989;Doln� Vestenice;Doln� Vestenice;Doln� Vestenice;513989
+517;SK0227513997;Handlov�;Handlov�;Handlov�;513997
+518;SK0227514004;Horn� Ves;Horn� Ves;Horn� Ves;514004
+519;SK0227514012;Horn� Vestenice;Horn� Vestenice;Horn� Vestenice;514012
+520;SK0227514021;Chrenovec-Brusno;Chrenovec-Brusno;Chrenovec-Brusno;514021
+521;SK0227514039;Chvojnica;Chvojnica;Chvojnica;514039
+522;SK0227514063;Kamenec pod Vt��nikom;Kamenec pod Vt��nikom;Kamenec pod Vt��nikom;514063
+523;SK0227514071;Kanianka;Kanianka;Kanianka;514071
+524;SK0227514080;K�a�no;K�a�no;K�a�no;514080
+525;SK0227514098;Kocurany;Kocurany;Kocurany;514098
+526;SK0227514101;Kostoln� Ves;Kostoln� Ves;Kostoln� Ves;514101
+527;SK0227514110;Ko�;Ko�;Ko�;514110
+528;SK0227514128;Lazany;Lazany;Lazany;514128
+529;SK0227514136;Lehota pod Vt��nikom;Lehota pod Vt��nikom;Lehota pod Vt��nikom;514136
+530;SK0227514144;Lie��any;Lie��any;Lie��any;514144
+531;SK0227514179;Mal� �ausa;Mal� �ausa;Mal� �ausa;514179
+532;SK0227514187;Malinov�;Malinov�;Malinov�;514187
+533;SK0227514209;Nedo�ery-Brezany;Nedo�ery-Brezany;Nedo�ery-Brezany;514209
+534;SK0227514217;Nevidzany;Nevidzany;Nevidzany;514217
+535;SK0227514225;Nitrianske Pravno;Nitrianske Pravno;Nitrianske Pravno;514225
+536;SK0227514233;Nitrianske Rudno;Nitrianske Rudno;Nitrianske Rudno;514233
+537;SK0227514241;Nitrianske Su�any;Nitrianske Su�any;Nitrianske Su�any;514241
+538;SK0227514250;Nitrica;Nitrica;Nitrica;514250
+539;SK0227514268;Nov�ky;Nov�ky;Nov�ky;514268
+540;SK0227514284;Opatovce nad Nitrou;Opatovce nad Nitrou;Opatovce nad Nitrou;514284
+541;SK0227514292;Oslany;Oslany;Oslany;514292
+542;SK0227514306;Podhradie;Podhradie;Podhradie;514306
+543;SK0227514314;Poluvsie;Poluvsie;Poluvsie;514314
+544;SK0227514322;Poruba;Poruba;Poruba;514322
+545;SK0227514331;Pravenec;Pravenec;Pravenec;514331
+546;SK0227514349;Radobica;Radobica;Radobica;514349
+547;SK0227514357;R�zto�no;R�zto�no;R�zto�no;514357
+548;SK0227514365;Rudnianska Lehota;Rudnianska Lehota;Rudnianska Lehota;514365
+549;SK0227514373;Sebedra�ie;Sebedra�ie;Sebedra�ie;514373
+550;SK0227514381;Se�;Se�;Se�;514381
+551;SK0227514390;��tovce;��tovce;��tovce;514390
+552;SK0227514403;Teme�;Teme�;Teme�;514403
+553;SK0227514411;Tu�ina;Tu�ina;Tu�ina;514411
+554;SK0227514420;Valask� Bel�;Valask� Bel�;Valask� Bel�;514420
+555;SK0227514438;Ve�k� �ausa;Ve�k� �ausa;Ve�k� �ausa;514438
+556;SK0227514454;Zemianske Kosto�any;Zemianske Kosto�any;Zemianske Kosto�any;514454
+557;SK0227557706;Lipn�k;Lipn�k;Lipn�k;557706
+558;SK0227557714;Jalovec;Jalovec;Jalovec;557714
+559;SK0228500348;Zub�k;Zub�k;Zub�k;500348
+560;SK0228512851;Belu�a;Belu�a;Belu�a;512851
+561;SK0228512940;Doh�any;Doh�any;Doh�any;512940
+562;SK0228512958;Doln� Breznica;Doln� Breznica;Doln� Breznica;512958
+563;SK0228513121;Horovce;Horovce;Horovce;513121
+564;SK0228513300;Lazy pod Makytou;Lazy pod Makytou;Lazy pod Makytou;513300
+565;SK0228513318;Lednica;Lednica;Lednica;513318
+566;SK0228513326;Lednick� Rovne;Lednick� Rovne;Lednick� Rovne;513326
+567;SK0228513334;L�ky;L�ky;L�ky;513334
+568;SK0228513342;Lys� pod Makytou;Lys� pod Makytou;Lys� pod Makytou;513342
+569;SK0228513377;Meste�ko;Meste�ko;Meste�ko;513377
+570;SK0228513407;Mojt�n;Mojt�n;Mojt�n;513407
+571;SK0228513610;P�chov;P�chov;P�chov;513610
+572;SK0228513776;Visolaje;Visolaje;Visolaje;513776
+573;SK0228513814;Z�rie�ie;Z�rie�ie;Z�rie�ie;513814
+574;SK0228557439;Doln� Ko�kovce;Doln� Ko�kovce;Doln� Ko�kovce;557439
+575;SK0228557447;Nimnica;Nimnica;Nimnica;557447
+576;SK0228557471;Stre�enice;Stre�enice;Stre�enice;557471
+577;SK0228557498;Vydrn�;Vydrn�;Vydrn�;557498
+578;SK0228557501;Kva�ov;Kva�ov;Kva�ov;557501
+579;SK0228557692;Horn� Breznica;Horn� Breznica;Horn� Breznica;557692
+580;SK0229505820;Tren��n;Tren��n;Tren��n;505820
+581;SK0229505838;Adamovsk� Kochanovce;Adamovsk� Kochanovce;Adamovsk� Kochanovce;505838
+582;SK0229505854;Bobot;Bobot;Bobot;505854
+583;SK0229505935;Doln� Poruba;Doln� Poruba;Doln� Poruba;505935
+584;SK0229505943;Doln� S��a;Doln� S��a;Doln� S��a;505943
+585;SK0229505960;Drietoma;Drietoma;Drietoma;505960
+586;SK0229505978;Dubodiel;Dubodiel;Dubodiel;505978
+587;SK0229506010;Horn� S��a;Horn� S��a;Horn� S��a;506010
+588;SK0229506028;Hor�any;Hor�any;Hor�any;506028
+589;SK0229506036;Horn� Srnie;Horn� Srnie;Horn� Srnie;506036
+590;SK0229506044;Hrabovka;Hrabovka;Hrabovka;506044
+591;SK0229506087;Chocholn�-Vel�ice;Chocholn�-Vel�ice;Chocholn�-Vel�ice;506087
+592;SK0229506095;Ivanovce;Ivanovce;Ivanovce;506095
+593;SK0229506133;Kostoln�-Z�rie�ie;Kostoln�-Z�rie�ie;Kostoln�-Z�rie�ie;506133
+594;SK0229506168;Krivos�d-Bodovka;Krivos�d-Bodovka;Krivos�d-Bodovka;506168
+595;SK0229506231;Mn�chova Lehota;Mn�chova Lehota;Mn�chova Lehota;506231
+596;SK0229506273;Mote�ice;Mote�ice;Mote�ice;506273
+597;SK0229506281;Nem�ov�;Nem�ov�;Nem�ov�;506281
+598;SK0229506290;Neporadza;Neporadza;Neporadza;506290
+599;SK0229506354;Om�enie;Om�enie;Om�enie;506354
+600;SK0229506371;Opatovce;Opatovce;Opatovce;506371
+601;SK0229506478;Selec;Selec;Selec;506478
+602;SK0229506508;Soblahov;Soblahov;Soblahov;506508
+603;SK0229506532;Svinn�;Svinn�;Svinn�;506532
+604;SK0229506541;�tvrtok;�tvrtok;�tvrtok;506541
+605;SK0229506559;Tren�ianska Tepl�;Tren�ianska Tepl�;Tren�ianska Tepl�;506559
+606;SK0229506567;Tren�ianska Turn�;Tren�ianska Turn�;Tren�ianska Turn�;506567
+607;SK0229506591;Tren�ianske Jastrabie;Tren�ianske Jastrabie;Tren�ianske Jastrabie;506591
+608;SK0229506605;Tren�ianske Mitice;Tren�ianske Mitice;Tren�ianske Mitice;506605
+609;SK0229506613;Tren�ianske Teplice;Tren�ianske Teplice;Tren�ianske Teplice;506613
+610;SK0229506648;Ve�k� Hradn�;Ve�k� Hradn�;Ve�k� Hradn�;506648
+611;SK0229506656;Ve�k� Bierovce;Ve�k� Bierovce;Ve�k� Bierovce;506656
+612;SK0229545686;Mel�ice-Lieskov�;Mel�ice-Lieskov�;Mel�ice-Lieskov�;545686
+613;SK0229545741;Tren�ianske Stankovce;Tren�ianske Stankovce;Tren�ianske Stankovce;545741
+614;SK0229546682;Skalka nad V�hom;Skalka nad V�hom;Skalka nad V�hom;546682
+615;SK0229556475;Zamarovce;Zamarovce;Zamarovce;556475
+616;SK0229581348;Petrova Lehota;Petrova Lehota;Petrova Lehota;581348
+617;SK0231501026;Kom�rno;Kom�rno;Kom�rno;501026
+618;SK0231501034;Baj�;Baj�;Baj�;501034
+619;SK0231501042;Bodza;Bodza;Bodza;501042
+620;SK0231501069;Brestovec;Brestovec;Brestovec;501069
+621;SK0231501077;B��;B��;B��;501077
+622;SK0231501085;�alovec;�alovec;�alovec;501085
+623;SK0231501093;���ov;���ov;���ov;501093
+624;SK0231501107;Dedina Ml�de�e;Dedina Ml�de�e;Dedina Ml�de�e;501107
+625;SK0231501115;Sv�t� Peter;Sv�t� Peter;Sv�t� Peter;501115
+626;SK0231501123;Dulovce;Dulovce;Dulovce;501123
+627;SK0231501140;Hurbanovo;Hurbanovo;Hurbanovo;501140
+628;SK0231501158;Chot�n;Chot�n;Chot�n;501158
+629;SK0231501166;Ime�;Ime�;Ime�;501166
+630;SK0231501174;I�a;I�a;I�a;501174
+631;SK0231501182;Kameni�n�;Kameni�n�;Kameni�n�;501182
+632;SK0231501191;Kl�ska Nem�;Kl�ska Nem�;Kl�ska Nem�;501191
+633;SK0231501204;Kol�rovo;Kol�rovo;Kol�rovo;501204
+634;SK0231501212;Kravany nad Dunajom;Kravany nad Dunajom;Kravany nad Dunajom;501212
+635;SK0231501221;Lipov�;Lipov�;Lipov�;501221
+636;SK0231501239;Marcelov�;Marcelov�;Marcelov�;501239
+637;SK0231501247;Martovce;Martovce;Martovce;501247
+638;SK0231501255;Mo�a;Mo�a;Mo�a;501255
+639;SK0231501263;Modrany;Modrany;Modrany;501263
+640;SK0231501271;Mudro�ovo;Mudro�ovo;Mudro�ovo;501271
+641;SK0231501280;Nesvady;Nesvady;Nesvady;501280
+642;SK0231501301;Okoli�n� na Ostrove;Okoli�n� na Ostrove;Okoli�n� na Ostrove;501301
+643;SK0231501310;Patince;Patince;Patince;501310
+644;SK0231501328;Pribeta;Pribeta;Pribeta;501328
+645;SK0231501336;Radva� nad Dunajom;Radva� nad Dunajom;Radva� nad Dunajom;501336
+646;SK0231501344;Sokolce;Sokolce;Sokolce;501344
+647;SK0231501352;�rob�rov�;�rob�rov�;�rob�rov�;501352
+648;SK0231501361;T��;T��;T��;501361
+649;SK0231501379;Tr�vnik;Tr�vnik;Tr�vnik;501379
+650;SK0231501387;Ve�k� Kosihy;Ve�k� Kosihy;Ve�k� Kosihy;501387
+651;SK0231501395;B�torove Kosihy;B�torove Kosihy;B�torove Kosihy;501395
+652;SK0231501409;Vrbov� nad V�hom;Vrbov� nad V�hom;Vrbov� nad V�hom;501409
+653;SK0231501417;Zemianska Ol�a;Zemianska Ol�a;Zemianska Ol�a;501417
+654;SK0231501425;Zlatn� na Ostrove;Zlatn� na Ostrove;Zlatn� na Ostrove;501425
+655;SK0231555819;Bodzianske L�ky;Bodzianske L�ky;Bodzianske L�ky;555819
+656;SK0231555827;Virt;Virt;Virt;555827
+657;SK0231580911;Holiare;Holiare;Holiare;580911
+658;SK0232502031;Levice;Levice;Levice;502031
+659;SK0232502049;Bajka;Bajka;Bajka;502049
+660;SK0232502057;B�tovce;B�tovce;B�tovce;502057
+661;SK0232502065;Be�a;Be�a;Be�a;502065
+662;SK0232502073;Bielovce;Bielovce;Bielovce;502073
+663;SK0232502090;Bory;Bory;Bory;502090
+664;SK0232502103;Brhlovce;Brhlovce;Brhlovce;502103
+665;SK0232502111;�ajkov;�ajkov;�ajkov;502111
+666;SK0232502120;�aka;�aka;�aka;502120
+667;SK0232502154;Demandice;Demandice;Demandice;502154
+668;SK0232502162;Devi�any;Devi�any;Devi�any;502162
+669;SK0232502171;Doln� Se�;Doln� Se�;Doln� Se�;502171
+670;SK0232502189;Doln� Semerovce;Doln� Semerovce;Doln� Semerovce;502189
+671;SK0232502197;Doln� Pial;Doln� Pial;Doln� Pial;502197
+672;SK0232502201;Domadice;Domadice;Domadice;502201
+673;SK0232502219;Dr�enice;Dr�enice;Dr�enice;502219
+674;SK0232502227;Farn�;Farn�;Farn�;502227
+675;SK0232502243;Hokovce;Hokovce;Hokovce;502243
+676;SK0232502251;Hontianska Vrbica;Hontianska Vrbica;Hontianska Vrbica;502251
+677;SK0232502260;Horn� Se�;Horn� Se�;Horn� Se�;502260
+678;SK0232502278;Horn� Semerovce;Horn� Semerovce;Horn� Semerovce;502278
+679;SK0232502286;Horn� Turovce;Horn� Turovce;Horn� Turovce;502286
+680;SK0232502294;Horn� Pial;Horn� Pial;Horn� Pial;502294
+681;SK0232502324;Hronovce;Hronovce;Hronovce;502324
+682;SK0232502332;Hronsk� K�a�any;Hronsk� K�a�any;Hronsk� K�a�any;502332
+683;SK0232502341;Hronsk� Kosihy;Hronsk� Kosihy;Hronsk� Kosihy;502341
+684;SK0232502359;I�a;I�a;I�a;502359
+685;SK0232502367;Ipe�sk� ھany;Ipe�sk� ھany;Ipe�sk� ھany;502367
+686;SK0232502375;Ipe�sk� Sokolec;Ipe�sk� Sokolec;Ipe�sk� Sokolec;502375
+687;SK0232502383;Jablo�ovce;Jablo�ovce;Jablo�ovce;502383
+688;SK0232502391;Jur nad Hronom;Jur nad Hronom;Jur nad Hronom;502391
+689;SK0232502413;Kaln� nad Hronom;Kaln� nad Hronom;Kaln� nad Hronom;502413
+690;SK0232502421;Koz�rovce;Koz�rovce;Koz�rovce;502421
+691;SK0232502430;Kr�kany;Kr�kany;Kr�kany;502430
+692;SK0232502448;Kub��ovo;Kub��ovo;Kub��ovo;502448
+693;SK0232502456;Kuku��nov;Kuku��nov;Kuku��nov;502456
+694;SK0232502464;Kura�any;Kura�any;Kura�any;502464
+695;SK0232502472;Ke�;Ke�;Ke�;502472
+696;SK0232502481;Lok;Lok;Lok;502481
+697;SK0232502499;Lontov;Lontov;Lontov;502499
+698;SK0232502502;Lula;Lula;Lula;502502
+699;SK0232502511;M�la�;M�la�;M�la�;502511
+700;SK0232502537;Mal� Ludince;Mal� Ludince;Mal� Ludince;502537
+701;SK0232502570;M�tne Ludany;M�tne Ludany;M�tne Ludany;502570
+702;SK0232502588;Nov� Dedina;Nov� Dedina;Nov� Dedina;502588
+703;SK0232502596;Nov� Tekov;Nov� Tekov;Nov� Tekov;502596
+704;SK0232502600;N�rovce;N�rovce;N�rovce;502600
+705;SK0232502618;Ondrejovce;Ondrejovce;Ondrejovce;502618
+706;SK0232502626;Pastovce;Pastovce;Pastovce;502626
+707;SK0232502634;Pe�enice;Pe�enice;Pe�enice;502634
+708;SK0232502642;Pl᚝ovce;Pl᚝ovce;Pl᚝ovce;502642
+709;SK0232502651;Plav� Vozokany;Plav� Vozokany;Plav� Vozokany;502651
+710;SK0232502669;Podlu�any;Podlu�any;Podlu�any;502669
+711;SK0232502677;Pohronsk� Ruskov;Pohronsk� Ruskov;Pohronsk� Ruskov;502677
+712;SK0232502693;Pukanec;Pukanec;Pukanec;502693
+713;SK0232502707;Rybn�k;Rybn�k;Rybn�k;502707
+714;SK0232502715;Santovka;Santovka;Santovka;502715
+715;SK0232502723;Sazdice;Sazdice;Sazdice;502723
+716;SK0232502731;Sikenica;Sikenica;Sikenica;502731
+717;SK0232502740;Slatina;Slatina;Slatina;502740
+718;SK0232502758;Star� Hr�dok;Star� Hr�dok;Star� Hr�dok;502758
+719;SK0232502766;Star� Tekov;Star� Tekov;Star� Tekov;502766
+720;SK0232502782;�ahy;�ahy;�ahy;502782
+721;SK0232502791;�alov;�alov;�alov;502791
+722;SK0232502804;�arovce;�arovce;�arovce;502804
+723;SK0232502812;Tehla;Tehla;Tehla;502812
+724;SK0232502821;Tekovsk� Lu�any;Tekovsk� Lu�any;Tekovsk� Lu�any;502821
+725;SK0232502847;Tekovsk� Hr�dok;Tekovsk� Hr�dok;Tekovsk� Hr�dok;502847
+726;SK0232502863;Tlma�e;Tlma�e;Tlma�e;502863
+727;SK0232502871;Tup�;Tup�;Tup�;502871
+728;SK0232502880;Tur�;Tur�;Tur�;502880
+729;SK0232502898;Uhlisk�;Uhlisk�;Uhlisk�;502898
+730;SK0232502910;Ve�k� Ludince;Ve�k� Ludince;Ve�k� Ludince;502910
+731;SK0232502928;Ve�k� Turovce;Ve�k� Turovce;Ve�k� Turovce;502928
+732;SK0232502936;Ve�k� �ur;Ve�k� �ur;Ve�k� �ur;502936
+733;SK0232502944;Vy�kovce nad Ip�om;Vy�kovce nad Ip�om;Vy�kovce nad Ip�om;502944
+734;SK0232502952;Vy�n� nad Hronom;Vy�n� nad Hronom;Vy�n� nad Hronom;502952
+735;SK0232502961;Zalaba;Zalaba;Zalaba;502961
+736;SK0232502979;Zbrojn�ky;Zbrojn�ky;Zbrojn�ky;502979
+737;SK0232502987;�eliezovce;�eliezovce;�eliezovce;502987
+738;SK0232502995;�emberovce;�emberovce;�emberovce;502995
+739;SK0232503002;�emliare;�emliare;�emliare;503002
+740;SK0232545350;Hontianske Trs�any;Hontianske Trs�any;Hontianske Trs�any;545350
+741;SK0232555843;�ata;�ata;�ata;555843
+742;SK0232556777;Jesensk�;Jesensk�;Jesensk�;556777
+743;SK0232580937;Bohunice;Bohunice;Bohunice;580937
+744;SK0232581135;Mal� Kozm�lovce;Mal� Kozm�lovce;Mal� Kozm�lovce;581135
+745;SK0232581160;Ve�k� Kozm�lovce;Ve�k� Kozm�lovce;Ve�k� Kozm�lovce;581160
+746;SK0232581895;Hrkovce;Hrkovce;Hrkovce;581895
+747;SK0233500011;Nitra;Nitra;Nitra;500011
+748;SK0233500020;Alek�ince;Alek�ince;Alek�ince;500020
+749;SK0233500046;B�b;B�b;B�b;500046
+750;SK0233500071;Bran�;Bran�;Bran�;500071
+751;SK0233500101;�akajovce;�akajovce;�akajovce;500101
+752;SK0233500135;�e�adice;�e�adice;�e�adice;500135
+753;SK0233500160;�if�re;�if�re;�if�re;500160
+754;SK0233500194;Doln� Obdokovce;Doln� Obdokovce;Doln� Obdokovce;500194
+755;SK0233500232;Golianovo;Golianovo;Golianovo;500232
+756;SK0233500313;Hrubo�ovo;Hrubo�ovo;Hrubo�ovo;500313
+757;SK0233500356;Jarok;Jarok;Jarok;500356
+758;SK0233500372;Jelenec;Jelenec;Jelenec;500372
+759;SK0233500381;Jel�ovce;Jel�ovce;Jel�ovce;500381
+760;SK0233500399;Kapince;Kapince;Kapince;500399
+761;SK0233500402;Klasov;Klasov;Klasov;500402
+762;SK0233500411;Kol��any;Kol��any;Kol��any;500411
+763;SK0233500453;Lehota;Lehota;Lehota;500453
+764;SK0233500470;L��nica nad �itavou;L��nica nad �itavou;L��nica nad �itavou;500470
+765;SK0233500488;Luk��ovce;Luk��ovce;Luk��ovce;500488
+766;SK0233500518;Ve�k� Chyndice;Ve�k� Chyndice;Ve�k� Chyndice;500518
+767;SK0233500534;Mal� Z�lu�ie;Mal� Z�lu�ie;Mal� Z�lu�ie;500534
+768;SK0233500569;Melek;Melek;Melek;500569
+769;SK0233500577;Mojm�rovce;Mojm�rovce;Mojm�rovce;500577
+770;SK0233500631;Nov� Ves nad �itavou;Nov� Ves nad �itavou;Nov� Ves nad �itavou;500631
+771;SK0233500640;Nov� Sady;Nov� Sady;Nov� Sady;500640
+772;SK0233500666;Pa�a;Pa�a;Pa�a;500666
+773;SK0233500674;Podhorany;Podhorany;Podhorany;500674
+774;SK0233500682;Pohranice;Pohranice;Pohranice;500682
+775;SK0233500691;Po�n� Kesov;Po�n� Kesov;Po�n� Kesov;500691
+776;SK0233500704;Ri��ovce;Ri��ovce;Ri��ovce;500704
+777;SK0233500712;Rumanov�;Rumanov�;Rumanov�;500712
+778;SK0233500780;�urianky;�urianky;�urianky;500780
+779;SK0233500798;Tajn�;Tajn�;Tajn�;500798
+780;SK0233500844;Ve�k� Dolina;Ve�k� Dolina;Ve�k� Dolina;500844
+781;SK0233500887;Ve�k� Z�lu�ie;Ve�k� Z�lu�ie;Ve�k� Z�lu�ie;500887
+782;SK0233500895;Ve�k� Cet�n;Ve�k� Cet�n;Ve�k� Cet�n;500895
+783;SK0233500917;Vinodol;Vinodol;Vinodol;500917
+784;SK0233500933;Vr�ble;Vr�ble;Vr�ble;500933
+785;SK0233500941;V��apy-Opatovce;V��apy-Opatovce;V��apy-Opatovce;500941
+786;SK0233500950;Zbehy;Zbehy;Zbehy;500950
+787;SK0233500992;�irany;�irany;�irany;500992
+788;SK0233501018;�itavce;�itavce;�itavce;501018
+789;SK0233545589;Cabaj-��por;Cabaj-��por;Cabaj-��por;545589
+790;SK0233545635;Horn� Lefantovce;Horn� Lefantovce;Horn� Lefantovce;545635
+791;SK0233555851;Mal� Lap�;Mal� Lap�;Mal� Lap�;555851
+792;SK0233555860;Ve�k� Lap�;Ve�k� Lap�;Ve�k� Lap�;555860
+793;SK0233555886;�echynce;�echynce;�echynce;555886
+794;SK0233555908;Mal� Cet�n;Mal� Cet�n;Mal� Cet�n;555908
+795;SK0233555959;Hos�ov�;Hos�ov�;Hos�ov�;555959
+796;SK0233555967;Telince;Telince;Telince;555967
+797;SK0233555991;Sv�toplukovo;Sv�toplukovo;Sv�toplukovo;555991
+798;SK0233556696;Nitrianske Hrn�iarovce;Nitrianske Hrn�iarovce;Nitrianske Hrn�iarovce;556696
+799;SK0233556785;Mal� Chyndice;Mal� Chyndice;Mal� Chyndice;556785
+800;SK0233558320;Ivanka pri Nitre;Ivanka pri Nitre;Ivanka pri Nitre;558320
+801;SK0233580899;Lu�ianky;Lu�ianky;Lu�ianky;580899
+802;SK0233581097;�udov�tov�;�udov�tov�;�udov�tov�;581097
+803;SK0233581623;Babindol;Babindol;Babindol;581623
+804;SK0233581691;�tefanovi�ov�;�tefanovi�ov�;�tefanovi�ov�;581691
+805;SK0233582387;�ab;�ab;�ab;582387
+806;SK0233582425;Doln� Lefantovce;Doln� Lefantovce;Doln� Lefantovce;582425
+807;SK0233582697;B�dice;B�dice;B�dice;582697
+808;SK0233582719;�tit�re;�tit�re;�tit�re;582719
+809;SK0234503011;Nov� Z�mky;Nov� Z�mky;Nov� Z�mky;503011
+810;SK0234503029;Andovce;Andovce;Andovce;503029
+811;SK0234503037;Bajtava;Bajtava;Bajtava;503037
+812;SK0234503045;B�nov;B�nov;B�nov;503045
+813;SK0234503053;Bardo�ovo;Bardo�ovo;Bardo�ovo;503053
+814;SK0234503061;Bel�;Bel�;Bel�;503061
+815;SK0234503070;Be�e�ov;Be�e�ov;Be�e�ov;503070
+816;SK0234503088;B��a;B��a;B��a;503088
+817;SK0234503096;Branovo;Branovo;Branovo;503096
+818;SK0234503100;Bruty;Bruty;Bruty;503100
+819;SK0234503118;�echy;�echy;�echy;503118
+820;SK0234503126;�ern�k;�ern�k;�ern�k;503126
+821;SK0234503134;Dedinka;Dedinka;Dedinka;503134
+822;SK0234503151;Doln� Ohaj;Doln� Ohaj;Doln� Ohaj;503151
+823;SK0234503169;Dubn�k;Dubn�k;Dubn�k;503169
+824;SK0234503177;Dvory nad �itavou;Dvory nad �itavou;Dvory nad �itavou;503177
+825;SK0234503185;Gbelce;Gbelce;Gbelce;503185
+826;SK0234503193;Hul;Hul;Hul;503193
+827;SK0234503207;Ch�aba;Ch�aba;Ch�aba;503207
+828;SK0234503215;Jasov�;Jasov�;Jasov�;503215
+829;SK0234503223;Jatov;Jatov;Jatov;503223
+830;SK0234503231;Kamenica nad Hronom;Kamenica nad Hronom;Kamenica nad Hronom;503231
+831;SK0234503240;Kamen�n;Kamen�n;Kamen�n;503240
+832;SK0234503258;Kamenn� Most;Kamenn� Most;Kamenn� Most;503258
+833;SK0234503266;Kme�ovo;Kme�ovo;Kme�ovo;503266
+834;SK0234503274;Kolta;Kolta;Kolta;503274
+835;SK0234503282;Komjatice;Komjatice;Komjatice;503282
+836;SK0234503291;Komo�a;Komo�a;Komo�a;503291
+837;SK0234503312;Le�a;Le�a;Le�a;503312
+838;SK0234503321;Lipov�;Lipov�;Lipov�;503321
+839;SK0234503339;�ub�;�ub�;�ub�;503339
+840;SK0234503347;Mal� nad Hronom;Mal� nad Hronom;Mal� nad Hronom;503347
+841;SK0234503355;Mal� Kosihy;Mal� Kosihy;Mal� Kosihy;503355
+842;SK0234503363;Ma�a;Ma�a;Ma�a;503363
+843;SK0234503371;Michal nad �itavou;Michal nad �itavou;Michal nad �itavou;503371
+844;SK0234503380;Ve�k� K�r;Ve�k� K�r;Ve�k� K�r;503380
+845;SK0234503398;Mojzesovo;Mojzesovo;Mojzesovo;503398
+846;SK0234503401;Mu�la;Mu�la;Mu�la;503401
+847;SK0234503436;Nov� Vieska;Nov� Vieska;Nov� Vieska;503436
+848;SK0234503452;Pal�rikovo;Pal�rikovo;Pal�rikovo;503452
+849;SK0234503479;Podh�jska;Podh�jska;Podh�jska;503479
+850;SK0234503487;Pozba;Pozba;Pozba;503487
+851;SK0234503495;Radava;Radava;Radava;503495
+852;SK0234503509;Rastislavice;Rastislavice;Rastislavice;503509
+853;SK0234503517;R�ba�;R�ba�;R�ba�;503517
+854;SK0234503525;Salka;Salka;Salka;503525
+855;SK0234503533;Semerovo;Semerovo;Semerovo;503533
+856;SK0234503541;Sikeni�ka;Sikeni�ka;Sikeni�ka;503541
+857;SK0234503550;Strekov;Strekov;Strekov;503550
+858;SK0234503568;Svod�n;Svod�n;Svod�n;503568
+859;SK0234503576;�arkan;�arkan;�arkan;503576
+860;SK0234503584;�t�rovo;�t�rovo;�t�rovo;503584
+861;SK0234503592;�urany;�urany;�urany;503592
+862;SK0234503606;Tr�vnica;Tr�vnica;Tr�vnica;503606
+863;SK0234503614;Tvrdo�ovce;Tvrdo�ovce;Tvrdo�ovce;503614
+864;SK0234503631;Ve�k� Lovce;Ve�k� Lovce;Ve�k� Lovce;503631
+865;SK0234503649;Zemn�;Zemn�;Zemn�;503649
+866;SK0234556025;Vlkas;Vlkas;Vlkas;556025
+867;SK0234556033;Pavlov�;Pavlov�;Pavlov�;556033
+868;SK0234556050;ھany nad �itavou;ھany nad �itavou;ھany nad �itavou;556050
+869;SK0234556092;N�na;N�na;N�na;556092
+870;SK0234582361;Obid;Obid;Obid;582361
+871;SK0235500241;H�jske;H�jske;H�jske;500241
+872;SK0235500739;Mo�enok;Mo�enok;Mo�enok;500739
+873;SK0235503711;Diakovce;Diakovce;Diakovce;503711
+874;SK0235503720;Dlh� nad V�hom;Dlh� nad V�hom;Dlh� nad V�hom;503720
+875;SK0235503886;Kr�ov� nad V�hom;Kr�ov� nad V�hom;Kr�ov� nad V�hom;503886
+876;SK0235503932;Neded;Neded;Neded;503932
+877;SK0235503991;Selice;Selice;Selice;503991
+878;SK0235504025;�a�a;�a�a;�a�a;504025
+879;SK0235504068;Te�ed�kovo;Te�ed�kovo;Te�ed�kovo;504068
+880;SK0235504092;Trnovec nad V�hom;Trnovec nad V�hom;Trnovec nad V�hom;504092
+881;SK0235504165;Vl�any;Vl�any;Vl�any;504165
+882;SK0235504190;�ih�rec;�ih�rec;�ih�rec;504190
+883;SK0235555878;Horn� Kr�ov�;Horn� Kr�ov�;Horn� Kr�ov�;555878
+884;SK0236504998;Topo��any;Topo��any;Topo��any;504998
+885;SK0236505021;Lipovn�k;Lipovn�k;Lipovn�k;505021
+886;SK0236505048;Ludanice;Ludanice;Ludanice;505048
+887;SK0236505064;Lu�any;Lu�any;Lu�any;505064
+888;SK0236505137;Mal� Rip�any;Mal� Rip�any;Mal� Rip�any;505137
+889;SK0236505226;Neme�ky;Neme�ky;Neme�ky;505226
+890;SK0236505234;Nitrianska Blatnica;Nitrianska Blatnica;Nitrianska Blatnica;505234
+891;SK0236505242;Nitrianska Streda;Nitrianska Streda;Nitrianska Streda;505242
+892;SK0236505251;Norovce;Norovce;Norovce;505251
+893;SK0236505285;Oponice;Oponice;Oponice;505285
+894;SK0236505340;Podhradie;Podhradie;Podhradie;505340
+895;SK0236505374;Pra�ice;Pra�ice;Pra�ice;505374
+896;SK0236505404;Prese�any;Prese�any;Prese�any;505404
+897;SK0236505421;Rado�ina;Rado�ina;Rado�ina;505421
+898;SK0236505439;Raj�any;Raj�any;Raj�any;505439
+899;SK0236505498;Sol�any;Sol�any;Sol�any;505498
+900;SK0236505510;S�lovce;S�lovce;S�lovce;505510
+901;SK0236505536;�algovce;�algovce;�algovce;505536
+902;SK0236505561;Tes�re;Tes�re;Tes�re;505561
+903;SK0236505617;Tvrdomestice;Tvrdomestice;Tvrdomestice;505617
+904;SK0236505641;Urmince;Urmince;Urmince;505641
+905;SK0236505676;Ve�k� Dvorany;Ve�k� Dvorany;Ve�k� Dvorany;505676
+906;SK0236505714;Ve�k� Rip�any;Ve�k� Rip�any;Ve�k� Rip�any;505714
+907;SK0236505749;Velu�ovce;Velu�ovce;Velu�ovce;505749
+908;SK0236505757;Vozokany;Vozokany;Vozokany;505757
+909;SK0236505773;Z�vada;Z�vada;Z�vada;505773
+910;SK0236542661;Belince;Belince;Belince;542661
+911;SK0236542695;Biskupov�;Biskupov�;Biskupov�;542695
+912;SK0236542709;Blesovce;Blesovce;Blesovce;542709
+913;SK0236542717;Bojn�;Bojn�;Bojn�;542717
+914;SK0236542792;�ermany;�ermany;�ermany;542792
+915;SK0236542881;Hajn� Nov� Ves;Hajn� Nov� Ves;Hajn� Nov� Ves;542881
+916;SK0236542938;Horn� Obdokovce;Horn� Obdokovce;Horn� Obdokovce;542938
+917;SK0236542954;Horn� �tit�re;Horn� �tit�re;Horn� �tit�re;542954
+918;SK0236542971;Hru�ovany;Hru�ovany;Hru�ovany;542971
+919;SK0236543039;Kamanov�;Kamanov�;Kamanov�;543039
+920;SK0236543063;Koniarovce;Koniarovce;Koniarovce;543063
+921;SK0236543071;Kovarce;Kovarce;Kovarce;543071
+922;SK0236543101;Krn�a;Krn�a;Krn�a;543101
+923;SK0236543110;Krtovce;Krtovce;Krtovce;543110
+924;SK0236556149;Kru�ovce;Kru�ovce;Kru�ovce;556149
+925;SK0236556157;Jacovce;Jacovce;Jacovce;556157
+926;SK0236556165;Chrabrany;Chrabrany;Chrabrany;556165
+927;SK0236556211;Ore�any;Ore�any;Ore�any;556211
+928;SK0236556220;Ardanovce;Ardanovce;Ardanovce;556220
+929;SK0236556238;Svrbice;Svrbice;Svrbice;556238
+930;SK0236556262;Dvorany nad Nitrou;Dvorany nad Nitrou;Dvorany nad Nitrou;556262
+931;SK0236556297;�e�adince;�e�adince;�e�adince;556297
+932;SK0236556327;Sol�ianky;Sol�ianky;Sol�ianky;556327
+933;SK0236556351;Horn� Chlebany;Horn� Chlebany;Horn� Chlebany;556351
+934;SK0236580457;Tovarn�ky;Tovarn�ky;Tovarn�ky;580457
+935;SK0236581305;Nem�ice;Nem�ice;Nem�ice;581305
+936;SK0236581658;Pr�znovce;Pr�znovce;Pr�znovce;581658
+937;SK0236581704;Kuzmice;Kuzmice;Kuzmice;581704
+938;SK0237500062;Beladice;Beladice;Beladice;500062
+939;SK0237500127;�aradice;�aradice;�aradice;500127
+940;SK0237500151;�ierne K�a�any;�ierne K�a�any;�ierne K�a�any;500151
+941;SK0237500283;Hostie;Hostie;Hostie;500283
+942;SK0237500305;Hos�ovce;Hos�ovce;Hos�ovce;500305
+943;SK0237500321;Cho�a;Cho�a;Cho�a;500321
+944;SK0237500364;Jed�ov� Kosto�any;Jed�ov� Kosto�any;Jed�ov� Kosto�any;500364
+945;SK0237500429;Kosto�any pod Tribe�om;Kosto�any pod Tribe�om;Kosto�any pod Tribe�om;500429
+946;SK0237500437;Ladice;Ladice;Ladice;500437
+947;SK0237500461;Lovce;Lovce;Lovce;500461
+948;SK0237500500;Machulince;Machulince;Machulince;500500
+949;SK0237500542;Mankovce;Mankovce;Mankovce;500542
+950;SK0237500551;Martin nad �itavou;Martin nad �itavou;Martin nad �itavou;500551
+951;SK0237500585;Nem�i�any;Nem�i�any;Nem�i�any;500585
+952;SK0237500593;Neverice;Neverice;Neverice;500593
+953;SK0237500607;Nevidzany;Nevidzany;Nevidzany;500607
+954;SK0237500658;Obyce;Obyce;Obyce;500658
+955;SK0237500721;Sk�cov;Sk�cov;Sk�cov;500721
+956;SK0237500747;S�a�any;S�a�any;S�a�any;500747
+957;SK0237500755;Slep�any;Slep�any;Slep�any;500755
+958;SK0237500810;Tes�rske Mly�any;Tes�rske Mly�any;Tes�rske Mly�any;500810
+959;SK0237500828;Topo��ianky;Topo��ianky;Topo��ianky;500828
+960;SK0237500836;Vel�ice;Vel�ice;Vel�ice;500836
+961;SK0237500909;Vieska nad �itavou;Vieska nad �itavou;Vieska nad �itavou;500909
+962;SK0237500925;Volkovce;Volkovce;Volkovce;500925
+963;SK0237500968;Zlat� Moravce;Zlat� Moravce;Zlat� Moravce;500968
+964;SK0237500976;Zlatno;Zlatno;Zlatno;500976
+965;SK0237500984;�ikava;�ikava;�ikava;500984
+966;SK0237517305;Tekovsk� Nemce;Tekovsk� Nemce;Tekovsk� Nemce;517305
+967;SK0237555916;�erven� Hr�dok;�erven� Hr�dok;�erven� Hr�dok;555916
+968;SK0237555924;Mal� Vozokany;Mal� Vozokany;Mal� Vozokany;555924
+969;SK0237555932;Ve�k� Vozokany;Ve�k� Vozokany;Ve�k� Vozokany;555932
+970;SK0237582816;�itavany;�itavany;�itavany;582816
+971;SK031A509604;Brezovica;Brezovica;Brezovica;509604
+972;SK031A509655;Habovka;Habovka;Habovka;509655
+973;SK031A509663;Hladovka;Hladovka;Hladovka;509663
+974;SK031A509795;Liesek;Liesek;Liesek;509795
+975;SK031A509876;Ni�n�;Ni�n�;Ni�n�;509876
+976;SK031A509949;Oravsk� Biely Potok;Oravsk� Biely Potok;Oravsk� Biely Potok;509949
+977;SK031A509981;Podbiel;Podbiel;Podbiel;509981
+978;SK031A510076;Such� Hora;Such� Hora;Such� Hora;510076
+979;SK031A510084;�tefanov nad Oravou;�tefanov nad Oravou;�tefanov nad Oravou;510084
+980;SK031A510106;Trsten�;Trsten�;Trsten�;510106
+981;SK031A510114;Tvrdo��n;Tvrdo��n;Tvrdo��n;510114
+982;SK031A510173;Vitanov�;Vitanov�;Vitanov�;510173
+983;SK031A510190;Z�biedovo;Z�biedovo;Z�biedovo;510190
+984;SK031A510238;Zuberec;Zuberec;Zuberec;510238
+985;SK031A518719;�imhov�;�imhov�;�imhov�;518719
+986;SK031B517402;�ilina;�ilina;�ilina;517402
+987;SK031B517429;Bel�;Bel�;Bel�;517429
+988;SK031B517470;�i�many;�i�many;�i�many;517470
+989;SK031B517488;Divina;Divina;Divina;517488
+990;SK031B517496;Divinka;Divinka;Divinka;517496
+991;SK031B517500;Dlh� Pole;Dlh� Pole;Dlh� Pole;517500
+992;SK031B517518;Doln� Ti�ina;Doln� Ti�ina;Doln� Ti�ina;517518
+993;SK031B517526;Doln� Hri�ov;Doln� Hri�ov;Doln� Hri�ov;517526
+994;SK031B517542;Fa�kov;Fa�kov;Fa�kov;517542
+995;SK031B517551;Gbe�any;Gbe�any;Gbe�any;517551
+996;SK031B517577;H�rky;H�rky;H�rky;517577
+997;SK031B517593;Horn� Hri�ov;Horn� Hri�ov;Horn� Hri�ov;517593
+998;SK031B517640;Jasenov�;Jasenov�;Jasenov�;517640
+999;SK031B517658;Kamenn� Poruba;Kamenn� Poruba;Kamenn� Poruba;517658
+1000;SK031B517682;Konsk�;Konsk�;Konsk�;517682
+1001;SK031B517704;Kotr�in� L��ka;Kotr�in� L��ka;Kotr�in� L��ka;517704
+1002;SK031B517712;Kras�any;Kras�any;Kras�any;517712
+1003;SK031B517721;Kunerad;Kunerad;Kunerad;517721
+1004;SK031B517739;Lietava;Lietava;Lietava;517739
+1005;SK031B517755;Lietavsk� Svinn�-Babkov;Lietavsk� Svinn�-Babkov;Lietavsk� Svinn�-Babkov;517755
+1006;SK031B517763;Luti�e;Luti�e;Luti�e;517763
+1007;SK031B517771;Lysica;Lysica;Lysica;517771
+1008;SK031B517780;Mal� �ierna;Mal� �ierna;Mal� �ierna;517780
+1009;SK031B517801;Moj�;Moj�;Moj�;517801
+1010;SK031B517828;Nededza;Nededza;Nededza;517828
+1011;SK031B517879;Podhorie;Podhorie;Podhorie;517879
+1012;SK031B517917;Rajec;Rajec;Rajec;517917
+1013;SK031B517925;Rajeck� Lesn�;Rajeck� Lesn�;Rajeck� Lesn�;517925
+1014;SK031B517933;Rajeck� Teplice;Rajeck� Teplice;Rajeck� Teplice;517933
+1015;SK031B517941;Rosina;Rosina;Rosina;517941
+1016;SK031B517950;Str��avy;Str��avy;Str��avy;517950
+1017;SK031B517968;Str�nske;Str�nske;Str�nske;517968
+1018;SK031B517976;Str�a;Str�a;Str�a;517976
+1019;SK031B517984;Stre�no;Stre�no;Stre�no;517984
+1020;SK031B518000;Svedern�k;Svedern�k;Svedern�k;518000
+1021;SK031B518034;Tepli�ka nad V�hom;Tepli�ka nad V�hom;Tepli�ka nad V�hom;518034
+1022;SK031B518042;Terchov�;Terchov�;Terchov�;518042
+1023;SK031B518051;Turie;Turie;Turie;518051
+1024;SK031B518069;Var�n;Var�n;Var�n;518069
+1025;SK031B518077;Ve�k� �ierna;Ve�k� �ierna;Ve�k� �ierna;518077
+1026;SK031B518093;Vi��ov�;Vi��ov�;Vi��ov�;518093
+1027;SK031B518131;Zby�ov;Zby�ov;Zby�ov;518131
+1028;SK031B547522;Bitarov�;Bitarov�;Bitarov�;547522
+1029;SK031B547557;Brezany;Brezany;Brezany;547557
+1030;SK031B547590;Hri�ovsk� Podhradie;Hri�ovsk� Podhradie;Hri�ovsk� Podhradie;547590
+1031;SK031B547611;Ov�iarsko;Ov�iarsko;Ov�iarsko;547611
+1032;SK031B547620;Pa�tina Z�vada;Pa�tina Z�vada;Pa�tina Z�vada;547620
+1033;SK031B557935;Lietavsk� L��ka;Lietavsk� L��ka;Lietavsk� L��ka;557935
+1034;SK031B557960;Por�bka;Por�bka;Por�bka;557960
+1035;SK031B557986;�ur�in�;�ur�in�;�ur�in�;557986
+1036;SK031B557994;K�a�e;K�a�e;K�a�e;557994
+1037;SK031B558168;Nezbudsk� L��ka;Nezbudsk� L��ka;Nezbudsk� L��ka;558168
+1038;SK031B581712;�uja;�uja;�uja;581712
+1039;SK0311517461;Byt�a;Byt�a;Byt�a;517461
+1040;SK0311517623;Hvozdnica;Hvozdnica;Hvozdnica;517623
+1041;SK0311517631;Jablonov�;Jablonov�;Jablonov�;517631
+1042;SK0311517674;Kol�rovice;Kol�rovice;Kol�rovice;517674
+1043;SK0311517691;Kote�ov�;Kote�ov�;Kote�ov�;517691
+1044;SK0311517798;Mar�ov�-Ra�ov;Mar�ov�-Ra�ov;Mar�ov�-Ra�ov;517798
+1045;SK0311517861;Petrovice;Petrovice;Petrovice;517861
+1046;SK0311517895;Predmier;Predmier;Predmier;517895
+1047;SK0311517992;S��ov-Hradn�;S��ov-Hradn�;S��ov-Hradn�;517992
+1048;SK0311518018;�tiavnik;�tiavnik;�tiavnik;518018
+1049;SK0311518085;Ve�k� Rovn�;Ve�k� Rovn�;Ve�k� Rovn�;518085
+1050;SK0311581984;Hlbok� nad V�hom;Hlbok� nad V�hom;Hlbok� nad V�hom;581984
+1051;SK0312509132;�adca;�adca;�adca;509132
+1052;SK0312509159;�ierne;�ierne;�ierne;509159
+1053;SK0312509167;Dlh� nad Kysucou;Dlh� nad Kysucou;Dlh� nad Kysucou;509167
+1054;SK0312509183;Dunajov;Dunajov;Dunajov;509183
+1055;SK0312509213;Kloko�ov;Kloko�ov;Kloko�ov;509213
+1056;SK0312509221;Klubina;Klubina;Klubina;509221
+1057;SK0312509230;Kor�a;Kor�a;Kor�a;509230
+1058;SK0312509248;Kr�sno nad Kysucou;Kr�sno nad Kysucou;Kr�sno nad Kysucou;509248
+1059;SK0312509299;Makov;Makov;Makov;509299
+1060;SK0312509311;Nov� Bystrica;Nov� Bystrica;Nov� Bystrica;509311
+1061;SK0312509337;Ole�n�;Ole�n�;Ole�n�;509337
+1062;SK0312509345;O��adnica;O��adnica;O��adnica;509345
+1063;SK0312509361;Podvysok�;Podvysok�;Podvysok�;509361
+1064;SK0312509396;Rad�stka;Rad�stka;Rad�stka;509396
+1065;SK0312509400;Rakov�;Rakov�;Rakov�;509400
+1066;SK0312509451;Skalit�;Skalit�;Skalit�;509451
+1067;SK0312509477;Star� Bystrica;Star� Bystrica;Star� Bystrica;509477
+1068;SK0312509485;Sta�kov;Sta�kov;Sta�kov;509485
+1069;SK0312509493;Svr�inovec;Svr�inovec;Svr�inovec;509493
+1070;SK0312509507;Turzovka;Turzovka;Turzovka;509507
+1071;SK0312509515;Vysok� nad Kysucou;Vysok� nad Kysucou;Vysok� nad Kysucou;509515
+1072;SK0312509523;Z�kop�ie;Z�kop�ie;Z�kop�ie;509523
+1073;SK0312509531;Zborov nad Bystricou;Zborov nad Bystricou;Zborov nad Bystricou;509531
+1074;SK0313509540;Doln� Kub�n;Doln� Kub�n;Doln� Kub�n;509540
+1075;SK0313509639;Dlh� nad Oravou;Dlh� nad Oravou;Dlh� nad Oravou;509639
+1076;SK0313509671;Horn� Lehota;Horn� Lehota;Horn� Lehota;509671
+1077;SK0313509698;Chlebnice;Chlebnice;Chlebnice;509698
+1078;SK0313509701;Istebn�;Istebn�;Istebn�;509701
+1079;SK0313509710;Jasenov�;Jasenov�;Jasenov�;509710
+1080;SK0313509744;Kra�ovany;Kra�ovany;Kra�ovany;509744
+1081;SK0313509761;Kriv�;Kriv�;Kriv�;509761
+1082;SK0313509787;Le�tiny;Le�tiny;Le�tiny;509787
+1083;SK0313509825;Malatin�;Malatin�;Malatin�;509825
+1084;SK0313509833;Medzibrodie nad Oravou;Medzibrodie nad Oravou;Medzibrodie nad Oravou;509833
+1085;SK0313509922;Oravsk� Poruba;Oravsk� Poruba;Oravsk� Poruba;509922
+1086;SK0313509957;Oravsk� Podz�mok;Oravsk� Podz�mok;Oravsk� Podz�mok;509957
+1087;SK0313509965;Os�dka;Os�dka;Os�dka;509965
+1088;SK0313509973;P�rnica;P�rnica;P�rnica;509973
+1089;SK0313509990;Pokryv��;Pokryv��;Pokryv��;509990
+1090;SK0313510009;Pribi�;Pribi�;Pribi�;510009
+1091;SK0313510017;Pucov;Pucov;Pucov;510017
+1092;SK0313510041;Sedliacka Dubov�;Sedliacka Dubov�;Sedliacka Dubov�;510041
+1093;SK0313510165;Veli�n�;Veli�n�;Veli�n�;510165
+1094;SK0313510181;Vy�n� Kub�n;Vy�n� Kub�n;Vy�n� Kub�n;510181
+1095;SK0313510211;Z�zriv�;Z�zriv�;Z�zriv�;510211
+1096;SK0313510254;�a�kov;�a�kov;�a�kov;510254
+1097;SK0313580813;Bziny;Bziny;Bziny;580813
+1098;SK0314509175;Doln� Vadi�ov;Doln� Vadi�ov;Doln� Vadi�ov;509175
+1099;SK0314509205;Horn� Vadi�ov;Horn� Vadi�ov;Horn� Vadi�ov;509205
+1100;SK0314509256;Kysuck� Nov� Mesto;Kysuck� Nov� Mesto;Kysuck� Nov� Mesto;509256
+1101;SK0314509264;Kysuck� Lieskovec;Kysuck� Lieskovec;Kysuck� Lieskovec;509264
+1102;SK0314509272;Lodno;Lodno;Lodno;509272
+1103;SK0314509281;Lopu�n� Pa�ite;Lopu�n� Pa�ite;Lopu�n� Pa�ite;509281
+1104;SK0314509302;Neslu�a;Neslu�a;Neslu�a;509302
+1105;SK0314509329;Ochodnica;Ochodnica;Ochodnica;509329
+1106;SK0314509370;Povina;Povina;Povina;509370
+1107;SK0314509426;Rudina;Rudina;Rudina;509426
+1108;SK0314509434;Rudinka;Rudinka;Rudinka;509434
+1109;SK0314509442;Rudinsk�;Rudinsk�;Rudinsk�;509442
+1110;SK0314509469;Sne�nica;Sne�nica;Sne�nica;509469
+1111;SK0314580791;Rado�a;Rado�a;Rado�a;580791
+1112;SK0315507393;Konsk�;Konsk�;Konsk�;507393
+1113;SK0315510262;Liptovsk� Mikul�;Liptovsk� Mikul�;Liptovsk� Mikul�;510262
+1114;SK0315510271;Be�adikov�;Be�adikov�;Be�adikov�;510271
+1115;SK0315510319;Bobrov�ek;Bobrov�ek;Bobrov�ek;510319
+1116;SK0315510327;Bobrovec;Bobrovec;Bobrovec;510327
+1117;SK0315510335;Bobrovn�k;Bobrovn�k;Bobrovn�k;510335
+1118;SK0315510351;Bukovina;Bukovina;Bukovina;510351
+1119;SK0315510386;Dem�novsk� Dolina;Dem�novsk� Dolina;Dem�novsk� Dolina;510386
+1120;SK0315510408;D�brava;D�brava;D�brava;510408
+1121;SK0315510416;Galovany;Galovany;Galovany;510416
+1122;SK0315510424;G�tovany;G�tovany;G�tovany;510424
+1123;SK0315510459;Huty;Huty;Huty;510459
+1124;SK0315510467;Hybe;Hybe;Hybe;510467
+1125;SK0315510505;Jakubovany;Jakubovany;Jakubovany;510505
+1126;SK0315510513;Jalovec;Jalovec;Jalovec;510513
+1127;SK0315510521;Jamn�k;Jamn�k;Jamn�k;510521
+1128;SK0315510564;Kr�ova Lehota;Kr�ova Lehota;Kr�ova Lehota;510564
+1129;SK0315510572;Kva�any;Kva�any;Kva�any;510572
+1130;SK0315510581;Lazisko;Lazisko;Lazisko;510581
+1131;SK0315510602;Liptovsk� Anna;Liptovsk� Anna;Liptovsk� Anna;510602
+1132;SK0315510611;Liptovsk� Kokava;Liptovsk� Kokava;Liptovsk� Kokava;510611
+1133;SK0315510653;Liptovsk� Sielnica;Liptovsk� Sielnica;Liptovsk� Sielnica;510653
+1134;SK0315510688;Liptovsk� Beharovce;Liptovsk� Beharovce;Liptovsk� Beharovce;510688
+1135;SK0315510696;Liptovsk� K�a�any;Liptovsk� K�a�any;Liptovsk� K�a�any;510696
+1136;SK0315510700;Liptovsk� Matia�ovce;Liptovsk� Matia�ovce;Liptovsk� Matia�ovce;510700
+1137;SK0315510726;Liptovsk� Hr�dok;Liptovsk� Hr�dok;Liptovsk� Hr�dok;510726
+1138;SK0315510734;Liptovsk� J�n;Liptovsk� J�n;Liptovsk� J�n;510734
+1139;SK0315510751;Liptovsk� Ondrej;Liptovsk� Ondrej;Liptovsk� Ondrej;510751
+1140;SK0315510777;Liptovsk� Trnovec;Liptovsk� Trnovec;Liptovsk� Trnovec;510777
+1141;SK0315510793;�ube�a;�ube�a;�ube�a;510793
+1142;SK0315510831;Malat�ny;Malat�ny;Malat�ny;510831
+1143;SK0315510840;Mal� Borov�;Mal� Borov�;Mal� Borov�;510840
+1144;SK0315510858;Malu�in�;Malu�in�;Malu�in�;510858
+1145;SK0315510874;Ni�n� Boca;Ni�n� Boca;Ni�n� Boca;510874
+1146;SK0315510904;Partiz�nska �up�a;Partiz�nska �up�a;Partiz�nska �up�a;510904
+1147;SK0315510912;Pav�ina Lehota;Pav�ina Lehota;Pav�ina Lehota;510912
+1148;SK0315510921;Pavlova Ves;Pavlova Ves;Pavlova Ves;510921
+1149;SK0315510947;Podture�;Podture�;Podture�;510947
+1150;SK0315510963;Pribylina;Pribylina;Pribylina;510963
+1151;SK0315510971;Prosiek;Prosiek;Prosiek;510971
+1152;SK0315511013;Smre�any;Smre�any;Smre�any;511013
+1153;SK0315511048;Sv�t� Kr�;Sv�t� Kr�;Sv�t� Kr�;511048
+1154;SK0315511072;Trsten�;Trsten�;Trsten�;511072
+1155;SK0315511099;Uhorsk� Ves;Uhorsk� Ves;Uhorsk� Ves;511099
+1156;SK0315511111;Vavri�ovo;Vavri�ovo;Vavri�ovo;511111
+1157;SK0315511129;Va�ec;Va�ec;Va�ec;511129
+1158;SK0315511137;Ve�k� Borov�;Ve�k� Borov�;Ve�k� Borov�;511137
+1159;SK0315511145;Vetern� Poruba;Vetern� Poruba;Vetern� Poruba;511145
+1160;SK0315511153;Vlachy;Vlachy;Vlachy;511153
+1161;SK0315511170;V�chodn�;V�chodn�;V�chodn�;511170
+1162;SK0315511188;Vy�n� Boca;Vy�n� Boca;Vy�n� Boca;511188
+1163;SK0315511196;Z�va�n� Poruba;Z�va�n� Poruba;Z�va�n� Poruba;511196
+1164;SK0315511200;�iar;�iar;�iar;511200
+1165;SK0315556807;I�ipovce;I�ipovce;I�ipovce;556807
+1166;SK0315558281;Liptovsk� Por�bka;Liptovsk� Por�bka;Liptovsk� Por�bka;558281
+1167;SK0315580287;Liptovsk� Peter;Liptovsk� Peter;Liptovsk� Peter;580287
+1168;SK0316512036;Martin;Martin;Martin;512036
+1169;SK0316512052;Bel�-Dulice;Bel�-Dulice;Bel�-Dulice;512052
+1170;SK0316512061;Benice;Benice;Benice;512061
+1171;SK0316512079;Blatnica;Blatnica;Blatnica;512079
+1172;SK0316512133;Bystri�ka;Bystri�ka;Bystri�ka;512133
+1173;SK0316512150;�anov�;�anov�;�anov�;512150
+1174;SK0316512168;Diakov�;Diakov�;Diakov�;512168
+1175;SK0316512206;Doln� Kaln�k;Doln� Kaln�k;Doln� Kaln�k;512206
+1176;SK0316512214;Dra�kovce;Dra�kovce;Dra�kovce;512214
+1177;SK0316512257;Folku�ov�;Folku�ov�;Folku�ov�;512257
+1178;SK0316512290;Horn� Kaln�k;Horn� Kaln�k;Horn� Kaln�k;512290
+1179;SK0316512346;Karlov�;Karlov�;Karlov�;512346
+1180;SK0316512354;Kl�tor pod Znievom;Kl�tor pod Znievom;Kl�tor pod Znievom;512354
+1181;SK0316512371;Ko��any nad Turcom;Ko��any nad Turcom;Ko��any nad Turcom;512371
+1182;SK0316512389;Krpe�any;Krpe�any;Krpe�any;512389
+1183;SK0316512397;Lask�r;Lask�r;Lask�r;512397
+1184;SK0316512419;Le�iachov;Le�iachov;Le�iachov;512419
+1185;SK0316512435;Lipovec;Lipovec;Lipovec;512435
+1186;SK0316512478;Necpaly;Necpaly;Necpaly;512478
+1187;SK0316512486;Nol�ovo;Nol�ovo;Nol�ovo;512486
+1188;SK0316512508;Podhradie;Podhradie;Podhradie;512508
+1189;SK0316512524;Pr�bovce;Pr�bovce;Pr�bovce;512524
+1190;SK0316512541;Rakovo;Rakovo;Rakovo;512541
+1191;SK0316512567;Ratkovo;Ratkovo;Ratkovo;512567
+1192;SK0316512583;Sklabi�a;Sklabi�a;Sklabi�a;512583
+1193;SK0316512591;Sklabinsk� Podz�mok;Sklabinsk� Podz�mok;Sklabinsk� Podz�mok;512591
+1194;SK0316512613;Slovany;Slovany;Slovany;512613
+1195;SK0316512630;Socovce;Socovce;Socovce;512630
+1196;SK0316512648;Su�any;Su�any;Su�any;512648
+1197;SK0316512656;��tovo;��tovo;��tovo;512656
+1198;SK0316512664;Trebostovo;Trebostovo;Trebostovo;512664
+1199;SK0316512672;Trnovo;Trnovo;Trnovo;512672
+1200;SK0316512681;Turany;Turany;Turany;512681
+1201;SK0316512702;Tur�ianska �tiavni�ka;Tur�ianska �tiavni�ka;Tur�ianska �tiavni�ka;512702
+1202;SK0316512711;Tur�ianske K�a�any;Tur�ianske K�a�any;Tur�ianske K�a�any;512711
+1203;SK0316512737;Tur�iansky �ur;Tur�iansky �ur;Tur�iansky �ur;512737
+1204;SK0316512753;Tur�iansky Peter;Tur�iansky Peter;Tur�iansky Peter;512753
+1205;SK0316512761;Val�a;Val�a;Val�a;512761
+1206;SK0316512796;Vr�cko;Vr�cko;Vr�cko;512796
+1207;SK0316512818;Z�borie;Z�borie;Z�borie;512818
+1208;SK0316512834;�abokreky;�abokreky;�abokreky;512834
+1209;SK0316545961;Tur�ianske Jaseno;Tur�ianske Jaseno;Tur�ianske Jaseno;545961
+1210;SK0316557358;Vr�tky;Vr�tky;Vr�tky;557358
+1211;SK0317509558;Bab�n;Bab�n;Bab�n;509558
+1212;SK0317509566;Be�adovo;Be�adovo;Be�adovo;509566
+1213;SK0317509582;Bobrov;Bobrov;Bobrov;509582
+1214;SK0317509591;Breza;Breza;Breza;509591
+1215;SK0317509680;Hru�t�n;Hru�t�n;Hru�t�n;509680
+1216;SK0317509728;Klin;Klin;Klin;509728
+1217;SK0317509779;Kru�etnica;Kru�etnica;Kru�etnica;509779
+1218;SK0317509809;Lokca;Lokca;Lokca;509809
+1219;SK0317509817;Lomn�;Lomn�;Lomn�;509817
+1220;SK0317509850;M�tne;M�tne;M�tne;509850
+1221;SK0317509868;N�mestovo;N�mestovo;N�mestovo;509868
+1222;SK0317509884;Novo�;Novo�;Novo�;509884
+1223;SK0317509892;Oravsk� Jasenica;Oravsk� Jasenica;Oravsk� Jasenica;509892
+1224;SK0317509906;Oravsk� Lesn�;Oravsk� Lesn�;Oravsk� Lesn�;509906
+1225;SK0317509914;Oravsk� Polhora;Oravsk� Polhora;Oravsk� Polhora;509914
+1226;SK0317509931;Oravsk� Vesel�;Oravsk� Vesel�;Oravsk� Vesel�;509931
+1227;SK0317510025;Rab�a;Rab�a;Rab�a;510025
+1228;SK0317510033;Rab�ice;Rab�ice;Rab�ice;510033
+1229;SK0317510050;Siheln�;Siheln�;Siheln�;510050
+1230;SK0317510092;�ape�ovo;�ape�ovo;�ape�ovo;510092
+1231;SK0317510149;Vasi�ov;Vasi�ov;Vasi�ov;510149
+1232;SK0317510157;Vavre�ka;Vavre�ka;Vavre�ka;510157
+1233;SK0317510203;Z�kamenn�;Z�kamenn�;Z�kamenn�;510203
+1234;SK0317510246;Zubrohlava;Zubrohlava;Zubrohlava;510246
+1235;SK0318507300;Ivachnov�;Ivachnov�;Ivachnov�;507300
+1236;SK0318507407;Tur�k;Tur�k;Tur�k;507407
+1237;SK0318510301;Be�e�ov�;Be�e�ov�;Be�e�ov�;510301
+1238;SK0318510441;Hubov�;Hubov�;Hubov�;510441
+1239;SK0318510530;Kalameny;Kalameny;Kalameny;510530
+1240;SK0318510548;Komjatn�;Komjatn�;Komjatn�;510548
+1241;SK0318510599;Likavka;Likavka;Likavka;510599
+1242;SK0318510629;Liptovsk� L��na;Liptovsk� L��na;Liptovsk� L��na;510629
+1243;SK0318510637;Liptovsk� Osada;Liptovsk� Osada;Liptovsk� Osada;510637
+1244;SK0318510661;Liptovsk� �tiavnica;Liptovsk� �tiavnica;Liptovsk� �tiavnica;510661
+1245;SK0318510670;Liptovsk� Tepl�;Liptovsk� Tepl�;Liptovsk� Tepl�;510670
+1246;SK0318510718;Liptovsk� Rev�ce;Liptovsk� Rev�ce;Liptovsk� Rev�ce;510718
+1247;SK0318510742;Liptovsk� Michal;Liptovsk� Michal;Liptovsk� Michal;510742
+1248;SK0318510785;Liskov�;Liskov�;Liskov�;510785
+1249;SK0318510807;�uboch�a;�uboch�a;�uboch�a;510807
+1250;SK0318510815;L��ky;L��ky;L��ky;510815
+1251;SK0318510823;Ludrov�;Ludrov�;Ludrov�;510823
+1252;SK0318510866;Martin�ek;Martin�ek;Martin�ek;510866
+1253;SK0318510955;Potok;Potok;Potok;510955
+1254;SK0318510998;Ru�omberok;Ru�omberok;Ru�omberok;510998
+1255;SK0318511005;Liptovsk� Slia�e;Liptovsk� Slia�e;Liptovsk� Slia�e;511005
+1256;SK0318511030;Stankovany;Stankovany;Stankovany;511030
+1257;SK0318511056;�tiavni�ka;�tiavni�ka;�tiavni�ka;511056
+1258;SK0318511064;�vo�ov;�vo�ov;�vo�ov;511064
+1259;SK0318511102;Valask� Dubov�;Valask� Dubov�;Valask� Dubov�;511102
+1260;SK0319512044;Abramov�;Abramov�;Abramov�;512044
+1261;SK0319512087;Bla�ovce;Bla�ovce;Bla�ovce;512087
+1262;SK0319512095;Bodorov�;Bodorov�;Bodorov�;512095
+1263;SK0319512109;Borcov�;Borcov�;Borcov�;512109
+1264;SK0319512117;Brie�tie;Brie�tie;Brie�tie;512117
+1265;SK0319512125;Budi�;Budi�;Budi�;512125
+1266;SK0319512141;�remo�n�;�remo�n�;�remo�n�;512141
+1267;SK0319512222;Dubov�;Dubov�;Dubov�;512222
+1268;SK0319512265;H�j;H�j;H�j;512265
+1269;SK0319512273;Horn� �tub�a;Horn� �tub�a;Horn� �tub�a;512273
+1270;SK0319512303;Ivan�in�;Ivan�in�;Ivan�in�;512303
+1271;SK0319512311;Jasenovo;Jasenovo;Jasenovo;512311
+1272;SK0319512320;Jazernica;Jazernica;Jazernica;512320
+1273;SK0319512338;Ka�amenov�;Ka�amenov�;Ka�amenov�;512338
+1274;SK0319512427;Lie�no;Lie�no;Lie�no;512427
+1275;SK0319512443;Mal� �ep��n;Mal� �ep��n;Mal� �ep��n;512443
+1276;SK0319512451;Mo�kovec;Mo�kovec;Mo�kovec;512451
+1277;SK0319512460;Mo�ovce;Mo�ovce;Mo�ovce;512460
+1278;SK0319512494;Ondra�ov�;Ondra�ov�;Ondra�ov�;512494
+1279;SK0319512559;Rak�a;Rak�a;Rak�a;512559
+1280;SK0319512575;Rudno;Rudno;Rudno;512575
+1281;SK0319512605;Sklen�;Sklen�;Sklen�;512605
+1282;SK0319512621;Slovensk� Pravno;Slovensk� Pravno;Slovensk� Pravno;512621
+1283;SK0319512699;Tur�ek;Tur�ek;Tur�ek;512699
+1284;SK0319512729;Tur�ianske Teplice;Tur�ianske Teplice;Tur�ianske Teplice;512729
+1285;SK0319512788;Ve�k� �ep��n;Ve�k� �ep��n;Ve�k� �ep��n;512788
+1286;SK032A515850;Ve�k� Krt�;Ve�k� Krt�;Ve�k� Krt�;515850
+1287;SK032A515868;Balog nad Ip�om;Balog nad Ip�om;Balog nad Ip�om;515868
+1288;SK032A515876;B�torov�;B�torov�;B�torov�;515876
+1289;SK032A515884;Brusn�k;Brusn�k;Brusn�k;515884
+1290;SK032A515892;Bu�ince;Bu�ince;Bu�ince;515892
+1291;SK032A515906;�ebovce;�ebovce;�ebovce;515906
+1292;SK032A515914;�el�re;�el�re;�el�re;515914
+1293;SK032A515922;�elovce;�elovce;�elovce;515922
+1294;SK032A515931;�erve�any;�erve�any;�erve�any;515931
+1295;SK032A515949;Da�ov Lom;Da�ov Lom;Da�ov Lom;515949
+1296;SK032A515957;Dolinka;Dolinka;Dolinka;515957
+1297;SK032A515965;Doln� Strehov�;Doln� Strehov�;Doln� Strehov�;515965
+1298;SK032A515973;Doln� Plachtince;Doln� Plachtince;Doln� Plachtince;515973
+1299;SK032A515981;Doln� Strh�re;Doln� Strh�re;Doln� Strh�re;515981
+1300;SK032A515990;�urkovce;�urkovce;�urkovce;515990
+1301;SK032A516007;Glabu�ovce;Glabu�ovce;Glabu�ovce;516007
+1302;SK032A516015;Horn� Strehov�;Horn� Strehov�;Horn� Strehov�;516015
+1303;SK032A516023;Horn� Plachtince;Horn� Plachtince;Horn� Plachtince;516023
+1304;SK032A516031;Horn� Strh�re;Horn� Strh�re;Horn� Strh�re;516031
+1305;SK032A516040;Hru�ov;Hru�ov;Hru�ov;516040
+1306;SK032A516058;Chrastince;Chrastince;Chrastince;516058
+1307;SK032A516066;Chr�any;Chr�any;Chr�any;516066
+1308;SK032A516074;Ipe�sk� Predmostie;Ipe�sk� Predmostie;Ipe�sk� Predmostie;516074
+1309;SK032A516082;Kamenn� Kosihy;Kamenn� Kosihy;Kamenn� Kosihy;516082
+1310;SK032A516091;Kiarov;Kiarov;Kiarov;516091
+1311;SK032A516104;Kle�any;Kle�any;Kle�any;516104
+1312;SK032A516112;Kol�re;Kol�re;Kol�re;516112
+1313;SK032A516121;Kosihovce;Kosihovce;Kosihovce;516121
+1314;SK032A516139;Kosihy nad Ip�om;Kosihy nad Ip�om;Kosihy nad Ip�om;516139
+1315;SK032A516147;Kov��ovce;Kov��ovce;Kov��ovce;516147
+1316;SK032A516155;Lesenice;Lesenice;Lesenice;516155
+1317;SK032A516163;�uborie�ka;�uborie�ka;�uborie�ka;516163
+1318;SK032A516171;Mal� �alomija;Mal� �alomija;Mal� �alomija;516171
+1319;SK032A516198;Mal� Zlievce;Mal� Zlievce;Mal� Zlievce;516198
+1320;SK032A516210;Modr� Kame�;Modr� Kame�;Modr� Kame�;516210
+1321;SK032A516228;Mu�a;Mu�a;Mu�a;516228
+1322;SK032A516236;Nenince;Nenince;Nenince;516236
+1323;SK032A516244;Nov� Ves;Nov� Ves;Nov� Ves;516244
+1324;SK032A516252;Obeckov;Obeckov;Obeckov;516252
+1325;SK032A516261;Olov�ry;Olov�ry;Olov�ry;516261
+1326;SK032A516279;Opatovsk� Nov� Ves;Opatovsk� Nov� Ves;Opatovsk� Nov� Ves;516279
+1327;SK032A516287;Opava;Opava;Opava;516287
+1328;SK032A516295;P�tor;P�tor;P�tor;516295
+1329;SK032A516309;Pravica;Pravica;Pravica;516309
+1330;SK032A516317;Pr�belce;Pr�belce;Pr�belce;516317
+1331;SK032A516333;Se�ianky;Se�ianky;Se�ianky;516333
+1332;SK032A516341;Se�any;Se�any;Se�any;516341
+1333;SK032A516368;Senn�;Senn�;Senn�;516368
+1334;SK032A516376;Sklabin�;Sklabin�;Sklabin�;516376
+1335;SK032A516384;Slovensk� �armoty;Slovensk� �armoty;Slovensk� �armoty;516384
+1336;SK032A516392;Slovensk� K�a�any;Slovensk� K�a�any;Slovensk� K�a�any;516392
+1337;SK032A516406;Stredn� Plachtince;Stredn� Plachtince;Stredn� Plachtince;516406
+1338;SK032A516414;Such��;Such��;Such��;516414
+1339;SK032A516422;Such� Brezovo;Such� Brezovo;Such� Brezovo;516422
+1340;SK032A516431;�ir�kov;�ir�kov;�ir�kov;516431
+1341;SK032A516449;�u�a;�u�a;�u�a;516449
+1342;SK032A516457;Trebu�ovce;Trebu�ovce;Trebu�ovce;516457
+1343;SK032A516465;Ve�k� �alomija;Ve�k� �alomija;Ve�k� �alomija;516465
+1344;SK032A516473;Ve�k� Ves nad Ip�om;Ve�k� Ves nad Ip�om;Ve�k� Ves nad Ip�om;516473
+1345;SK032A516490;Ve�k� Zlievce;Ve�k� Zlievce;Ve�k� Zlievce;516490
+1346;SK032A516503;Ve�k� Lom;Ve�k� Lom;Ve�k� Lom;516503
+1347;SK032A516511;Vieska;Vieska;Vieska;516511
+1348;SK032A516520;Vinica;Vinica;Vinica;516520
+1349;SK032A516538;Vrbovka;Vrbovka;Vrbovka;516538
+1350;SK032A516546;Z�horce;Z�horce;Z�horce;516546
+1351;SK032A516554;Z�vada;Z�vada;Z�vada;516554
+1352;SK032A516562;Zombor;Zombor;Zombor;516562
+1353;SK032A516571;�elovce;�elovce;�elovce;516571
+1354;SK032A558192;Mal� Krt�;Mal� Krt�;Mal� Krt�;558192
+1355;SK032A558206;Mal� Straciny;Mal� Straciny;Mal� Straciny;558206
+1356;SK032A558214;Ve�k� Straciny;Ve�k� Straciny;Ve�k� Straciny;558214
+1357;SK032B518158;Zvolen;Zvolen;Zvolen;518158
+1358;SK032B518166;Babin�;Babin�;Babin�;518166
+1359;SK032B518174;Bac�rov;Bac�rov;Bac�rov;518174
+1360;SK032B518191;Breziny;Breziny;Breziny;518191
+1361;SK032B518204;Bud�a;Bud�a;Bud�a;518204
+1362;SK032B518221;Bzovsk� Leh�tka;Bzovsk� Leh�tka;Bzovsk� Leh�tka;518221
+1363;SK032B518298;Dobr� Niva;Dobr� Niva;Dobr� Niva;518298
+1364;SK032B518361;Dubov�;Dubov�;Dubov�;518361
+1365;SK032B518476;Hronsk� Breznica;Hronsk� Breznica;Hronsk� Breznica;518476
+1366;SK032B518506;Kov��ov�;Kov��ov�;Kov��ov�;518506
+1367;SK032B518581;Le�� (vojensk� obvod);Le��;Le�� (voj.obvod);518581
+1368;SK032B518654;Michalkov�;Michalkov�;Michalkov�;518654
+1369;SK032B518662;O�ov�;O�ov�;O�ov�;518662
+1370;SK032B518671;Ostr� L�ka;Ostr� L�ka;Ostr� L�ka;518671
+1371;SK032B518689;Plie�ovce;Plie�ovce;Plie�ovce;518689
+1372;SK032B518697;Podz�m�ok;Podz�m�ok;Podz�m�ok;518697
+1373;SK032B518727;S�sa;S�sa;S�sa;518727
+1374;SK032B518760;Sielnica;Sielnica;Sielnica;518760
+1375;SK032B518808;Slia�;Slia�;Slia�;518808
+1376;SK032B518875;T�nie;T�nie;T�nie;518875
+1377;SK032B518891;Turov�;Turov�;Turov�;518891
+1378;SK032B518972;Zvolensk� Slatina;Zvolensk� Slatina;Zvolensk� Slatina;518972
+1379;SK032B518981;�elezn� Breznica;�elezn� Breznica;�elezn� Breznica;518981
+1380;SK032B558087;Lukavica;Lukavica;Lukavica;558087
+1381;SK032B558133;Lieskovec;Lieskovec;Lieskovec;558133
+1382;SK032B581585;Ve�k� L�ka;Ve�k� L�ka;Ve�k� L�ka;581585
+1383;SK032C516759;Hodru�a-H�mre;Hodru�a-H�mre;Hodru�a-H�mre;516759
+1384;SK032C516805;Horn� H�mre;Horn� H�mre;Horn� H�mre;516805
+1385;SK032C516813;Hrabi�ov;Hrabi�ov;Hrabi�ov;516813
+1386;SK032C516830;Hronsk� Be�adik;Hronsk� Be�adik;Hronsk� Be�adik;516830
+1387;SK032C516902;K�ak;K�ak;K�ak;516902
+1388;SK032C517062;Mal� Lehota;Mal� Lehota;Mal� Lehota;517062
+1389;SK032C517097;Nov� Ba�a;Nov� Ba�a;Nov� Ba�a;517097
+1390;SK032C517119;Ostr� Gr��;Ostr� Gr��;Ostr� Gr��;517119
+1391;SK032C517127;P�la;P�la;P�la;517127
+1392;SK032C517232;Rudno nad Hronom;Rudno nad Hronom;Rudno nad Hronom;517232
+1393;SK032C517291;Tekovsk� Breznica;Tekovsk� Breznica;Tekovsk� Breznica;517291
+1394;SK032C517330;Ve�k� Lehota;Ve�k� Lehota;Ve�k� Lehota;517330
+1395;SK032C517348;Ve�k� Pole;Ve�k� Pole;Ve�k� Pole;517348
+1396;SK032C517356;Voznica;Voznica;Voznica;517356
+1397;SK032C517381;�arnovica;�arnovica;�arnovica;517381
+1398;SK032C517399;�upkov;�upkov;�upkov;517399
+1399;SK032C580546;Orovnica;Orovnica;Orovnica;580546
+1400;SK032C581607;Brehy;Brehy;Brehy;581607
+1401;SK032D516589;�iar nad Hronom;�iar nad Hronom;�iar nad Hronom;516589
+1402;SK032D516660;Barto�ova Leh�tka;Barto�ova Leh�tka;Barto�ova Leh�tka;516660
+1403;SK032D516708;Bzenica;Bzenica;Bzenica;516708
+1404;SK032D516724;Doln� Trn�vka;Doln� Trn�vka;Doln� Trn�vka;516724
+1405;SK032D516732;Doln� Ves;Doln� Ves;Doln� Ves;516732
+1406;SK032D516741;Doln� �da�a;Doln� �da�a;Doln� �da�a;516741
+1407;SK032D516767;Hlin�k nad Hronom;Hlin�k nad Hronom;Hlin�k nad Hronom;516767
+1408;SK032D516791;Horn� �da�a;Horn� �da�a;Horn� �da�a;516791
+1409;SK032D516821;Hronsk� D�brava;Hronsk� D�brava;Hronsk� D�brava;516821
+1410;SK032D516848;Ihr��;Ihr��;Ihr��;516848
+1411;SK032D516872;Janova Lehota;Janova Lehota;Janova Lehota;516872
+1412;SK032D516881;Jastrab�;Jastrab�;Jastrab�;516881
+1413;SK032D516937;Kopernica;Kopernica;Kopernica;516937
+1414;SK032D516945;Kosor�n;Kosor�n;Kosor�n;516945
+1415;SK032D516961;Krahule;Krahule;Krahule;516961
+1416;SK032D516970;Kremnica;Kremnica;Kremnica;516970
+1417;SK032D516988;Kremnick� Bane;Kremnick� Bane;Kremnick� Bane;516988
+1418;SK032D516996;Kune�ov;Kune�ov;Kune�ov;516996
+1419;SK032D517011;Leh�tka pod Brehmi;Leh�tka pod Brehmi;Leh�tka pod Brehmi;517011
+1420;SK032D517020;Lov�a;Lov�a;Lov�a;517020
+1421;SK032D517038;Lov�ica-Trub�n;Lov�ica-Trub�n;Lov�ica-Trub�n;517038
+1422;SK032D517046;L��ky;L��ky;L��ky;517046
+1423;SK032D517089;Nevo�n�;Nevo�n�;Nevo�n�;517089
+1424;SK032D517135;Pitelov�;Pitelov�;Pitelov�;517135
+1425;SK032D517186;Prestavlky;Prestavlky;Prestavlky;517186
+1426;SK032D517194;Prochot;Prochot;Prochot;517194
+1427;SK032D517216;Repi�te;Repi�te;Repi�te;517216
+1428;SK032D517241;Sklen� Teplice;Sklen� Teplice;Sklen� Teplice;517241
+1429;SK032D517259;Slask�;Slask�;Slask�;517259
+1430;SK032D517267;Star� Kremni�ka;Star� Kremni�ka;Star� Kremni�ka;517267
+1431;SK032D517313;Trnav� Hora;Trnav� Hora;Trnav� Hora;517313
+1432;SK032D517364;Vyhne;Vyhne;Vyhne;517364
+1433;SK032D581747;Horn� Ves;Horn� Ves;Horn� Ves;581747
+1434;SK032D599328;Ladomersk� Vieska;Ladomersk� Vieska;Ladomersk� Vieska;599328
+1435;SK032D599336;Lutila;Lutila;Lutila;599336
+1436;SK0321508438;Bansk� Bystrica;Bansk� Bystrica;Bansk� Bystrica;508438
+1437;SK0321508454;Bad�n;Bad�n;Bad�n;508454
+1438;SK0321508471;Bal�e;Bal�e;Bal�e;508471
+1439;SK0321508519;�er�n;�er�n;�er�n;508519
+1440;SK0321508543;Doln� Mi�in�;Doln� Mi�in�;Doln� Mi�in�;508543
+1441;SK0321508551;Doln� Harmanec;Doln� Harmanec;Doln� Harmanec;508551
+1442;SK0321508560;Donovaly;Donovaly;Donovaly;508560
+1443;SK0321508586;D�bravica;D�bravica;D�bravica;508586
+1444;SK0321508594;Harmanec;Harmanec;Harmanec;508594
+1445;SK0321508616;Hiade�;Hiade�;Hiade�;508616
+1446;SK0321508632;Horn� Mi�in�;Horn� Mi�in�;Horn� Mi�in�;508632
+1447;SK0321508641;Horn� Pr�any;Horn� Pr�any;Horn� Pr�any;508641
+1448;SK0321508659;Hrocho�;Hrocho�;Hrocho�;508659
+1449;SK0321508675;Brusno;Brusno;Brusno;508675
+1450;SK0321508713;Kord�ky;Kord�ky;Kord�ky;508713
+1451;SK0321508721;Kr�liky;Kr�liky;Kr�liky;508721
+1452;SK0321508748;�ubietov�;�ubietov�;�ubietov�;508748
+1453;SK0321508756;Lu�at�n;Lu�at�n;Lu�at�n;508756
+1454;SK0321508764;Medzibrod;Medzibrod;Medzibrod;508764
+1455;SK0321508781;M�l�a;M�l�a;M�l�a;508781
+1456;SK0321508799;Mo�tenica;Mo�tenica;Mo�tenica;508799
+1457;SK0321508802;Moty�ky;Moty�ky;Moty�ky;508802
+1458;SK0321508837;Oravce;Oravce;Oravce;508837
+1459;SK0321508861;Podkonice;Podkonice;Podkonice;508861
+1460;SK0321508896;Pohronsk� Bukovec;Pohronsk� Bukovec;Pohronsk� Bukovec;508896
+1461;SK0321508918;Poniky;Poniky;Poniky;508918
+1462;SK0321508926;Povrazn�k;Povrazn�k;Povrazn�k;508926
+1463;SK0321508942;Priechod;Priechod;Priechod;508942
+1464;SK0321508969;Rie�ka;Rie�ka;Rie�ka;508969
+1465;SK0321508977;Sebed�n-Be�ov;Sebed�n-Be�ov;Sebed�n-Be�ov;508977
+1466;SK0321508985;Selce;Selce;Selce;508985
+1467;SK0321509001;Slovensk� �up�a;Slovensk� �up�a;Slovensk� �up�a;509001
+1468;SK0321509019;Star� Hory;Star� Hory;Star� Hory;509019
+1469;SK0321509027;Streln�ky;Streln�ky;Streln�ky;509027
+1470;SK0321509035;�pania Dolina;�pania Dolina;�pania Dolina;509035
+1471;SK0321509060;Tajov;Tajov;Tajov;509060
+1472;SK0321557269;Tureck�;Tureck�;Tureck�;557269
+1473;SK0321557277;Kynce�ov�;Kynce�ov�;Kynce�ov�;557277
+1474;SK0321557285;Nemce;Nemce;Nemce;557285
+1475;SK0321557293;Vlkanov�;Vlkanov�;Vlkanov�;557293
+1476;SK0321580236;Hronsek;Hronsek;Hronsek;580236
+1477;SK0321580244;Malachov;Malachov;Malachov;580244
+1478;SK0322516597;Sv�t� Anton;Sv�t� Anton;Sv�t� Anton;516597
+1479;SK0322516601;Ba�an;Ba�an;Ba�an;516601
+1480;SK0322516627;Bansk� Bel�;Bansk� Bel�;Bansk� Bel�;516627
+1481;SK0322516643;Bansk� �tiavnica;Bansk� �tiavnica;Bansk� �tiavnica;516643
+1482;SK0322516651;Bansk� Studenec;Bansk� Studenec;Bansk� Studenec;516651
+1483;SK0322516678;Beluj;Beluj;Beluj;516678
+1484;SK0322516716;Dek��;Dek��;Dek��;516716
+1485;SK0322516856;Ilija;Ilija;Ilija;516856
+1486;SK0322516953;Kozeln�k;Kozeln�k;Kozeln�k;516953
+1487;SK0322517071;Mo�iar;Mo�iar;Mo�iar;517071
+1488;SK0322517143;Podhorie;Podhorie;Podhorie;517143
+1489;SK0322517160;Po��vadlo;Po��vadlo;Po��vadlo;517160
+1490;SK0322517178;Pren�ov;Pren�ov;Pren�ov;517178
+1491;SK0322517283;�tiavnick� Bane;�tiavnick� Bane;�tiavnick� Bane;517283
+1492;SK0322517372;Vysok�;Vysok�;Vysok�;517372
+1493;SK0323508446;Bac�ch;Bac�ch;Bac�ch;508446
+1494;SK0323508462;Be�u�;Be�u�;Be�u�;508462
+1495;SK0323508489;Brav�covo;Brav�covo;Brav�covo;508489
+1496;SK0323508497;Brezno;Brezno;Brezno;508497
+1497;SK0323508527;�ierny Balog;�ierny Balog;�ierny Balog;508527
+1498;SK0323508535;Doln� Lehota;Doln� Lehota;Doln� Lehota;508535
+1499;SK0323508578;Dr�bsko;Dr�bsko;Dr�bsko;508578
+1500;SK0323508608;He�pa;He�pa;He�pa;508608
+1501;SK0323508624;Horn� Lehota;Horn� Lehota;Horn� Lehota;508624
+1502;SK0323508667;Hronec;Hronec;Hronec;508667
+1503;SK0323508691;Jarab�;Jarab�;Jarab�;508691
+1504;SK0323508705;Jasenie;Jasenie;Jasenie;508705
+1505;SK0323508730;Lom nad Rimavicou;Lom nad Rimavicou;Lom nad Rimavicou;508730
+1506;SK0323508772;Michalov�;Michalov�;Michalov�;508772
+1507;SK0323508811;M�to pod �umbierom;M�to pod �umbierom;M�to pod �umbierom;508811
+1508;SK0323508829;Nemeck�;Nemeck�;Nemeck�;508829
+1509;SK0323508845;Osrblie;Osrblie;Osrblie;508845
+1510;SK0323508853;Podbrezov�;Podbrezov�;Podbrezov�;508853
+1511;SK0323508870;Pohorel�;Pohorel�;Pohorel�;508870
+1512;SK0323508888;Pohronsk� Polhora;Pohronsk� Polhora;Pohronsk� Polhora;508888
+1513;SK0323508900;Polomka;Polomka;Polomka;508900
+1514;SK0323508934;Predajn�;Predajn�;Predajn�;508934
+1515;SK0323508951;R�ztoka;R�ztoka;R�ztoka;508951
+1516;SK0323508993;Sihla;Sihla;Sihla;508993
+1517;SK0323509043;�umiac;�umiac;�umiac;509043
+1518;SK0323509051;Telg�rt;Telg�rt;Telg�rt;509051
+1519;SK0323509086;Valask�;Valask�;Valask�;509086
+1520;SK0323509094;Va�kov�a;Va�kov�a;Va�kov�a;509094
+1521;SK0323509124;Z�vadka nad Hronom;Z�vadka nad Hronom;Z�vadka nad Hronom;509124
+1522;SK0323557251;Bystr�;Bystr�;Bystr�;557251
+1523;SK0324511510;L�tky;L�tky;L�tky;511510
+1524;SK0324511731;Podkriv��;Podkriv��;Podkriv��;511731
+1525;SK0324518263;Detva;Detva;Detva;518263
+1526;SK0324518271;Detvianska Huta;Detvianska Huta;Detvianska Huta;518271
+1527;SK0324518379;D�bravy;D�bravy;D�bravy;518379
+1528;SK0324518450;Horn� Tisovn�k;Horn� Tisovn�k;Horn� Tisovn�k;518450
+1529;SK0324518468;Hri�ov�;Hri�ov�;Hri�ov�;518468
+1530;SK0324518492;Kloko�;Kloko�;Kloko�;518492
+1531;SK0324518549;Kriv��;Kriv��;Kriv��;518549
+1532;SK0324518794;Slatinsk� Lazy;Slatinsk� Lazy;Slatinsk� Lazy;518794
+1533;SK0324518816;Star� Huta;Star� Huta;Star� Huta;518816
+1534;SK0324518824;Sto�ok;Sto�ok;Sto�ok;518824
+1535;SK0324518921;V�g�a�;V�g�a�;V�g�a�;518921
+1536;SK0324518930;V�g�a�sk� Huta-Kalinka;V�g�a�sk� Huta-Kalinka;V�g�a�sk� Huta-Kalinka;518930
+1537;SK0324580520;Koryt�rky;Koryt�rky;Koryt�rky;580520
+1538;SK0325518212;Bzov�k;Bzov�k;Bzov�k;518212
+1539;SK0325518239;Cerovo;Cerovo;Cerovo;518239
+1540;SK0325518247;�abradsk� Vrbovok;�abradsk� Vrbovok;�abradsk� Vrbovok;518247
+1541;SK0325518255;�ekovce;�ekovce;�ekovce;518255
+1542;SK0325518280;Devi�ie;Devi�ie;Devi�ie;518280
+1543;SK0325518301;Doln� Mladonice;Doln� Mladonice;Doln� Mladonice;518301
+1544;SK0325518310;Doln� Bad�n;Doln� Bad�n;Doln� Bad�n;518310
+1545;SK0325518336;Doman�ky;Doman�ky;Doman�ky;518336
+1546;SK0325518344;Dr�ovce;Dr�ovce;Dr�ovce;518344
+1547;SK0325518352;Drienovo;Drienovo;Drienovo;518352
+1548;SK0325518387;Dudince;Dudince;Dudince;518387
+1549;SK0325518409;Hontianske Moravce;Hontianske Moravce;Hontianske Moravce;518409
+1550;SK0325518417;Hontianske Nemce;Hontianske Nemce;Hontianske Nemce;518417
+1551;SK0325518425;Hontianske Tes�re;Hontianske Tes�re;Hontianske Tes�re;518425
+1552;SK0325518433;Horn� Mladonice;Horn� Mladonice;Horn� Mladonice;518433
+1553;SK0325518441;Horn� Bad�n;Horn� Bad�n;Horn� Bad�n;518441
+1554;SK0325518484;Jal�ov�k;Jal�ov�k;Jal�ov�k;518484
+1555;SK0325518514;Koz� Vrbovok;Koz� Vrbovok;Koz� Vrbovok;518514
+1556;SK0325518531;Kr�ovce-Krni�ov;Kr�ovce-Krni�ov;Kr�ovce-Krni�ov;518531
+1557;SK0325518557;Krupina;Krupina;Krupina;518557
+1558;SK0325518565;Lackov;Lackov;Lackov;518565
+1559;SK0325518573;Ladzany;Ladzany;Ladzany;518573
+1560;SK0325518603;Li�ov;Li�ov;Li�ov;518603
+1561;SK0325518611;Litava;Litava;Litava;518611
+1562;SK0325518646;Medovarce;Medovarce;Medovarce;518646
+1563;SK0325518701;Rykyn�ice;Rykyn�ice;Rykyn�ice;518701
+1564;SK0325518735;Sebechleby;Sebechleby;Sebechleby;518735
+1565;SK0325518743;Selce;Selce;Selce;518743
+1566;SK0325518751;Senohrad;Senohrad;Senohrad;518751
+1567;SK0325518832;Sudince;Sudince;Sudince;518832
+1568;SK0325518841;S�dovce;S�dovce;S�dovce;518841
+1569;SK0325518867;Terany;Terany;Terany;518867
+1570;SK0325518883;Trp�n;Trp�n;Trp�n;518883
+1571;SK0325518905;U�at�n;U�at�n;U�at�n;518905
+1572;SK0325518956;Zemiansky Vrbovok;Zemiansky Vrbovok;Zemiansky Vrbovok;518956
+1573;SK0325518999;�ibritov;�ibritov;�ibritov;518999
+1574;SK0326511218;Lu�enec;Lu�enec;Lu�enec;511218
+1575;SK0326511226;�belov�;�belov�;�belov�;511226
+1576;SK0326511234;Belina;Belina;Belina;511234
+1577;SK0326511251;Bo�kovce;Bo�kovce;Bo�kovce;511251
+1578;SK0326511277;Budin�;Budin�;Budin�;511277
+1579;SK0326511293;Buzitka;Buzitka;Buzitka;511293
+1580;SK0326511323;�akanovce;�akanovce;�akanovce;511323
+1581;SK0326511331;�amovce;�amovce;�amovce;511331
+1582;SK0326511358;Div�n;Div�n;Div�n;511358
+1583;SK0326511366;Dobro�;Dobro�;Dobro�;511366
+1584;SK0326511374;Kotmanov�;Kotmanov�;Kotmanov�;511374
+1585;SK0326511391;Fi�akovo;Fi�akovo;Fi�akovo;511391
+1586;SK0326511404;Fi�akovsk� Kov��e;Fi�akovsk� Kov��e;Fi�akovsk� Kov��e;511404
+1587;SK0326511421;Hali�;Hali�;Hali�;511421
+1588;SK0326511439;Holi�a;Holi�a;Holi�a;511439
+1589;SK0326511463;Jel�ovec;Jel�ovec;Jel�ovec;511463
+1590;SK0326511480;Kalonda;Kalonda;Kalonda;511480
+1591;SK0326511528;Leh�tka;Leh�tka;Leh�tka;511528
+1592;SK0326511536;Lentvora;Lentvora;Lentvora;511536
+1593;SK0326511544;Lipovany;Lipovany;Lipovany;511544
+1594;SK0326511552;Lovinoba�a;Lovinoba�a;Lovinoba�a;511552
+1595;SK0326511561;�ubore�;�ubore�;�ubore�;511561
+1596;SK0326511579;Lupo�;Lupo�;Lupo�;511579
+1597;SK0326511609;Ma�kov�;Ma�kov�;Ma�kov�;511609
+1598;SK0326511625;Mu��n;Mu��n;Mu��n;511625
+1599;SK0326511641;M�tna;M�tna;M�tna;511641
+1600;SK0326511668;Nitra nad Ip�om;Nitra nad Ip�om;Nitra nad Ip�om;511668
+1601;SK0326511676;Nov� Hony;Nov� Hony;Nov� Hony;511676
+1602;SK0326511692;Panick� Dravce;Panick� Dravce;Panick� Dravce;511692
+1603;SK0326511706;P�la;P�la;P�la;511706
+1604;SK0326511714;Pincin�;Pincin�;Pincin�;511714
+1605;SK0326511722;Ple�;Ple�;Ple�;511722
+1606;SK0326511749;Podre�any;Podre�any;Podre�any;511749
+1607;SK0326511757;Polichno;Polichno;Polichno;511757
+1608;SK0326511773;Praha;Praha;Praha;511773
+1609;SK0326511781;Pr�a;Pr�a;Pr�a;511781
+1610;SK0326511790;Radzovce;Radzovce;Radzovce;511790
+1611;SK0326511803;Rapovce;Rapovce;Rapovce;511803
+1612;SK0326511811;Ratka;Ratka;Ratka;511811
+1613;SK0326511838;Ru�in�;Ru�in�;Ru�in�;511838
+1614;SK0326511846;Star� Hali�;Star� Hali�;Star� Hali�;511846
+1615;SK0326511854;��vo�;��vo�;��vo�;511854
+1616;SK0326511862;�iatorsk� Bukovinka;�iatorsk� Bukovinka;�iatorsk� Bukovinka;511862
+1617;SK0326511871;��d;��d;��d;511871
+1618;SK0326511897;�urice;�urice;�urice;511897
+1619;SK0326511901;To�nica;To�nica;To�nica;511901
+1620;SK0326511919;Tom�ovce;Tom�ovce;Tom�ovce;511919
+1621;SK0326511927;Trebe�ovce;Trebe�ovce;Trebe�ovce;511927
+1622;SK0326511943;Tuh�r;Tuh�r;Tuh�r;511943
+1623;SK0326511994;Ve�k� nad Ip�om;Ve�k� nad Ip�om;Ve�k� nad Ip�om;511994
+1624;SK0326512010;Ve�k� Dravce;Ve�k� Dravce;Ve�k� Dravce;512010
+1625;SK0326557307;Vidin�;Vidin�;Vidin�;557307
+1626;SK0326557315;Biskupice;Biskupice;Biskupice;557315
+1627;SK0326557331;Gregorova Vieska;Gregorova Vieska;Gregorova Vieska;557331
+1628;SK0326557340;Tren�;Tren�;Tren�;557340
+1629;SK0326558273;Bulhary;Bulhary;Bulhary;558273
+1630;SK0326580309;Miku�ovce;Miku�ovce;Miku�ovce;580309
+1631;SK0327511269;Brezni�ka;Brezni�ka;Brezni�ka;511269
+1632;SK0327511315;Cinoba�a;Cinoba�a;Cinoba�a;511315
+1633;SK0327511340;�esk� Brezovo;�esk� Brezovo;�esk� Brezovo;511340
+1634;SK0327511447;Hradi�te;Hradi�te;Hradi�te;511447
+1635;SK0327511471;Kalinovo;Kalinovo;Kalinovo;511471
+1636;SK0327511498;Kokava nad Rimavicou;Kokava nad Rimavicou;Kokava nad Rimavicou;511498
+1637;SK0327511501;Krn�;Krn�;Krn�;511501
+1638;SK0327511595;M�linec;M�linec;M�linec;511595
+1639;SK0327511617;Ml�dzovo;Ml�dzovo;Ml�dzovo;511617
+1640;SK0327511684;Ozd�n;Ozd�n;Ozd�n;511684
+1641;SK0327511765;Polt�r;Polt�r;Polt�r;511765
+1642;SK0327511820;Rov�any;Rov�any;Rov�any;511820
+1643;SK0327511889;�olt�ska;�olt�ska;�olt�ska;511889
+1644;SK0327511978;Uhorsk�;Uhorsk�;Uhorsk�;511978
+1645;SK0327512001;Ve�k� Ves;Ve�k� Ves;Ve�k� Ves;512001
+1646;SK0327514900;Hrn�iarska Ves;Hrn�iarska Ves;Hrn�iarska Ves;514900
+1647;SK0327514918;Hrn�iarske Zalu�any;Hrn�iarske Zalu�any;Hrn�iarske Zalu�any;514918
+1648;SK0327515515;Selce;Selce;Selce;515515
+1649;SK0327515591;Su�any;Su�any;Su�any;515591
+1650;SK0327557323;�ub�kovo;�ub�kovo;�ub�kovo;557323
+1651;SK0327580317;Utek��;Utek��;Utek��;580317
+1652;SK0327582051;Zlatno;Zlatno;Zlatno;582051
+1653;SK0328514675;Dr�kovce;Dr�kovce;Dr�kovce;514675
+1654;SK0328514721;Gemer;Gemer;Gemer;514721
+1655;SK0328514756;Gemersk� Ves;Gemersk� Ves;Gemersk� Ves;514756
+1656;SK0328514896;Hrlica;Hrlica;Hrlica;514896
+1657;SK0328514977;Chvalov�;Chvalov�;Chvalov�;514977
+1658;SK0328515159;Levku�ka;Levku�ka;Levku�ka;515159
+1659;SK0328515256;Otro�ok;Otro�ok;Otro�ok;515256
+1660;SK0328515302;Plosk�;Plosk�;Plosk�;515302
+1661;SK0328515311;Polina;Polina;Polina;515311
+1662;SK0328515361;Ra�ice;Ra�ice;Ra�ice;515361
+1663;SK0328515370;Ratkov�;Ratkov�;Ratkov�;515370
+1664;SK0328515400;Ratkovsk� Bystr�;Ratkovsk� Bystr�;Ratkovsk� Bystr�;515400
+1665;SK0328515507;Rybn�k;Rybn�k;Rybn�k;515507
+1666;SK0328515523;Skere�ovo;Skere�ovo;Skere�ovo;515523
+1667;SK0328515574;Lev�re;Lev�re;Lev�re;515574
+1668;SK0328515612;Torna�a;Torna�a;Torna�a;515612
+1669;SK0328515761;Vi��ov�;Vi��ov�;Vi��ov�;515761
+1670;SK0328515833;�iar;�iar;�iar;515833
+1671;SK0328525677;Gemersk� Teplice;Gemersk� Teplice;Gemersk� Teplice;525677
+1672;SK0328525685;Gemersk� Sad;Gemersk� Sad;Gemersk� Sad;525685
+1673;SK0328525766;Huc�n;Huc�n;Huc�n;525766
+1674;SK0328525774;Chy�n�;Chy�n�;Chy�n�;525774
+1675;SK0328525791;Jel�ava;Jel�ava;Jel�ava;525791
+1676;SK0328525812;Kame�any;Kame�any;Kame�any;525812
+1677;SK0328525901;Licince;Licince;Licince;525901
+1678;SK0328525928;Luben�k;Luben�k;Luben�k;525928
+1679;SK0328525944;Magnezitovce;Magnezitovce;Magnezitovce;525944
+1680;SK0328525987;Mur��;Mur��;Mur��;525987
+1681;SK0328525995;Mur�nska Dlh� L�ka;Mur�nska Dlh� L�ka;Mur�nska Dlh� L�ka;525995
+1682;SK0328526002;Mur�nska Huta;Mur�nska Huta;Mur�nska Huta;526002
+1683;SK0328526011;Mur�nska Lehota;Mur�nska Lehota;Mur�nska Lehota;526011
+1684;SK0328526029;Mur�nska Zdychava;Mur�nska Zdychava;Mur�nska Zdychava;526029
+1685;SK0328526037;Nandra�;Nandra�;Nandra�;526037
+1686;SK0328526100;Prihradzany;Prihradzany;Prihradzany;526100
+1687;SK0328526118;R�ko�;R�ko�;R�ko�;526118
+1688;SK0328526142;Rev�ca;Rev�ca;Rev�ca;526142
+1689;SK0328526151;Rev�cka Lehota;Rev�cka Lehota;Rev�cka Lehota;526151
+1690;SK0328526258;Sirk;Sirk;Sirk;526258
+1691;SK0328526304;�ivetice;�ivetice;�ivetice;526304
+1692;SK0328526321;Tur�ok;Tur�ok;Tur�ok;526321
+1693;SK0328557820;S�sa;S�sa;S�sa;557820
+1694;SK0328580384;Mokr� L�ka;Mokr� L�ka;Mokr� L�ka;580384
+1695;SK0329514462;Rimavsk� Sobota;Rimavsk� Sobota;Rimavsk� Sobota;514462
+1696;SK0329514489;Babinec;Babinec;Babinec;514489
+1697;SK0329514501;Barca;Barca;Barca;514501
+1698;SK0329514519;B�tka;B�tka;B�tka;514519
+1699;SK0329514535;Bel�n;Bel�n;Bel�n;514535
+1700;SK0329514543;Blhovce;Blhovce;Blhovce;514543
+1701;SK0329514551;Bottovo;Bottovo;Bottovo;514551
+1702;SK0329514586;Budikovany;Budikovany;Budikovany;514586
+1703;SK0329514594;Cakov;Cakov;Cakov;514594
+1704;SK0329514608;�eren�any;�eren�any;�eren�any;514608
+1705;SK0329514616;�ierny Potok;�ierny Potok;�ierny Potok;514616
+1706;SK0329514624;��;��;��;514624
+1707;SK0329514632;Doln� Zahorany;Doln� Zahorany;Doln� Zahorany;514632
+1708;SK0329514641;Dra�ice;Dra�ice;Dra�ice;514641
+1709;SK0329514659;Drien�any;Drien�any;Drien�any;514659
+1710;SK0329514667;Dr�a;Dr�a;Dr�a;514667
+1711;SK0329514683;Dubno;Dubno;Dubno;514683
+1712;SK0329514691;Dubovec;Dubovec;Dubovec;514691
+1713;SK0329514713;Figa;Figa;Figa;514713
+1714;SK0329514730;Gemer�ek;Gemer�ek;Gemer�ek;514730
+1715;SK0329514764;Gemersk� Decht�re;Gemersk� Decht�re;Gemersk� Decht�re;514764
+1716;SK0329514781;Gemersk� Jablonec;Gemersk� Jablonec;Gemersk� Jablonec;514781
+1717;SK0329514799;Gortva;Gortva;Gortva;514799
+1718;SK0329514811;Hajn��ka;Hajn��ka;Hajn��ka;514811
+1719;SK0329514829;Hn���a;Hn���a;Hn���a;514829
+1720;SK0329514837;Hodejov;Hodejov;Hodejov;514837
+1721;SK0329514845;Hodejovec;Hodejovec;Hodejovec;514845
+1722;SK0329514853;Horn� Zahorany;Horn� Zahorany;Horn� Zahorany;514853
+1723;SK0329514861;Hostice;Hostice;Hostice;514861
+1724;SK0329514870;Hosti�ovce;Hosti�ovce;Hosti�ovce;514870
+1725;SK0329514888;Hrachovo;Hrachovo;Hrachovo;514888
+1726;SK0329514926;Hru�ovo;Hru�ovo;Hru�ovo;514926
+1727;SK0329514934;Hubovo;Hubovo;Hubovo;514934
+1728;SK0329514942;Husin�;Husin�;Husin�;514942
+1729;SK0329514951;Chanava;Chanava;Chanava;514951
+1730;SK0329514969;Chr�mec;Chr�mec;Chr�mec;514969
+1731;SK0329514985;Ivanice;Ivanice;Ivanice;514985
+1732;SK0329514993;Janice;Janice;Janice;514993
+1733;SK0329515001;Jesensk�;Jesensk�;Jesensk�;515001
+1734;SK0329515019;Jestice;Jestice;Jestice;515019
+1735;SK0329515027;Kalo�a;Kalo�a;Kalo�a;515027
+1736;SK0329515035;Kesovce;Kesovce;Kesovce;515035
+1737;SK0329515043;Klenovec;Klenovec;Klenovec;515043
+1738;SK0329515051;Kociha;Kociha;Kociha;515051
+1739;SK0329515060;Konr�dovce;Konr�dovce;Konr�dovce;515060
+1740;SK0329515078;Kr�;Kr�;Kr�;515078
+1741;SK0329515086;Kraskovo;Kraskovo;Kraskovo;515086
+1742;SK0329515094;Krokava;Krokava;Krokava;515094
+1743;SK0329515108;Kru�no;Kru�no;Kru�no;515108
+1744;SK0329515116;Kyjatice;Kyjatice;Kyjatice;515116
+1745;SK0329515124;Lehota nad Rimavicou;Lehota nad Rimavicou;Lehota nad Rimavicou;515124
+1746;SK0329515132;Lenartovce;Lenartovce;Lenartovce;515132
+1747;SK0329515141;Lenka;Lenka;Lenka;515141
+1748;SK0329515167;Lipovec;Lipovec;Lipovec;515167
+1749;SK0329515175;Lukovi�tia;Lukovi�tia;Lukovi�tia;515175
+1750;SK0329515183;Martinov�;Martinov�;Martinov�;515183
+1751;SK0329515205;Neporadza;Neporadza;Neporadza;515205
+1752;SK0329515230;Nov� Ba�ta;Nov� Ba�ta;Nov� Ba�ta;515230
+1753;SK0329515248;Or�vka;Or�vka;Or�vka;515248
+1754;SK0329515264;O��any;O��any;O��any;515264
+1755;SK0329515272;Padarovce;Padarovce;Padarovce;515272
+1756;SK0329515281;Pavlovce;Pavlovce;Pavlovce;515281
+1757;SK0329515299;Petrovce;Petrovce;Petrovce;515299
+1758;SK0329515337;Popro�;Popro�;Popro�;515337
+1759;SK0329515345;Potok;Potok;Potok;515345
+1760;SK0329515353;Radnovce;Radnovce;Radnovce;515353
+1761;SK0329515388;Ratkovsk� Lehota;Ratkovsk� Lehota;Ratkovsk� Lehota;515388
+1762;SK0329515396;Ratkovsk� Such�;Ratkovsk� Such�;Ratkovsk� Such�;515396
+1763;SK0329515426;Rimavsk� Ba�a;Rimavsk� Ba�a;Rimavsk� Ba�a;515426
+1764;SK0329515442;Rimavsk� Se�;Rimavsk� Se�;Rimavsk� Se�;515442
+1765;SK0329515451;Rimavsk� Brezovo;Rimavsk� Brezovo;Rimavsk� Brezovo;515451
+1766;SK0329515469;Rimavsk� Janovce;Rimavsk� Janovce;Rimavsk� Janovce;515469
+1767;SK0329515485;Rovn�;Rovn�;Rovn�;515485
+1768;SK0329515493;Rumince;Rumince;Rumince;515493
+1769;SK0329515531;Slizk�;Slizk�;Slizk�;515531
+1770;SK0329515540;Star� Ba�ta;Star� Ba�ta;Star� Ba�ta;515540
+1771;SK0329515566;Str�nska;Str�nska;Str�nska;515566
+1772;SK0329515582;Studen�;Studen�;Studen�;515582
+1773;SK0329515604;S�tor;S�tor;S�tor;515604
+1774;SK0329515621;�imonovce;�imonovce;�imonovce;515621
+1775;SK0329515639;�irkovce;�irkovce;�irkovce;515639
+1776;SK0329515647;�panie Pole;�panie Pole;�panie Pole;515647
+1777;SK0329515655;�trkovec;�trkovec;�trkovec;515655
+1778;SK0329515663;Tachty;Tachty;Tachty;515663
+1779;SK0329515671;Tepl� Vrch;Tepl� Vrch;Tepl� Vrch;515671
+1780;SK0329515680;Tisovec;Tisovec;Tisovec;515680
+1781;SK0329515698;Tom�ovce;Tom�ovce;Tom�ovce;515698
+1782;SK0329515701;Uzovsk� Panica;Uzovsk� Panica;Uzovsk� Panica;515701
+1783;SK0329515710;V�elince;V�elince;V�elince;515710
+1784;SK0329515728;Ve�elkov;Ve�elkov;Ve�elkov;515728
+1785;SK0329515736;Ve�k� Teriakovce;Ve�k� Teriakovce;Ve�k� Teriakovce;515736
+1786;SK0329515744;Ve�k� Blh;Ve�k� Blh;Ve�k� Blh;515744
+1787;SK0329515752;Vieska nad Blhom;Vieska nad Blhom;Vieska nad Blhom;515752
+1788;SK0329515779;Vlky�a;Vlky�a;Vlky�a;515779
+1789;SK0329515795;Valice;Valice;Valice;515795
+1790;SK0329515809;Vy�n� Sk�lnik;Vy�n� Sk�lnik;Vy�n� Sk�lnik;515809
+1791;SK0329515817;Z�dor;Z�dor;Z�dor;515817
+1792;SK0329515841;��p;��p;��p;515841
+1793;SK0329557757;Abovce;Abovce;Abovce;557757
+1794;SK0329557765;Rie�ka;Rie�ka;Rie�ka;557765
+1795;SK0329557790;Ni�n� Sk�lnik;Ni�n� Sk�lnik;Ni�n� Sk�lnik;557790
+1796;SK0329557811;Rimavsk� Zalu�any;Rimavsk� Zalu�any;Rimavsk� Zalu�any;557811
+1797;SK0329557854;Rakytn�k;Rakytn�k;Rakytn�k;557854
+1798;SK0329557889;Gemersk� Michalovce;Gemersk� Michalovce;Gemersk� Michalovce;557889
+1799;SK0329557901;Vy�n� Valice;Vy�n� Valice;Vy�n� Valice;557901
+1800;SK0329557919;Dulovo;Dulovo;Dulovo;557919
+1801;SK0329557927;Zacharovce;Zacharovce;Zacharovce;557927
+1802;SK041A526665;Star� �ubov�a;Star� �ubov�a;Star� �ubov�a;526665
+1803;SK041A526673;�ir�;�ir�;�ir�;526673
+1804;SK041A526681;�urkov�;�urkov�;�urkov�;526681
+1805;SK041A526690;Forbasy;Forbasy;Forbasy;526690
+1806;SK041A526703;Hajtovka;Hajtovka;Hajtovka;526703
+1807;SK041A526711;Haligovce;Haligovce;Haligovce;526711
+1808;SK041A526720;Hniezdne;Hniezdne;Hniezdne;526720
+1809;SK041A526738;Hrani�n�;Hrani�n�;Hrani�n�;526738
+1810;SK041A526746;Hromo�;Hromo�;Hromo�;526746
+1811;SK041A526754;Chme�nica;Chme�nica;Chme�nica;526754
+1812;SK041A526762;Jakubany;Jakubany;Jakubany;526762
+1813;SK041A526771;Jarabina;Jarabina;Jarabina;526771
+1814;SK041A526789;Kamienka;Kamienka;Kamienka;526789
+1815;SK041A526797;Kola�kov;Kola�kov;Kola�kov;526797
+1816;SK041A526801;Kremn�;Kremn�;Kremn�;526801
+1817;SK041A526819;Kyjov;Kyjov;Kyjov;526819
+1818;SK041A526827;Lackov�;Lackov�;Lackov�;526827
+1819;SK041A526835;Legnava;Legnava;Legnava;526835
+1820;SK041A526843;Lesnica;Lesnica;Lesnica;526843
+1821;SK041A526851;Litmanov�;Litmanov�;Litmanov�;526851
+1822;SK041A526860;Lomni�ka;Lomni�ka;Lomni�ka;526860
+1823;SK041A526878;�ubot�n;�ubot�n;�ubot�n;526878
+1824;SK041A526886;Mal� Lipn�k;Mal� Lipn�k;Mal� Lipn�k;526886
+1825;SK041A526894;Matysov�;Matysov�;Matysov�;526894
+1826;SK041A526908;Mn�ek nad Popradom;Mn�ek nad Popradom;Mn�ek nad Popradom;526908
+1827;SK041A526916;Ni�n� Ru�bachy;Ni�n� Ru�bachy;Ni�n� Ru�bachy;526916
+1828;SK041A526924;Nov� �ubov�a;Nov� �ubov�a;Nov� �ubov�a;526924
+1829;SK041A526932;Obru�n�;Obru�n�;Obru�n�;526932
+1830;SK041A526941;Orlov;Orlov;Orlov;526941
+1831;SK041A526959;Plave�;Plave�;Plave�;526959
+1832;SK041A526967;Plavnica;Plavnica;Plavnica;526967
+1833;SK041A526975;Podol�nec;Podol�nec;Podol�nec;526975
+1834;SK041A526983;Pust� Pole;Pust� Pole;Pust� Pole;526983
+1835;SK041A526991;Rusk� Vo�a nad Popradom;Rusk� Vo�a nad Popradom;Rusk� Vo�a nad Popradom;526991
+1836;SK041A527009;Starina;Starina;Starina;527009
+1837;SK041A527017;Str��any;Str��any;Str��any;527017
+1838;SK041A527025;Sul�n;Sul�n;Sul�n;527025
+1839;SK041A527033;�ambron;�ambron;�ambron;527033
+1840;SK041A527041;�ari�sk� Jastrabie;�ari�sk� Jastrabie;�ari�sk� Jastrabie;527041
+1841;SK041A527050;�dol;�dol;�dol;527050
+1842;SK041A527068;Ve�k� Lesn�;Ve�k� Lesn�;Ve�k� Lesn�;527068
+1843;SK041A527076;Ve�k� Lipn�k;Ve�k� Lipn�k;Ve�k� Lipn�k;527076
+1844;SK041A527084;Vislanka;Vislanka;Vislanka;527084
+1845;SK041A527092;Vy�n� Ru�bachy;Vy�n� Ru�bachy;Vy�n� Ru�bachy;527092
+1846;SK041B527114;Ba�a;Ba�a;Ba�a;527114
+1847;SK041B527157;Breznica;Breznica;Breznica;527157
+1848;SK041B527165;Brezni�ka;Brezni�ka;Brezni�ka;527165
+1849;SK041B527173;Brusnica;Brusnica;Brusnica;527173
+1850;SK041B527181;Bukovce;Bukovce;Bukovce;527181
+1851;SK041B527190;Bystr�;Bystr�;Bystr�;527190
+1852;SK041B527203;B�any;B�any;B�any;527203
+1853;SK041B527262;Dupl�n;Dupl�n;Dupl�n;527262
+1854;SK041B527289;Gribov;Gribov;Gribov;527289
+1855;SK041B527297;Havaj;Havaj;Havaj;527297
+1856;SK041B527335;Chot�a;Chot�a;Chot�a;527335
+1857;SK041B527343;Jaku�ovce;Jaku�ovce;Jaku�ovce;527343
+1858;SK041B527386;Kolbovce;Kolbovce;Kolbovce;527386
+1859;SK041B527408;Korunkov�;Korunkov�;Korunkov�;527408
+1860;SK041B527416;Ko�uchovce;Ko�uchovce;Ko�uchovce;527416
+1861;SK041B527467;Kri��ovce;Kri��ovce;Kri��ovce;527467
+1862;SK041B527475;Kru�inec;Kru�inec;Kru�inec;527475
+1863;SK041B527513;Lomn�;Lomn�;Lomn�;527513
+1864;SK041B527521;Makovce;Makovce;Makovce;527521
+1865;SK041B527530;Mal� Po�ana;Mal� Po�ana;Mal� Po�ana;527530
+1866;SK041B527572;Mikov�;Mikov�;Mikov�;527572
+1867;SK041B527581;Mi�ovce;Mi�ovce;Mi�ovce;527581
+1868;SK041B527611;Mr�zovce;Mr�zovce;Mr�zovce;527611
+1869;SK041B527637;Ni�n� Ol�ava;Ni�n� Ol�ava;Ni�n� Ol�ava;527637
+1870;SK041B527700;O��avka;O��avka;O��avka;527700
+1871;SK041B527718;Pot��ky;Pot��ky;Pot��ky;527718
+1872;SK041B527726;Potoky;Potoky;Potoky;527726
+1873;SK041B527793;Kru�ov;Kru�ov;Kru�ov;527793
+1874;SK041B527815;So�n�k;So�n�k;So�n�k;527815
+1875;SK041B527823;Sta�kovce;Sta�kovce;Sta�kovce;527823
+1876;SK041B527840;Stropkov;Stropkov;Stropkov;527840
+1877;SK041B527866;�andal;�andal;�andal;527866
+1878;SK041B527912;Tisinec;Tisinec;Tisinec;527912
+1879;SK041B527921;Tokaj�k;Tokaj�k;Tokaj�k;527921
+1880;SK041B527939;Turany nad Ondavou;Turany nad Ondavou;Turany nad Ondavou;527939
+1881;SK041B527971;Varechovce;Varechovce;Varechovce;527971
+1882;SK041B527980;Ve�krop;Ve�krop;Ve�krop;527980
+1883;SK041B527998;Vislava;Vislava;Vislava;527998
+1884;SK041B528005;Vladi�a;Vladi�a;Vladi�a;528005
+1885;SK041B528013;Vojtovce;Vojtovce;Vojtovce;528013
+1886;SK041B528021;Vy�kovce;Vy�kovce;Vy�kovce;528021
+1887;SK041B528048;Vy�n� Ol�ava;Vy�n� Ol�ava;Vy�n� Ol�ava;528048
+1888;SK041B560073;Vy�n� Hrabovec;Vy�n� Hrabovec;Vy�n� Hrabovec;560073
+1889;SK041C519197;Giraltovce;Giraltovce;Giraltovce;519197
+1890;SK041C519316;Kalni�te;Kalni�te;Kalni�te;519316
+1891;SK041C519332;Kobylnice;Kobylnice;Kobylnice;519332
+1892;SK041C519391;Kra��novce;Kra��novce;Kra��novce;519391
+1893;SK041C519448;Kukov�;Kukov�;Kukov�;519448
+1894;SK041C519537;L��ka;L��ka;L��ka;519537
+1895;SK041C519561;Lu�any pri Topli;Lu�any pri Topli;Lu�any pri Topli;519561
+1896;SK041C519596;Mi�akovce;Mi�akovce;Mi�akovce;519596
+1897;SK041C519987;�elezn�k;�elezn�k;�elezn�k;519987
+1898;SK041C519995;�elmanovce;�elmanovce;�elmanovce;519995
+1899;SK041C527106;Svidn�k;Svidn�k;Svidn�k;527106
+1900;SK041C527122;Belejovce;Belejovce;Belejovce;527122
+1901;SK041C527131;Be�adikovce;Be�adikovce;Be�adikovce;527131
+1902;SK041C527149;Bodru�al;Bodru�al;Bodru�al;527149
+1903;SK041C527211;Cernina;Cernina;Cernina;527211
+1904;SK041C527220;Cigla;Cigla;Cigla;527220
+1905;SK041C527238;Dlho�a;Dlho�a;Dlho�a;527238
+1906;SK041C527246;Dobroslava;Dobroslava;Dobroslava;527246
+1907;SK041C527254;Dubov�;Dubov�;Dubov�;527254
+1908;SK041C527271;Fija�;Fija�;Fija�;527271
+1909;SK041C527301;Havranec;Havranec;Havranec;527301
+1910;SK041C527319;Hrabov��k;Hrabov��k;Hrabov��k;527319
+1911;SK041C527327;Hunkovce;Hunkovce;Hunkovce;527327
+1912;SK041C527351;Jurkova Vo�a;Jurkova Vo�a;Jurkova Vo�a;527351
+1913;SK041C527360;Kapi�ov�;Kapi�ov�;Kapi�ov�;527360
+1914;SK041C527378;Ke�kovce;Ke�kovce;Ke�kovce;527378
+1915;SK041C527394;Korejovce;Korejovce;Korejovce;527394
+1916;SK041C527424;Krajn� Bystr�;Krajn� Bystr�;Krajn� Bystr�;527424
+1917;SK041C527432;Krajn� Po�ana;Krajn� Po�ana;Krajn� Po�ana;527432
+1918;SK041C527441;Krajn� Por�bka;Krajn� Por�bka;Krajn� Por�bka;527441
+1919;SK041C527459;Krajn� �ierno;Krajn� �ierno;Krajn� �ierno;527459
+1920;SK041C527483;Kru�lov�;Kru�lov�;Kru�lov�;527483
+1921;SK041C527491;Kurimka;Kurimka;Kurimka;527491
+1922;SK041C527505;Ladomirov�;Ladomirov�;Ladomirov�;527505
+1923;SK041C527548;Matovce;Matovce;Matovce;527548
+1924;SK041C527556;Medvedie;Medvedie;Medvedie;527556
+1925;SK041C527564;Mestisko;Mestisko;Mestisko;527564
+1926;SK041C527599;Miro�a;Miro�a;Miro�a;527599
+1927;SK041C527602;Mlyn�rovce;Mlyn�rovce;Mlyn�rovce;527602
+1928;SK041C527629;Ni�n� Jed�ov�;Ni�n� Jed�ov�;Ni�n� Jed�ov�;527629
+1929;SK041C527645;Ni�n� Pisan�;Ni�n� Pisan�;Ni�n� Pisan�;527645
+1930;SK041C527653;Ni�n� Kom�rnik;Ni�n� Kom�rnik;Ni�n� Kom�rnik;527653
+1931;SK041C527661;Ni�n� Miro�ov;Ni�n� Miro�ov;Ni�n� Miro�ov;527661
+1932;SK041C527670;Ni�n� Orl�k;Ni�n� Orl�k;Ni�n� Orl�k;527670
+1933;SK041C527688;Nov� Polianka;Nov� Polianka;Nov� Polianka;527688
+1934;SK041C527696;Okr�hle;Okr�hle;Okr�hle;527696
+1935;SK041C527734;Pr�kra;Pr�kra;Pr�kra;527734
+1936;SK041C527742;Pstrin�;Pstrin�;Pstrin�;527742
+1937;SK041C527751;Radoma;Radoma;Radoma;527751
+1938;SK041C527769;Rakov��k;Rakov��k;Rakov��k;527769
+1939;SK041C527777;Rovn�;Rovn�;Rovn�;527777
+1940;SK041C527785;Roztoky;Roztoky;Roztoky;527785
+1941;SK041C527807;Sobo�;Sobo�;Sobo�;527807
+1942;SK041C527831;Stro��n;Stro��n;Stro��n;527831
+1943;SK041C527858;Svidni�ka;Svidni�ka;Svidni�ka;527858
+1944;SK041C527874;�arbov;�arbov;�arbov;527874
+1945;SK041C527882;�ari�sk� �tiavnik;�ari�sk� �tiavnik;�ari�sk� �tiavnik;527882
+1946;SK041C527891;�emetkovce;�emetkovce;�emetkovce;527891
+1947;SK041C527904;�tefurov;�tefurov;�tefurov;527904
+1948;SK041C527947;Vagrinec;Vagrinec;Vagrinec;527947
+1949;SK041C527955;Valkovce;Valkovce;Valkovce;527955
+1950;SK041C527963;V�pen�k;V�pen�k;V�pen�k;527963
+1951;SK041C528030;Vy�n� Jed�ov�;Vy�n� Jed�ov�;Vy�n� Jed�ov�;528030
+1952;SK041C528056;Vy�n� Pisan�;Vy�n� Pisan�;Vy�n� Pisan�;528056
+1953;SK041C528064;Vy�n� Kom�rnik;Vy�n� Kom�rnik;Vy�n� Kom�rnik;528064
+1954;SK041C528072;Vy�n� Miro�ov;Vy�n� Miro�ov;Vy�n� Miro�ov;528072
+1955;SK041C528081;Vy�n� Orl�k;Vy�n� Orl�k;Vy�n� Orl�k;528081
+1956;SK041C580601;Dukovce;Dukovce;Dukovce;580601
+1957;SK041D528731;Hol��kovce;Hol��kovce;Hol��kovce;528731
+1958;SK041D528749;Jasenovce;Jasenovce;Jasenovce;528749
+1959;SK041D528757;Jastrabie nad Top�ou;Jastrabie nad Top�ou;Jastrabie nad Top�ou;528757
+1960;SK041D528765;Juskova Vo�a;Juskova Vo�a;Juskova Vo�a;528765
+1961;SK041D528773;Kamenn� Poruba;Kamenn� Poruba;Kamenn� Poruba;528773
+1962;SK041D528781;Kladzany;Kladzany;Kladzany;528781
+1963;SK041D528790;Kom�rany;Kom�rany;Kom�rany;528790
+1964;SK041D528811;Ku��n;Ku��n;Ku��n;528811
+1965;SK041D528820;Kvakovce;Kvakovce;Kvakovce;528820
+1966;SK041D528838;Majerovce;Majerovce;Majerovce;528838
+1967;SK041D528846;Mal� Doma�a;Mal� Doma�a;Mal� Doma�a;528846
+1968;SK041D528854;Matia�ka;Matia�ka;Matia�ka;528854
+1969;SK041D528862;Medzianky;Medzianky;Medzianky;528862
+1970;SK041D528871;Mern�k;Mern�k;Mern�k;528871
+1971;SK041D528889;Michalok;Michalok;Michalok;528889
+1972;SK041D528901;Ni�n� Hrabovec;Ni�n� Hrabovec;Ni�n� Hrabovec;528901
+1973;SK041D528919;Ni�n� Hru�ov;Ni�n� Hru�ov;Ni�n� Hru�ov;528919
+1974;SK041D528927;Ni�n� Kru�ov;Ni�n� Kru�ov;Ni�n� Kru�ov;528927
+1975;SK041D528935;Nov� Kel�a;Nov� Kel�a;Nov� Kel�a;528935
+1976;SK041D528943;Ondavsk� Matia�ovce;Ondavsk� Matia�ovce;Ondavsk� Matia�ovce;528943
+1977;SK041D528960;Pavlovce;Pavlovce;Pavlovce;528960
+1978;SK041D528978;Petkovce;Petkovce;Petkovce;528978
+1979;SK041D528986;Petrovce;Petrovce;Petrovce;528986
+1980;SK041D528994;Piskorovce;Piskorovce;Piskorovce;528994
+1981;SK041D529001;Po�a;Po�a;Po�a;529001
+1982;SK041D529028;Prosa�ov;Prosa�ov;Prosa�ov;529028
+1983;SK041D529036;Radvanovce;Radvanovce;Radvanovce;529036
+1984;SK041D529044;Rafajovce;Rafajovce;Rafajovce;529044
+1985;SK041D529052;Remeniny;Remeniny;Remeniny;529052
+1986;SK041D529079;Rudlov;Rudlov;Rudlov;529079
+1987;SK041D529109;Rusk� Vo�a;Rusk� Vo�a;Rusk� Vo�a;529109
+1988;SK041D529117;Vy�n� Kazim�r;Vy�n� Kazim�r;Vy�n� Kazim�r;529117
+1989;SK041D529125;Sa�urov;Sa�urov;Sa�urov;529125
+1990;SK041D529133;Se�ovsk� Polianka;Se�ovsk� Polianka;Se�ovsk� Polianka;529133
+1991;SK041D529141;Sedlisk�;Sedlisk�;Sedlisk�;529141
+1992;SK041D529150;Skrabsk�;Skrabsk�;Skrabsk�;529150
+1993;SK041D529168;Slovensk� Kaj�a;Slovensk� Kaj�a;Slovensk� Kaj�a;529168
+1994;SK041D529176;So�;So�;So�;529176
+1995;SK041D529184;�tefanovce;�tefanovce;�tefanovce;529184
+1996;SK041D529192;Tovarn�;Tovarn�;Tovarn�;529192
+1997;SK041D529206;Tovarnianska Polianka;Tovarnianska Polianka;Tovarnianska Polianka;529206
+1998;SK041D529214;Vavrinec;Vavrinec;Vavrinec;529214
+1999;SK041D529222;Vechec;Vechec;Vechec;529222
+2000;SK041D529231;Vla�a;Vla�a;Vla�a;529231
+2001;SK041D529257;Vy�n� �ipov;Vy�n� �ipov;Vy�n� �ipov;529257
+2002;SK041D529265;Z�mutov;Z�mutov;Z�mutov;529265
+2003;SK041D529281;Zlatn�k;Zlatn�k;Zlatn�k;529281
+2004;SK041D529290;�alob�n;�alob�n;�alob�n;529290
+2005;SK041D544051;Vranov nad Top�ou;Vranov nad Top�ou;Vranov nad Top�ou;544051
+2006;SK041D544060;Babie;Babie;Babie;544060
+2007;SK041D544078;Bansk�;Bansk�;Bansk�;544078
+2008;SK041D544086;Benkovce;Benkovce;Benkovce;544086
+2009;SK041D544094;Bystr�;Bystr�;Bystr�;544094
+2010;SK041D544108;Cabov;Cabov;Cabov;544108
+2011;SK041D544116;�aklov;�aklov;�aklov;544116
+2012;SK041D544124;�i�ava;�i�ava;�i�ava;544124
+2013;SK041D544132;�ierne nad Top�ou;�ierne nad Top�ou;�ierne nad Top�ou;544132
+2014;SK041D544141;�apalovce;�apalovce;�apalovce;544141
+2015;SK041D544159;Davidov;Davidov;Davidov;544159
+2016;SK041D544167;Detr�k;Detr�k;Detr�k;544167
+2017;SK041D544175;Dlh� Kl�ovo;Dlh� Kl�ovo;Dlh� Kl�ovo;544175
+2018;SK041D544183;�ur�o�;�ur�o�;�ur�o�;544183
+2019;SK041D544191;Giglovce;Giglovce;Giglovce;544191
+2020;SK041D544205;Girovce;Girovce;Girovce;544205
+2021;SK041D544213;Hanu�ovce nad Top�ou;Hanu�ovce nad Top�ou;Hanu�ovce nad Top�ou;544213
+2022;SK041D544221;Hermanovce nad Top�ou;Hermanovce nad Top�ou;Hermanovce nad Top�ou;544221
+2023;SK041D544230;Hlinn�;Hlinn�;Hlinn�;544230
+2024;SK041D581674;Hencovce;Hencovce;Hencovce;581674
+2025;SK0411518964;Vani�kovce;Vani�kovce;Vani�kovce;518964
+2026;SK0411519006;Bardejov;Bardejov;Bardejov;519006
+2027;SK0411519014;Abrah�movce;Abrah�movce;Abrah�movce;519014
+2028;SK0411519022;Andrejov�;Andrejov�;Andrejov�;519022
+2029;SK0411519049;Barto�ovce;Barto�ovce;Barto�ovce;519049
+2030;SK0411519057;Becherov;Becherov;Becherov;519057
+2031;SK0411519065;Belove�a;Belove�a;Belove�a;519065
+2032;SK0411519073;Bogliarka;Bogliarka;Bogliarka;519073
+2033;SK0411519081;Brezov;Brezov;Brezov;519081
+2034;SK0411519090;Brezovka;Brezovka;Brezovka;519090
+2035;SK0411519103;Buclovany;Buclovany;Buclovany;519103
+2036;SK0411519111;Cige�ka;Cige�ka;Cige�ka;519111
+2037;SK0411519138;Dubinn�;Dubinn�;Dubinn�;519138
+2038;SK0411519154;Fri�ka;Fri�ka;Fri�ka;519154
+2039;SK0411519162;Fri�kovce;Fri�kovce;Fri�kovce;519162
+2040;SK0411519171;Gaboltov;Gaboltov;Gaboltov;519171
+2041;SK0411519189;Gerlachov;Gerlachov;Gerlachov;519189
+2042;SK0411519201;Hankovce;Hankovce;Hankovce;519201
+2043;SK0411519219;Harhaj;Harhaj;Harhaj;519219
+2044;SK0411519227;Ha�l�n;Ha�l�n;Ha�l�n;519227
+2045;SK0411519235;Hertn�k;Hertn�k;Hertn�k;519235
+2046;SK0411519243;Hervartov;Hervartov;Hervartov;519243
+2047;SK0411519251;Hrabovec;Hrabovec;Hrabovec;519251
+2048;SK0411519260;Hrabsk�;Hrabsk�;Hrabsk�;519260
+2049;SK0411519278;Hutka;Hutka;Hutka;519278
+2050;SK0411519286;Chme�ov�;Chme�ov�;Chme�ov�;519286
+2051;SK0411519294;Janovce;Janovce;Janovce;519294
+2052;SK0411519308;Jedlinka;Jedlinka;Jedlinka;519308
+2053;SK0411519324;K�u�ov;K�u�ov;K�u�ov;519324
+2054;SK0411519341;Kobyly;Kobyly;Kobyly;519341
+2055;SK0411519359;Kochanovce;Kochanovce;Kochanovce;519359
+2056;SK0411519367;Kom�rov;Kom�rov;Kom�rov;519367
+2057;SK0411519375;Koprivnica;Koprivnica;Koprivnica;519375
+2058;SK0411519383;Ko�any;Ko�any;Ko�any;519383
+2059;SK0411519405;Kriv�;Kriv�;Kriv�;519405
+2060;SK0411519413;Kr�e;Kr�e;Kr�e;519413
+2061;SK0411519421;Kru�lov;Kru�lov;Kru�lov;519421
+2062;SK0411519430;Ku��n;Ku��n;Ku��n;519430
+2063;SK0411519456;Kurima;Kurima;Kurima;519456
+2064;SK0411519464;Kurov;Kurov;Kurov;519464
+2065;SK0411519472;Lascov;Lascov;Lascov;519472
+2066;SK0411519481;Lenartov;Lenartov;Lenartov;519481
+2067;SK0411519499;Lipov�;Lipov�;Lipov�;519499
+2068;SK0411519502;Livov;Livov;Livov;519502
+2069;SK0411519511;Livovsk� Huta;Livovsk� Huta;Livovsk� Huta;519511
+2070;SK0411519529;Lop�chov;Lop�chov;Lop�chov;519529
+2071;SK0411519545;Lukavica;Lukavica;Lukavica;519545
+2072;SK0411519553;Lukov;Lukov;Lukov;519553
+2073;SK0411519570;Malcov;Malcov;Malcov;519570
+2074;SK0411519588;Marha�;Marha�;Marha�;519588
+2075;SK0411519600;Mikul�ov�;Mikul�ov�;Mikul�ov�;519600
+2076;SK0411519618;Mokroluh;Mokroluh;Mokroluh;519618
+2077;SK0411519626;Nemcovce;Nemcovce;Nemcovce;519626
+2078;SK0411519634;Ni�n� Polianka;Ni�n� Polianka;Ni�n� Polianka;519634
+2079;SK0411519642;Ni�n� Vo�a;Ni�n� Vo�a;Ni�n� Vo�a;519642
+2080;SK0411519669;Ni�n� Tvaro�ec;Ni�n� Tvaro�ec;Ni�n� Tvaro�ec;519669
+2081;SK0411519677;O��avce;O��avce;O��avce;519677
+2082;SK0411519685;Ondavka;Ondavka;Ondavka;519685
+2083;SK0411519693;Ortu�ov�;Ortu�ov�;Ortu�ov�;519693
+2084;SK0411519707;Osikov;Osikov;Osikov;519707
+2085;SK0411519715;Petrov�;Petrov�;Petrov�;519715
+2086;SK0411519723;Poliakovce;Poliakovce;Poliakovce;519723
+2087;SK0411519731;Por�bka;Por�bka;Por�bka;519731
+2088;SK0411519740;Regetovka;Regetovka;Regetovka;519740
+2089;SK0411519758;Re�ov;Re�ov;Re�ov;519758
+2090;SK0411519766;Richvald;Richvald;Richvald;519766
+2091;SK0411519774;Rokytov;Rokytov;Rokytov;519774
+2092;SK0411519782;Smilno;Smilno;Smilno;519782
+2093;SK0411519791;Snakov;Snakov;Snakov;519791
+2094;SK0411519804;Stebn�cka Huta;Stebn�cka Huta;Stebn�cka Huta;519804
+2095;SK0411519812;Stebn�k;Stebn�k;Stebn�k;519812
+2096;SK0411519821;Stu�any;Stu�any;Stu�any;519821
+2097;SK0411519839;Sver�ov;Sver�ov;Sver�ov;519839
+2098;SK0411519847;�ari�sk� �ierne;�ari�sk� �ierne;�ari�sk� �ierne;519847
+2099;SK0411519855;�a�ov�;�a�ov�;�a�ov�;519855
+2100;SK0411519863;�iba;�iba;�iba;519863
+2101;SK0411519871;Tarnov;Tarnov;Tarnov;519871
+2102;SK0411519880;Tro�any;Tro�any;Tro�any;519880
+2103;SK0411519901;Varadka;Varadka;Varadka;519901
+2104;SK0411519910;Vy�n� Polianka;Vy�n� Polianka;Vy�n� Polianka;519910
+2105;SK0411519928;Vy�n� Vo�a;Vy�n� Vo�a;Vy�n� Vo�a;519928
+2106;SK0411519936;Raslavice;Raslavice;Raslavice;519936
+2107;SK0411519944;Vy�n� Kru�ov;Vy�n� Kru�ov;Vy�n� Kru�ov;519944
+2108;SK0411519952;Vy�n� Tvaro�ec;Vy�n� Tvaro�ec;Vy�n� Tvaro�ec;519952
+2109;SK0411519961;Zborov;Zborov;Zborov;519961
+2110;SK0411519979;Zlat�;Zlat�;Zlat�;519979
+2111;SK0412518638;Vala�kovce (vojensk� obvod);Vala�kovce;Vala�kovce (voj.obvod);518638
+2112;SK0412520004;Humenn�;Humenn�;Humenn�;520004
+2113;SK0412520012;Adidovce;Adidovce;Adidovce;520012
+2114;SK0412520021;Ba�kovce;Ba�kovce;Ba�kovce;520021
+2115;SK0412520055;Brekov;Brekov;Brekov;520055
+2116;SK0412520063;Brestov;Brestov;Brestov;520063
+2117;SK0412520110;�ernina;�ernina;�ernina;520110
+2118;SK0412520152;Deda�ov;Deda�ov;Deda�ov;520152
+2119;SK0412520195;Hankovce;Hankovce;Hankovce;520195
+2120;SK0412520225;Hrabovec nad Laborcom;Hrabovec nad Laborcom;Hrabovec nad Laborcom;520225
+2121;SK0412520233;Hrubov;Hrubov;Hrubov;520233
+2122;SK0412520241;Hudcovce;Hudcovce;Hudcovce;520241
+2123;SK0412520250;Rokytov pri Humennom;Rokytov pri Humennom;Rokytov pri Humennom;520250
+2124;SK0412520268;Chlmec;Chlmec;Chlmec;520268
+2125;SK0412520276;Jablo�;Jablo�;Jablo�;520276
+2126;SK0412520292;Jankovce;Jankovce;Jankovce;520292
+2127;SK0412520331;Kamenica nad Cirochou;Kamenica nad Cirochou;Kamenica nad Cirochou;520331
+2128;SK0412520349;Kamienka;Kamienka;Kamienka;520349
+2129;SK0412520357;Karn�;Karn�;Karn�;520357
+2130;SK0412520373;Kochanovce;Kochanovce;Kochanovce;520373
+2131;SK0412520403;Ko�kovce;Ko�kovce;Ko�kovce;520403
+2132;SK0412520446;Lieskovec;Lieskovec;Lieskovec;520446
+2133;SK0412520454;�ubi�a;�ubi�a;�ubi�a;520454
+2134;SK0412520462;Luka�ovce;Luka�ovce;Luka�ovce;520462
+2135;SK0412520497;Modra nad Cirochou;Modra nad Cirochou;Modra nad Cirochou;520497
+2136;SK0412520501;Myslina;Myslina;Myslina;520501
+2137;SK0412520527;Nechv�lova Polianka;Nechv�lova Polianka;Nechv�lova Polianka;520527
+2138;SK0412520535;Ni�n� Jablonka;Ni�n� Jablonka;Ni�n� Jablonka;520535
+2139;SK0412520543;Ni�n� Ladi�kovce;Ni�n� Ladi�kovce;Ni�n� Ladi�kovce;520543
+2140;SK0412520560;Ohradzany;Ohradzany;Ohradzany;520560
+2141;SK0412520624;Pap�n;Pap�n;Pap�n;520624
+2142;SK0412520667;Por�bka;Por�bka;Por�bka;520667
+2143;SK0412520683;Pti�ie;Pti�ie;Pti�ie;520683
+2144;SK0412520721;Rovn�;Rovn�;Rovn�;520721
+2145;SK0412520772;Slovensk� Volov�;Slovensk� Volov�;Slovensk� Volov�;520772
+2146;SK0412520781;Slovensk� Kriv�;Slovensk� Kriv�;Slovensk� Kriv�;520781
+2147;SK0412520896;Topo�ovka;Topo�ovka;Topo�ovka;520896
+2148;SK0412520900;Turcovce;Turcovce;Turcovce;520900
+2149;SK0412520926;Udavsk�;Udavsk�;Udavsk�;520926
+2150;SK0412520977;Ve�opolie;Ve�opolie;Ve�opolie;520977
+2151;SK0412520985;V�azovce;V�azovce;V�azovce;520985
+2152;SK0412521019;Vy�n� Jablonka;Vy�n� Jablonka;Vy�n� Jablonka;521019
+2153;SK0412521027;Vy�n� Ladi�kovce;Vy�n� Ladi�kovce;Vy�n� Ladi�kovce;521027
+2154;SK0412521035;Vy�n� Hru�ov;Vy�n� Hru�ov;Vy�n� Hru�ov;521035
+2155;SK0412521043;Z�vadka;Z�vadka;Z�vadka;521043
+2156;SK0412521086;Zbudsk� Dlh�;Zbudsk� Dlh�;Zbudsk� Dlh�;521086
+2157;SK0412521116;Zubn�;Zubn�;Zubn�;521116
+2158;SK0412528803;Ko�arovce;Ko�arovce;Ko�arovce;528803
+2159;SK0412528897;Ni�n� Sitnica;Ni�n� Sitnica;Ni�n� Sitnica;528897
+2160;SK0412528951;Pakostov;Pakostov;Pakostov;528951
+2161;SK0412529010;Pritu�any;Pritu�any;Pritu�any;529010
+2162;SK0412529061;Roho�n�k;Roho�n�k;Roho�n�k;529061
+2163;SK0412529087;Rusk� Kaj�a;Rusk� Kaj�a;Rusk� Kaj�a;529087
+2164;SK0412529095;Rusk� Poruba;Rusk� Poruba;Rusk� Poruba;529095
+2165;SK0412529249;Vy�n� Sitnica;Vy�n� Sitnica;Vy�n� Sitnica;529249
+2166;SK0412529273;Z�vada;Z�vada;Z�vada;529273
+2167;SK0412559547;Jasenov;Jasenov;Jasenov;559547
+2168;SK0412559598;Ha��n nad Cirochou;Ha��n nad Cirochou;Ha��n nad Cirochou;559598
+2169;SK0412559636;Sopkovce;Sopkovce;Sopkovce;559636
+2170;SK0412559644;Gruzovce;Gruzovce;Gruzovce;559644
+2171;SK0412559652;Ma�kovce;Ma�kovce;Ma�kovce;559652
+2172;SK0412582140;Lackovce;Lackovce;Lackovce;582140
+2173;SK0413523399;Abrah�movce;Abrah�movce;Abrah�movce;523399
+2174;SK0413523411;Bu�ovce;Bu�ovce;Bu�ovce;523411
+2175;SK0413523429;�erven� Kl�tor;�erven� Kl�tor;�erven� Kl�tor;523429
+2176;SK0413523461;Havka;Havka;Havka;523461
+2177;SK0413523470;Holumnica;Holumnica;Holumnica;523470
+2178;SK0413523500;Hradisko;Hradisko;Hradisko;523500
+2179;SK0413523526;Huncovce;Huncovce;Huncovce;523526
+2180;SK0413523534;Ih�any;Ih�any;Ih�any;523534
+2181;SK0413523551;Javorina (vojensk� obvod);Javorina;Javorina (voj.obvod);523551
+2182;SK0413523569;Jezersko;Jezersko;Jezersko;523569
+2183;SK0413523577;Jursk�;Jursk�;Jursk�;523577
+2184;SK0413523585;Ke�marok;Ke�marok;Ke�marok;523585
+2185;SK0413523607;Kr�ov� Ves;Kr�ov� Ves;Kr�ov� Ves;523607
+2186;SK0413523615;Lechnica;Lechnica;Lechnica;523615
+2187;SK0413523623;Lendak;Lendak;Lendak;523623
+2188;SK0413523674;Majere;Majere;Majere;523674
+2189;SK0413523682;�ubica;�ubica;�ubica;523682
+2190;SK0413523712;Matia�ovce;Matia�ovce;Matia�ovce;523712
+2191;SK0413523739;Mlyn�eky;Mlyn�eky;Mlyn�eky;523739
+2192;SK0413523771;Ostur�a;Ostur�a;Ostur�a;523771
+2193;SK0413523780;Podhorany;Podhorany;Podhorany;523780
+2194;SK0413523798;Rak�sy;Rak�sy;Rak�sy;523798
+2195;SK0413523801;Re�ov;Re�ov;Re�ov;523801
+2196;SK0413523810;Slovensk� Ves;Slovensk� Ves;Slovensk� Ves;523810
+2197;SK0413523828;Spi�sk� Bel�;Spi�sk� Bel�;Spi�sk� Bel�;523828
+2198;SK0413523836;Spi�sk� Star� Ves;Spi�sk� Star� Ves;Spi�sk� Star� Ves;523836
+2199;SK0413523861;Spi�sk� Hanu�ovce;Spi�sk� Hanu�ovce;Spi�sk� Hanu�ovce;523861
+2200;SK0413523887;Star� Lesn�;Star� Lesn�;Star� Lesn�;523887
+2201;SK0413523909;Str�ne pod Tatrami;Str�ne pod Tatrami;Str�ne pod Tatrami;523909
+2202;SK0413523976;Toporec;Toporec;Toporec;523976
+2203;SK0413523984;Tvaro�n�;Tvaro�n�;Tvaro�n�;523984
+2204;SK0413523992;Ve�k� Frankov�;Ve�k� Frankov�;Ve�k� Frankov�;523992
+2205;SK0413524000;Ve�k� Lomnica;Ve�k� Lomnica;Ve�k� Lomnica;524000
+2206;SK0413524042;Vlkov�;Vlkov�;Vlkov�;524042
+2207;SK0413524051;Vlkovce;Vlkovce;Vlkovce;524051
+2208;SK0413524069;Voj�any;Voj�any;Voj�any;524069
+2209;SK0413524077;Vrbov;Vrbov;Vrbov;524077
+2210;SK0413524085;V�born�;V�born�;V�born�;524085
+2211;SK0413524115;Z�lesie;Z�lesie;Z�lesie;524115
+2212;SK0413524123;�akovce;�akovce;�akovce;524123
+2213;SK0413559938;Mal� Frankov�;Mal� Frankov�;Mal� Frankov�;559938
+2214;SK0413581241;Mal� Slavkov;Mal� Slavkov;Mal� Slavkov;581241
+2215;SK0414526371;Baldovce;Baldovce;Baldovce;526371
+2216;SK0414526380;Beharovce;Beharovce;Beharovce;526380
+2217;SK0414526401;Bijacovce;Bijacovce;Bijacovce;526401
+2218;SK0414526410;Brutovce;Brutovce;Brutovce;526410
+2219;SK0414526428;Buglovce;Buglovce;Buglovce;526428
+2220;SK0414526452;Dlh� Str�e;Dlh� Str�e;Dlh� Str�e;526452
+2221;SK0414526461;Do�any;Do�any;Do�any;526461
+2222;SK0414526479;Doma�ovce;Doma�ovce;Doma�ovce;526479
+2223;SK0414526487;Dravce;Dravce;Dravce;526487
+2224;SK0414526495;D�brava;D�brava;D�brava;526495
+2225;SK0414526517;Gran�-Petrovce;Gran�-Petrovce;Gran�-Petrovce;526517
+2226;SK0414526525;Harakovce;Harakovce;Harakovce;526525
+2227;SK0414526606;Vy�n� Repa�e;Vy�n� Repa�e;Vy�n� Repa�e;526606
+2228;SK0414526614;Vy�n� Slavkov;Vy�n� Slavkov;Vy�n� Slavkov;526614
+2229;SK0414543179;Jablonov;Jablonov;Jablonov;543179
+2230;SK0414543225;Kl�ov;Kl�ov;Kl�ov;543225
+2231;SK0414543276;Kurimany;Kurimany;Kurimany;543276
+2232;SK0414543292;Levo�a;Levo�a;Levo�a;543292
+2233;SK0414543314;L��ka;L��ka;L��ka;543314
+2234;SK0414543381;Neme�any;Neme�any;Neme�any;543381
+2235;SK0414543390;Ni�n� Repa�e;Ni�n� Repa�e;Ni�n� Repa�e;543390
+2236;SK0414543420;O��avica;O��avica;O��avica;543420
+2237;SK0414543446;Ordzovany;Ordzovany;Ordzovany;543446
+2238;SK0414543454;Pav�any;Pav�any;Pav�any;543454
+2239;SK0414543462;Po�anovce;Po�anovce;Po�anovce;543462
+2240;SK0414543471;Pongr�covce;Pongr�covce;Pongr�covce;543471
+2241;SK0414543578;Spi�sk� Podhradie;Spi�sk� Podhradie;Spi�sk� Podhradie;543578
+2242;SK0414543608;Spi�sk� Hrhov;Spi�sk� Hrhov;Spi�sk� Hrhov;543608
+2243;SK0414543624;Spi�sk� �tvrtok;Spi�sk� �tvrtok;Spi�sk� �tvrtok;543624
+2244;SK0414543641;Studenec;Studenec;Studenec;543641
+2245;SK0414543675;Torysky;Torysky;Torysky;543675
+2246;SK0414543691;Ulo�a;Ulo�a;Ulo�a;543691
+2247;SK0414581640;Korytn�;Korytn�;Korytn�;581640
+2248;SK0415520071;Brestov nad Laborcom;Brestov nad Laborcom;Brestov nad Laborcom;520071
+2249;SK0415520098;�abalovce;�abalovce;�abalovce;520098
+2250;SK0415520101;�abiny;�abiny;�abiny;520101
+2251;SK0415520128;�erti�n�;�erti�n�;�erti�n�;520128
+2252;SK0415520187;Habura;Habura;Habura;520187
+2253;SK0415520314;Kalinov;Kalinov;Kalinov;520314
+2254;SK0415520411;Kr�sny Brod;Kr�sny Brod;Kr�sny Brod;520411
+2255;SK0415520471;Medzilaborce;Medzilaborce;Medzilaborce;520471
+2256;SK0415520519;�agov;�agov;�agov;520519
+2257;SK0415520578;O�ka;O�ka;O�ka;520578
+2258;SK0415520586;O��inkov;O��inkov;O��inkov;520586
+2259;SK0415520616;Palota;Palota;Palota;520616
+2260;SK0415520691;Radva� nad Laborcom;Radva� nad Laborcom;Radva� nad Laborcom;520691
+2261;SK0415520705;Repejov;Repejov;Repejov;520705
+2262;SK0415520713;Ro�kovce;Ro�kovce;Ro�kovce;520713
+2263;SK0415520853;Sukov;Sukov;Sukov;520853
+2264;SK0415520861;Svetlice;Svetlice;Svetlice;520861
+2265;SK0415520951;Valentovce;Valentovce;Valentovce;520951
+2266;SK0415520993;Volica;Volica;Volica;520993
+2267;SK0415521001;V�rava;V�rava;V�rava;521001
+2268;SK0415521060;Zbojn�;Zbojn�;Zbojn�;521060
+2269;SK0415521078;Zbudsk� Bel�;Zbudsk� Bel�;Zbudsk� Bel�;521078
+2270;SK0415559610;Rokytovce;Rokytovce;Rokytovce;559610
+2271;SK0416523381;Poprad;Poprad;Poprad;523381
+2272;SK0416523402;Batizovce;Batizovce;Batizovce;523402
+2273;SK0416523437;G�novce;G�novce;G�novce;523437
+2274;SK0416523445;Gerlachov;Gerlachov;Gerlachov;523445
+2275;SK0416523488;H�rka;H�rka;H�rka;523488
+2276;SK0416523496;Hozelec;Hozelec;Hozelec;523496
+2277;SK0416523518;Hranovnica;Hranovnica;Hranovnica;523518
+2278;SK0416523542;J�novce;J�novce;J�novce;523542
+2279;SK0416523593;Kravany;Kravany;Kravany;523593
+2280;SK0416523631;Liptovsk� Tepli�ka;Liptovsk� Tepli�ka;Liptovsk� Tepli�ka;523631
+2281;SK0416523658;Lu�ivn�;Lu�ivn�;Lu�ivn�;523658
+2282;SK0416523721;Mengusovce;Mengusovce;Mengusovce;523721
+2283;SK0416523747;Mlynica;Mlynica;Mlynica;523747
+2284;SK0416523763;Nov� Lesn�;Nov� Lesn�;Nov� Lesn�;523763
+2285;SK0416523844;Spi�sk� Teplica;Spi�sk� Teplica;Spi�sk� Teplica;523844
+2286;SK0416523852;Spi�sk� Bystr�;Spi�sk� Bystr�;Spi�sk� Bystr�;523852
+2287;SK0416523879;Spi�sk� �tiavnik;Spi�sk� �tiavnik;Spi�sk� �tiavnik;523879
+2288;SK0416523925;Svit;Svit;Svit;523925
+2289;SK0416523933;�trba;�trba;�trba;523933
+2290;SK0416523950;�v�bovce;�v�bovce;�v�bovce;523950
+2291;SK0416524018;Ve�k� Slavkov;Ve�k� Slavkov;Ve�k� Slavkov;524018
+2292;SK0416524026;Vern�r;Vern�r;Vern�r;524026
+2293;SK0416524034;Vikartovce;Vikartovce;Vikartovce;524034
+2294;SK0416524093;Vydrn�k;Vydrn�k;Vydrn�k;524093
+2295;SK0416524107;�u�ava;�u�ava;�u�ava;524107
+2296;SK0416524131;�diar;�diar;�diar;524131
+2297;SK0416559890;�t�la;�t�la;�t�la;559890
+2298;SK0416560103;Vysok� Tatry;Vysok� Tatry;Vysok� Tatry;560103
+2299;SK0416580368;Tatransk� Javorina;Tatransk� Javorina;Tatransk� Javorina;580368
+2300;SK0417518522;Haniska;Haniska;Haniska;518522
+2301;SK0417518590;�ubotice;�ubotice;�ubotice;518590
+2302;SK0417524140;Pre�ov;Pre�ov;Pre�ov;524140
+2303;SK0417524158;Abranovce;Abranovce;Abranovce;524158
+2304;SK0417524174;Bajerov;Bajerov;Bajerov;524174
+2305;SK0417524191;Bertotovce;Bertotovce;Bertotovce;524191
+2306;SK0417524212;Brestov;Brestov;Brestov;524212
+2307;SK0417524221;Bretejovce;Bretejovce;Bretejovce;524221
+2308;SK0417524255;Bre�any;Bre�any;Bre�any;524255
+2309;SK0417524263;Bzenov;Bzenov;Bzenov;524263
+2310;SK0417524271;�elovce;�elovce;�elovce;524271
+2311;SK0417524301;�ervenica;�ervenica;�ervenica;524301
+2312;SK0417524336;Demjata;Demjata;Demjata;524336
+2313;SK0417524352;Drienov;Drienov;Drienov;524352
+2314;SK0417524361;Drienovsk� Nov� Ves;Drienovsk� Nov� Ves;Drienovsk� Nov� Ves;524361
+2315;SK0417524387;Dulova Ves;Dulova Ves;Dulova Ves;524387
+2316;SK0417524395;Fintice;Fintice;Fintice;524395
+2317;SK0417524409;Fri�ovce;Fri�ovce;Fri�ovce;524409
+2318;SK0417524417;Fulianka;Fulianka;Fulianka;524417
+2319;SK0417524425;Geraltov;Geraltov;Geraltov;524425
+2320;SK0417524433;Gregorovce;Gregorovce;Gregorovce;524433
+2321;SK0417524450;Hendrichovce;Hendrichovce;Hendrichovce;524450
+2322;SK0417524468;Hermanovce;Hermanovce;Hermanovce;524468
+2323;SK0417524476;Hrabkov;Hrabkov;Hrabkov;524476
+2324;SK0417524506;Chme�ov;Chme�ov;Chme�ov;524506
+2325;SK0417524514;Chme�ovec;Chme�ovec;Chme�ovec;524514
+2326;SK0417524522;Chminianska Nov� Ves;Chminianska Nov� Ves;Chminianska Nov� Ves;524522
+2327;SK0417524531;Chminianske Jakubovany;Chminianske Jakubovany;Chminianske Jakubovany;524531
+2328;SK0417524549;Chmi�any;Chmi�any;Chmi�any;524549
+2329;SK0417524581;Janov;Janov;Janov;524581
+2330;SK0417524590;Janov�k;Janov�k;Janov�k;524590
+2331;SK0417524620;Kapu�any;Kapu�any;Kapu�any;524620
+2332;SK0417524638;Kendice;Kendice;Kendice;524638
+2333;SK0417524646;Klenov;Klenov;Klenov;524646
+2334;SK0417524654;Kojatice;Kojatice;Kojatice;524654
+2335;SK0417524662;Koko�ovce;Koko�ovce;Koko�ovce;524662
+2336;SK0417524697;Kr�ovany;Kr�ovany;Kr�ovany;524697
+2337;SK0417524701;Kva�any;Kva�any;Kva�any;524701
+2338;SK0417524727;Lada;Lada;Lada;524727
+2339;SK0417524735;La�any;La�any;La�any;524735
+2340;SK0417524743;Leme�any;Leme�any;Leme�any;524743
+2341;SK0417524751;Les��ek;Les��ek;Les��ek;524751
+2342;SK0417524760;Li�artovce;Li�artovce;Li�artovce;524760
+2343;SK0417524786;Lipovce;Lipovce;Lipovce;524786
+2344;SK0417524794;�ubovec;�ubovec;�ubovec;524794
+2345;SK0417524808;L��ina;L��ina;L��ina;524808
+2346;SK0417524832;Mal� Slivn�k;Mal� Slivn�k;Mal� Slivn�k;524832
+2347;SK0417524841;Mal� �ari�;Mal� �ari�;Mal� �ari�;524841
+2348;SK0417524867;Miklu�ovce;Miklu�ovce;Miklu�ovce;524867
+2349;SK0417524883;Mirkovce;Mirkovce;Mirkovce;524883
+2350;SK0417524905;Mo�urov;Mo�urov;Mo�urov;524905
+2351;SK0417524913;Nemcovce;Nemcovce;Nemcovce;524913
+2352;SK0417524930;Okru�n�;Okru�n�;Okru�n�;524930
+2353;SK0417524964;Ondra�ovce;Ondra�ovce;Ondra�ovce;524964
+2354;SK0417524999;Ov�ie;Ov�ie;Ov�ie;524999
+2355;SK0417525014;Petrovany;Petrovany;Petrovany;525014
+2356;SK0417525022;Podhorany;Podhorany;Podhorany;525022
+2357;SK0417525031;Podhrad�k;Podhrad�k;Podhrad�k;525031
+2358;SK0417525057;Pro�;Pro�;Pro�;525057
+2359;SK0417525065;Pu�ovce;Pu�ovce;Pu�ovce;525065
+2360;SK0417525073;Radatice;Radatice;Radatice;525073
+2361;SK0417525111;Rokycany;Rokycany;Rokycany;525111
+2362;SK0417525138;Rusk� Nov� Ves;Rusk� Nov� Ves;Rusk� Nov� Ves;525138
+2363;SK0417525154;Sedlice;Sedlice;Sedlice;525154
+2364;SK0417525162;Seniakovce;Seniakovce;Seniakovce;525162
+2365;SK0417525171;Svinia;Svinia;Svinia;525171
+2366;SK0417525189;�ari�sk� Poruba;�ari�sk� Poruba;�ari�sk� Poruba;525189
+2367;SK0417525197;�ari�sk� Trsten�;�ari�sk� Trsten�;�ari�sk� Trsten�;525197
+2368;SK0417525201;�ari�sk� Bohdanovce;�ari�sk� Bohdanovce;�ari�sk� Bohdanovce;525201
+2369;SK0417525251;�indliar;�indliar;�indliar;525251
+2370;SK0417525260;�irok�;�irok�;�irok�;525260
+2371;SK0417525278;�tefanovce;�tefanovce;�tefanovce;525278
+2372;SK0417525286;Teriakovce;Teriakovce;Teriakovce;525286
+2373;SK0417525294;Ter�a;Ter�a;Ter�a;525294
+2374;SK0417525324;Trnkov;Trnkov;Trnkov;525324
+2375;SK0417525332;Tuhrina;Tuhrina;Tuhrina;525332
+2376;SK0417525341;Tul��k;Tul��k;Tul��k;525341
+2377;SK0417525383;Varha�ovce;Varha�ovce;Varha�ovce;525383
+2378;SK0417525391;Ve�k� Slivn�k;Ve�k� Slivn�k;Ve�k� Slivn�k;525391
+2379;SK0417525405;Ve�k� �ari�;Ve�k� �ari�;Ve�k� �ari�;525405
+2380;SK0417525413;V�az;V�az;V�az;525413
+2381;SK0417525430;Vy�n� �ebastov�;Vy�n� �ebastov�;Vy�n� �ebastov�;525430
+2382;SK0417525448;Z�borsk�;Z�borsk�;Z�borsk�;525448
+2383;SK0417525456;Z�hradn�;Z�hradn�;Z�hradn�;525456
+2384;SK0417525472;Zlat� Ba�a;Zlat� Ba�a;Zlat� Ba�a;525472
+2385;SK0417525499;�eh�a;�eh�a;�eh�a;525499
+2386;SK0417525502;�ipov;�ipov;�ipov;525502
+2387;SK0417525511;�up�any;�up�any;�up�any;525511
+2388;SK0417556823;Medzany;Medzany;Medzany;556823
+2389;SK0417559971;Lipn�ky;Lipn�ky;Lipn�ky;559971
+2390;SK0417559989;Such� Dolina;Such� Dolina;Such� Dolina;559989
+2391;SK0418524182;Bajerovce;Bajerovce;Bajerovce;524182
+2392;SK0418524204;Bodovce;Bodovce;Bodovce;524204
+2393;SK0418524239;Brezovica;Brezovica;Brezovica;524239
+2394;SK0418524247;Brezovi�ka;Brezovi�ka;Brezovi�ka;524247
+2395;SK0418524280;�erven� Voda;�erven� Voda;�erven� Voda;524280
+2396;SK0418524298;�ervenica pri Sabinove;�ervenica pri Sabinove;�ervenica pri Sabinove;524298
+2397;SK0418524310;�a�ov;�a�ov;�a�ov;524310
+2398;SK0418524328;Daletice;Daletice;Daletice;524328
+2399;SK0418524344;Drienica;Drienica;Drienica;524344
+2400;SK0418524379;Dubovica;Dubovica;Dubovica;524379
+2401;SK0418524441;Hanigovce;Hanigovce;Hanigovce;524441
+2402;SK0418524492;Hubo�ovce;Hubo�ovce;Hubo�ovce;524492
+2403;SK0418524557;Jakovany;Jakovany;Jakovany;524557
+2404;SK0418524565;Jakubova Vo�a;Jakubova Vo�a;Jakubova Vo�a;524565
+2405;SK0418524573;Jakubovany;Jakubovany;Jakubovany;524573
+2406;SK0418524603;Jarovnice;Jarovnice;Jarovnice;524603
+2407;SK0418524611;Kamenica;Kamenica;Kamenica;524611
+2408;SK0418524671;Kr�sna L�ka;Kr�sna L�ka;Kr�sna L�ka;524671
+2409;SK0418524689;Krivany;Krivany;Krivany;524689
+2410;SK0418524778;Lipany;Lipany;Lipany;524778
+2411;SK0418524816;L��ka;L��ka;L��ka;524816
+2412;SK0418524824;�utina;�utina;�utina;524824
+2413;SK0418524875;Milpo�;Milpo�;Milpo�;524875
+2414;SK0418524921;Ni�n� Slavkov;Ni�n� Slavkov;Ni�n� Slavkov;524921
+2415;SK0418524948;Olejn�kov;Olejn�kov;Olejn�kov;524948
+2416;SK0418524956;O��ov;O��ov;O��ov;524956
+2417;SK0418524981;Ostrovany;Ostrovany;Ostrovany;524981
+2418;SK0418525006;Pe�ovsk� Nov� Ves;Pe�ovsk� Nov� Ves;Pe�ovsk� Nov� Ves;525006
+2419;SK0418525049;Poloma;Poloma;Poloma;525049
+2420;SK0418525081;Ratvaj;Ratvaj;Ratvaj;525081
+2421;SK0418525090;Ra��any;Ra��any;Ra��any;525090
+2422;SK0418525103;Ren�i�ov;Ren�i�ov;Ren�i�ov;525103
+2423;SK0418525120;Ro�kovany;Ro�kovany;Ro�kovany;525120
+2424;SK0418525146;Sabinov;Sabinov;Sabinov;525146
+2425;SK0418525219;�ari�sk� Dravce;�ari�sk� Dravce;�ari�sk� Dravce;525219
+2426;SK0418525235;�ari�sk� Micha�any;�ari�sk� Micha�any;�ari�sk� Micha�any;525235
+2427;SK0418525243;�ari�sk� Sokolovce;�ari�sk� Sokolovce;�ari�sk� Sokolovce;525243
+2428;SK0418525308;Tich� Potok;Tich� Potok;Tich� Potok;525308
+2429;SK0418525316;Torysa;Torysa;Torysa;525316
+2430;SK0418525359;Uzovce;Uzovce;Uzovce;525359
+2431;SK0418525367;Uzovsk� Pek�any;Uzovsk� Pek�any;Uzovsk� Pek�any;525367
+2432;SK0418525375;Uzovsk� �algov;Uzovsk� �algov;Uzovsk� �algov;525375
+2433;SK0418525421;Vysok�;Vysok�;Vysok�;525421
+2434;SK0419520039;Bel� nad Cirochou;Bel� nad Cirochou;Bel� nad Cirochou;520039
+2435;SK0419520080;Brezovec;Brezovec;Brezovec;520080
+2436;SK0419520136;�ukalovce;�ukalovce;�ukalovce;520136
+2437;SK0419520161;Dlh� nad Cirochou;Dlh� nad Cirochou;Dlh� nad Cirochou;520161
+2438;SK0419520179;D�brava;D�brava;D�brava;520179
+2439;SK0419520209;Hostovice;Hostovice;Hostovice;520209
+2440;SK0419520217;Hrabov� Roztoka;Hrabov� Roztoka;Hrabov� Roztoka;520217
+2441;SK0419520284;Jalov�;Jalov�;Jalov�;520284
+2442;SK0419520322;Kaln� Roztoka;Kaln� Roztoka;Kaln� Roztoka;520322
+2443;SK0419520365;Klenov�;Klenov�;Klenov�;520365
+2444;SK0419520381;Kolbasov;Kolbasov;Kolbasov;520381
+2445;SK0419520390;Kolonica;Kolonica;Kolonica;520390
+2446;SK0419520438;Ladomirov;Ladomirov;Ladomirov;520438
+2447;SK0419520489;Michajlov;Michajlov;Michajlov;520489
+2448;SK0419520551;Nov� Sedlica;Nov� Sedlica;Nov� Sedlica;520551
+2449;SK0419520594;Osadn�;Osadn�;Osadn�;520594
+2450;SK0419520632;Parihuzovce;Parihuzovce;Parihuzovce;520632
+2451;SK0419520641;P�olin�;P�olin�;P�olin�;520641
+2452;SK0419520659;Pichne;Pichne;Pichne;520659
+2453;SK0419520675;Pr�slop;Pr�slop;Pr�slop;520675
+2454;SK0419520730;Runina;Runina;Runina;520730
+2455;SK0419520748;Rusk� Volov�;Rusk� Volov�;Rusk� Volov�;520748
+2456;SK0419520764;Rusk� Potok;Rusk� Potok;Rusk� Potok;520764
+2457;SK0419520802;Snina;Snina;Snina;520802
+2458;SK0419520811;Stak��nska Roztoka;Stak��nska Roztoka;Stak��nska Roztoka;520811
+2459;SK0419520829;Stak��n;Stak��n;Stak��n;520829
+2460;SK0419520845;Strihovce;Strihovce;Strihovce;520845
+2461;SK0419520870;�migovec;�migovec;�migovec;520870
+2462;SK0419520888;Topo�a;Topo�a;Topo�a;520888
+2463;SK0419520918;Ub�a;Ub�a;Ub�a;520918
+2464;SK0419520934;Uli�;Uli�;Uli�;520934
+2465;SK0419520942;Uli�sk� Kriv�;Uli�sk� Kriv�;Uli�sk� Kriv�;520942
+2466;SK0419521051;Zboj;Zboj;Zboj;521051
+2467;SK0419521108;Zempl�nske H�mre;Zempl�nske H�mre;Zempl�nske H�mre;521108
+2468;SK042A526355;Spi�sk� Nov� Ves;Spi�sk� Nov� Ves;Spi�sk� Nov� Ves;526355
+2469;SK042A526363;Arnutovce;Arnutovce;Arnutovce;526363
+2470;SK042A526398;Betlanovce;Betlanovce;Betlanovce;526398
+2471;SK042A526436;Bystrany;Bystrany;Bystrany;526436
+2472;SK042A526444;Dani�ovce;Dani�ovce;Dani�ovce;526444
+2473;SK042A526533;Harichovce;Harichovce;Harichovce;526533
+2474;SK042A526568;Hincovce;Hincovce;Hincovce;526568
+2475;SK042A526576;Hnil��k;Hnil��k;Hnil��k;526576
+2476;SK042A526584;Hnilec;Hnilec;Hnilec;526584
+2477;SK042A526592;Hrabu�ice;Hrabu�ice;Hrabu�ice;526592
+2478;SK042A526657;�ehra;�ehra;�ehra;526657
+2479;SK042A543152;Chras� nad Horn�dom;Chras� nad Horn�dom;Chras� nad Horn�dom;543152
+2480;SK042A543161;Ilia�ovce;Ilia�ovce;Ilia�ovce;543161
+2481;SK042A543195;Jamn�k;Jamn�k;Jamn�k;543195
+2482;SK042A543209;Ka�ava;Ka�ava;Ka�ava;543209
+2483;SK042A543250;Kolinovce;Kolinovce;Kolinovce;543250
+2484;SK042A543268;Krompachy;Krompachy;Krompachy;543268
+2485;SK042A543284;Letanovce;Letanovce;Letanovce;543284
+2486;SK042A543306;Lieskovany;Lieskovany;Lieskovany;543306
+2487;SK042A543331;Marku�ovce;Marku�ovce;Marku�ovce;543331
+2488;SK042A543349;Matejovce nad Horn�dom;Matejovce nad Horn�dom;Matejovce nad Horn�dom;543349
+2489;SK042A543357;Mlynky;Mlynky;Mlynky;543357
+2490;SK042A543403;Odor�n;Odor�n;Odor�n;543403
+2491;SK042A543411;Olcnava;Olcnava;Olcnava;543411
+2492;SK042A543438;O��avka;O��avka;O��avka;543438
+2493;SK042A543489;Por��;Por��;Por��;543489
+2494;SK042A543519;Rud�any;Rud�any;Rud�any;543519
+2495;SK042A543527;Slatvina;Slatvina;Slatvina;543527
+2496;SK042A543535;Slovinky;Slovinky;Slovinky;543535
+2497;SK042A543586;Spi�sk� Tom�ovce;Spi�sk� Tom�ovce;Spi�sk� Tom�ovce;543586
+2498;SK042A543594;Spi�sk� Vlachy;Spi�sk� Vlachy;Spi�sk� Vlachy;543594
+2499;SK042A543616;Spi�sk� Hru�ov;Spi�sk� Hru�ov;Spi�sk� Hru�ov;543616
+2500;SK042A543667;Tepli�ka;Tepli�ka;Tepli�ka;543667
+2501;SK042A543713;V�tkovce;V�tkovce;V�tkovce;543713
+2502;SK042A543721;Vojkovce;Vojkovce;Vojkovce;543721
+2503;SK042A560154;Smi�any;Smi�any;Smi�any;560154
+2504;SK042B513792;Mal� T��a;Mal� T��a;Mal� T��a;513792
+2505;SK042B513806;Ve�k� T��a;Ve�k� T��a;Ve�k� T��a;513806
+2506;SK042B513831;Klin nad Bodrogom;Klin nad Bodrogom;Klin nad Bodrogom;513831
+2507;SK042B513849;Stan�a;Stan�a;Stan�a;513849
+2508;SK042B528099;Trebi�ov;Trebi�ov;Trebi�ov;528099
+2509;SK042B528102;Ba�ka;Ba�ka;Ba�ka;528102
+2510;SK042B528111;Ba�kov;Ba�kov;Ba�kov;528111
+2511;SK042B528129;Bara;Bara;Bara;528129
+2512;SK042B528145;Biel;Biel;Biel;528145
+2513;SK042B528153;Sv�t� M�ria;Sv�t� M�ria;Sv�t� M�ria;528153
+2514;SK042B528161;Bo�;Bo�;Bo�;528161
+2515;SK042B528170;Bor�a;Bor�a;Bor�a;528170
+2516;SK042B528188;Bo�any;Bo�any;Bo�any;528188
+2517;SK042B528200;Brehov;Brehov;Brehov;528200
+2518;SK042B528218;Brezina;Brezina;Brezina;528218
+2519;SK042B528226;By�ta;By�ta;By�ta;528226
+2520;SK042B528234;Cejkov;Cejkov;Cejkov;528234
+2521;SK042B528242;�e�ovce;�e�ovce;�e�ovce;528242
+2522;SK042B528251;�erhov;�erhov;�erhov;528251
+2523;SK042B528269;�ernochov;�ernochov;�ernochov;528269
+2524;SK042B528285;�ierna;�ierna;�ierna;528285
+2525;SK042B528293;�ierna nad Tisou;�ierna nad Tisou;�ierna nad Tisou;528293
+2526;SK042B528315;Dargov;Dargov;Dargov;528315
+2527;SK042B528323;Dobr�;Dobr�;Dobr�;528323
+2528;SK042B528340;Dvorianky;Dvorianky;Dvorianky;528340
+2529;SK042B528358;Egre�;Egre�;Egre�;528358
+2530;SK042B528366;Hra�;Hra�;Hra�;528366
+2531;SK042B528374;Hr�e�;Hr�e�;Hr�e�;528374
+2532;SK042B528382;Hriadky;Hriadky;Hriadky;528382
+2533;SK042B528412;Ka�ov;Ka�ov;Ka�ov;528412
+2534;SK042B528421;Kazim�r;Kazim�r;Kazim�r;528421
+2535;SK042B528439;Ko�uchov;Ko�uchov;Ko�uchov;528439
+2536;SK042B528447;Kr�ovsk� Chlmec;Kr�ovsk� Chlmec;Kr�ovsk� Chlmec;528447
+2537;SK042B528455;Kravany;Kravany;Kravany;528455
+2538;SK042B528471;Kuzmice;Kuzmice;Kuzmice;528471
+2539;SK042B528480;Kysta;Kysta;Kysta;528480
+2540;SK042B528498;Ladmovce;Ladmovce;Ladmovce;528498
+2541;SK042B528501;Lastovce;Lastovce;Lastovce;528501
+2542;SK042B528510;Leles;Leles;Leles;528510
+2543;SK042B528528;Luhy�a;Luhy�a;Luhy�a;528528
+2544;SK042B528536;Mal� Ozorovce;Mal� Ozorovce;Mal� Ozorovce;528536
+2545;SK042B528544;Mal� Trakany;Mal� Trakany;Mal� Trakany;528544
+2546;SK042B528552;Mal� Hore�;Mal� Hore�;Mal� Hore�;528552
+2547;SK042B528561;Mal� Kamenec;Mal� Kamenec;Mal� Kamenec;528561
+2548;SK042B528587;Micha�any;Micha�any;Micha�any;528587
+2549;SK042B528609;Ni�n� �ipov;Ni�n� �ipov;Ni�n� �ipov;528609
+2550;SK042B528617;Novosad;Novosad;Novosad;528617
+2551;SK042B528625;Nov� Ruskov;Nov� Ruskov;Nov� Ruskov;528625
+2552;SK042B528641;Plechotice;Plechotice;Plechotice;528641
+2553;SK042B528650;Sv�tu�e;Sv�tu�e;Sv�tu�e;528650
+2554;SK042B528668;Po�any;Po�any;Po�any;528668
+2555;SK042B528676;Parchovany;Parchovany;Parchovany;528676
+2556;SK042B528684;Priben�k;Priben�k;Priben�k;528684
+2557;SK042B528706;Rad;Rad;Rad;528706
+2558;SK042B528722;Se�ovce;Se�ovce;Se�ovce;528722
+2559;SK042B543730;Sirn�k;Sirn�k;Sirn�k;543730
+2560;SK042B543748;Slivn�k;Slivn�k;Slivn�k;543748
+2561;SK042B543756;Slovensk� Nov� Mesto;Slovensk� Nov� Mesto;Slovensk� Nov� Mesto;543756
+2562;SK042B543764;So�ni�ka;So�ni�ka;So�ni�ka;543764
+2563;SK042B543772;Somotor;Somotor;Somotor;543772
+2564;SK042B543781;Stankovce;Stankovce;Stankovce;543781
+2565;SK042B543799;Str�ne;Str�ne;Str�ne;543799
+2566;SK042B543802;Streda nad Bodrogom;Streda nad Bodrogom;Streda nad Bodrogom;543802
+2567;SK042B543811;Svinice;Svinice;Svinice;543811
+2568;SK042B543829;Trn�vka;Trn�vka;Trn�vka;543829
+2569;SK042B543845;Ve�aty;Ve�aty;Ve�aty;543845
+2570;SK042B543861;Ve�k� Ozorovce;Ve�k� Ozorovce;Ve�k� Ozorovce;543861
+2571;SK042B543896;Ve�k� Trakany;Ve�k� Trakany;Ve�k� Trakany;543896
+2572;SK042B543900;Ve�k� Hore�;Ve�k� Hore�;Ve�k� Hore�;543900
+2573;SK042B543918;Ve�k� Kamenec;Ve�k� Kamenec;Ve�k� Kamenec;543918
+2574;SK042B543926;Vini�ky;Vini�ky;Vini�ky;543926
+2575;SK042B543934;Vi��ov;Vi��ov;Vi��ov;543934
+2576;SK042B543951;Voj�ice;Voj�ice;Voj�ice;543951
+2577;SK042B543969;Vojka;Vojka;Vojka;543969
+2578;SK042B543977;Zat�n;Zat�n;Zat�n;543977
+2579;SK042B543985;Zbeh�ov;Zbeh�ov;Zbeh�ov;543985
+2580;SK042B543993;Zempl�n;Zempl�n;Zempl�n;543993
+2581;SK042B544001;Zempl�nska Nov� Ves;Zempl�nska Nov� Ves;Zempl�nska Nov� Ves;544001
+2582;SK042B544019;Zempl�nska Teplica;Zempl�nska Teplica;Zempl�nska Teplica;544019
+2583;SK042B544027;Zempl�nske Hradi�te;Zempl�nske Hradi�te;Zempl�nske Hradi�te;544027
+2584;SK042B544035;Zempl�nske Jastrabie;Zempl�nske Jastrabie;Zempl�nske Jastrabie;544035
+2585;SK042B544043;Zempl�nsky Bran�;Zempl�nsky Bran�;Zempl�nsky Bran�;544043
+2586;SK0421526509;Gelnica;Gelnica;Gelnica;526509
+2587;SK0421526541;Helcmanovce;Helcmanovce;Helcmanovce;526541
+2588;SK0421526550;Henclov�;Henclov�;Henclov�;526550
+2589;SK0421526631;Z�vadka;Z�vadka;Z�vadka;526631
+2590;SK0421526649;�akarovce;�akarovce;�akarovce;526649
+2591;SK0421543144;Hri�ovce;Hri�ovce;Hri�ovce;543144
+2592;SK0421543187;Jaklovce;Jaklovce;Jaklovce;543187
+2593;SK0421543233;Kluknava;Kluknava;Kluknava;543233
+2594;SK0421543241;Koj�ov;Koj�ov;Koj�ov;543241
+2595;SK0421543322;Margecany;Margecany;Margecany;543322
+2596;SK0421543365;Mn�ek nad Hnilcom;Mn�ek nad Hnilcom;Mn�ek nad Hnilcom;543365
+2597;SK0421543373;N�lepkovo;N�lepkovo;N�lepkovo;543373
+2598;SK0421543497;Prakovce;Prakovce;Prakovce;543497
+2599;SK0421543501;Richnava;Richnava;Richnava;543501
+2600;SK0421543551;Smoln�cka Huta;Smoln�cka Huta;Smoln�cka Huta;543551
+2601;SK0421543560;Smoln�k;Smoln�k;Smoln�k;543560
+2602;SK0421543632;Star� Voda;Star� Voda;Star� Voda;543632
+2603;SK0421543659;�vedl�r;�vedl�r;�vedl�r;543659
+2604;SK0421543683;�horn�;�horn�;�horn�;543683
+2605;SK0421543705;Ve�k� Folkmar;Ve�k� Folkmar;Ve�k� Folkmar;543705
+2606;SK0422598119;Ko�ice - mestsk� �as� Kave�any;Ko�ice-Kave�any;Ko�ice-Kave�any;598119
+2607;SK0422598127;Ko�ice - mestsk� �as� �ahanovce;Ko�ice-�ahanovce;Ko�ice-�ahanovce;598127
+2608;SK0422598151;Ko�ice - mestsk� �as� Sever;Ko�ice-Sever;Ko�ice-Sever;598151
+2609;SK0422598186;Ko�ice - mestsk� �as� Star� Mesto;Ko�ice-Star� Mesto;Ko�ice-Star� Mesto;598186
+2610;SK0422599875;Ko�ice - mestsk� �as� S�dlisko �ahanovce;Ko�ice-S�dlisko �ahanovce;Ko�ice-S�dl.�ahanovce;599875
+2611;SK0422599891;Ko�ice - mestsk� �as� D�ung�a;Ko�ice-D�ung�a;Ko�ice-D�ung�a;599891
+2612;SK0423598194;Ko�ice - mestsk� �as� Lorin��k;Ko�ice-Lorin��k;Ko�ice-Lorin��k;598194
+2613;SK0423598208;Ko�ice - mestsk� �as� Pere�;Ko�ice-Pere�;Ko�ice-Pere�;598208
+2614;SK0423598216;Ko�ice - mestsk� �as� Myslava;Ko�ice-Myslava;Ko�ice-Myslava;598216
+2615;SK0423598224;Ko�ice - mestsk� �as� Z�pad;Ko�ice-Z�pad;Ko�ice-Z�pad;598224
+2616;SK0423599841;Ko�ice - mestsk� �as� �aca;Ko�ice-�aca;Ko�ice-�aca;599841
+2617;SK0423599859;Ko�ice - mestsk� �as� Po�ov;Ko�ice-Po�ov;Ko�ice-Po�ov;599859
+2618;SK0423599883;Ko�ice - mestsk� �as� S�dlisko KVP;Ko�ice-S�dlisko KVP;Ko�ice-S�dlisko KVP;599883
+2619;SK0423599972;Ko�ice - mestsk� �as� Lun�k IX;Ko�ice-Lun�k IX;Ko�ice-Lun�k IX;599972
+2620;SK0424598682;Ko�ice - mestsk� �as� Dargovsk�ch hrdinov;Ko�ice-Dargovsk�ch hrdinov;Ko�ice-Dargov.hrdinov;598682
+2621;SK0424599018;Ko�ice - mestsk� �as� Ko�ick� Nov� Ves;Ko�ice-Ko�ick� Nov� Ves;Ko�ice-Ko�ic.Nov� Ves;599018
+2622;SK0425599093;Ko�ice - mestsk� �as� Barca;Ko�ice-Barca;Ko�ice-Barca;599093
+2623;SK0425599786;Ko�ice - mestsk� �as� �ebastovce;Ko�ice-�ebastovce;Ko�ice-�ebastovce;599786
+2624;SK0425599794;Ko�ice - mestsk� �as� Kr�sna;Ko�ice-Kr�sna;Ko�ice-Kr�sna;599794
+2625;SK0425599816;Ko�ice - mestsk� �as� Nad jazerom;Ko�ice-Nad jazerom;Ko�ice-Nad jazerom;599816
+2626;SK0425599824;Ko�ice - mestsk� �as� Juh;Ko�ice-Juh;Ko�ice-Juh;599824
+2627;SK0425599913;Ko�ice - mestsk� �as� Vy�n� Op�tske;Ko�ice-Vy�n� Op�tske;Ko�ice-Vy�n� Op�tske;599913
+2628;SK0426518107;Hos�ovce;Hos�ovce;Hos�ovce;518107
+2629;SK0426518115;Slan��k;Slan��k;Slan��k;518115
+2630;SK0426518123;H�j;H�j;H�j;518123
+2631;SK0426518140;Ni�n� Hutka;Ni�n� Hutka;Ni�n� Hutka;518140
+2632;SK0426521141;Ba�kov�k;Ba�kov�k;Ba�kov�k;521141
+2633;SK0426521159;Ba�ka;Ba�ka;Ba�ka;521159
+2634;SK0426521167;Bel�a;Bel�a;Bel�a;521167
+2635;SK0426521175;Beniakovce;Beniakovce;Beniakovce;521175
+2636;SK0426521183;Bidovce;Bidovce;Bidovce;521183
+2637;SK0426521191;Bla�ice;Bla�ice;Bla�ice;521191
+2638;SK0426521205;Bohdanovce;Bohdanovce;Bohdanovce;521205
+2639;SK0426521213;Boliarov;Boliarov;Boliarov;521213
+2640;SK0426521221;Budim�r;Budim�r;Budim�r;521221
+2641;SK0426521248;Bukovec;Bukovec;Bukovec;521248
+2642;SK0426521256;Bunetice;Bunetice;Bunetice;521256
+2643;SK0426521264;Buzica;Buzica;Buzica;521264
+2644;SK0426521272;Cestice;Cestice;Cestice;521272
+2645;SK0426521281;�akanovce;�akanovce;�akanovce;521281
+2646;SK0426521299;�a�a;�a�a;�a�a;521299
+2647;SK0426521302;�e�ejovce;�e�ejovce;�e�ejovce;521302
+2648;SK0426521311;�i�atice;�i�atice;�i�atice;521311
+2649;SK0426521329;Debra�;Debra�;Debra�;521329
+2650;SK0426521337;Drienovec;Drienovec;Drienovec;521337
+2651;SK0426521345;Dru�stevn� pri Horn�de;Dru�stevn� pri Horn�de;Dru�stevn� pri Horn�de;521345
+2652;SK0426521353;�ur�o��k;�ur�o��k;�ur�o��k;521353
+2653;SK0426521361;�urkov;�urkov;�urkov;521361
+2654;SK0426521370;Ge�a;Ge�a;Ge�a;521370
+2655;SK0426521388;Gy�ov;Gy�ov;Gy�ov;521388
+2656;SK0426521396;Ha�ava;Ha�ava;Ha�ava;521396
+2657;SK0426521400;Haniska;Haniska;Haniska;521400
+2658;SK0426521418;Her�any;Her�any;Her�any;521418
+2659;SK0426521426;Hodkovce;Hodkovce;Hodkovce;521426
+2660;SK0426521442;Hra�ov�k;Hra�ov�k;Hra�ov�k;521442
+2661;SK0426521469;H��ov;H��ov;H��ov;521469
+2662;SK0426521477;Chrastn�;Chrastn�;Chrastn�;521477
+2663;SK0426521485;Jan�k;Jan�k;Jan�k;521485
+2664;SK0426521493;Jasov;Jasov;Jasov;521493
+2665;SK0426521507;Kal�a;Kal�a;Kal�a;521507
+2666;SK0426521523;Kecerovce;Kecerovce;Kecerovce;521523
+2667;SK0426521540;Kecerovsk� Lipovec;Kecerovsk� Lipovec;Kecerovsk� Lipovec;521540
+2668;SK0426521558;Kok�ov-Bak�a;Kok�ov-Bak�a;Kok�ov-Bak�a;521558
+2669;SK0426521566;Kom�rovce;Kom�rovce;Kom�rovce;521566
+2670;SK0426521574;Ko�ick� Bel�;Ko�ick� Bel�;Ko�ick� Bel�;521574
+2671;SK0426521582;Ko�ick� Polianka;Ko�ick� Polianka;Ko�ick� Polianka;521582
+2672;SK0426521591;Ko�ick� O��any;Ko�ick� O��any;Ko�ick� O��any;521591
+2673;SK0426521604;Ko�ick� Kle�enov;Ko�ick� Kle�enov;Ko�ick� Kle�enov;521604
+2674;SK0426521612;Kr�ovce;Kr�ovce;Kr�ovce;521612
+2675;SK0426521639;Kysak;Kysak;Kysak;521639
+2676;SK0426521655;Mal� Ida;Mal� Ida;Mal� Ida;521655
+2677;SK0426521663;Mal� Lodina;Mal� Lodina;Mal� Lodina;521663
+2678;SK0426521671;Medzev;Medzev;Medzev;521671
+2679;SK0426521680;Mokrance;Mokrance;Mokrance;521680
+2680;SK0426521698;Moldava nad Bodvou;Moldava nad Bodvou;Moldava nad Bodvou;521698
+2681;SK0426521701;Mudrovce;Mudrovce;Mudrovce;521701
+2682;SK0426521728;Ni�n� Kamenica;Ni�n� Kamenica;Ni�n� Kamenica;521728
+2683;SK0426521736;Ni�n� My��a;Ni�n� My��a;Ni�n� My��a;521736
+2684;SK0426521744;Ni�n� �aj;Ni�n� �aj;Ni�n� �aj;521744
+2685;SK0426521752;Ni�n� Kl�tov;Ni�n� Kl�tov;Ni�n� Kl�tov;521752
+2686;SK0426521761;Ni�n� L�nec;Ni�n� L�nec;Ni�n� L�nec;521761
+2687;SK0426521779;Turnianska Nov� Ves;Turnianska Nov� Ves;Turnianska Nov� Ves;521779
+2688;SK0426521787;Nov��any;Nov��any;Nov��any;521787
+2689;SK0426521795;Nov� Polhora;Nov� Polhora;Nov� Polhora;521795
+2690;SK0426521809;Nov� Sala�;Nov� Sala�;Nov� Sala�;521809
+2691;SK0426521817;Obi�ovce;Obi�ovce;Obi�ovce;521817
+2692;SK0426521825;Ol�ovany;Ol�ovany;Ol�ovany;521825
+2693;SK0426521833;Op�tka;Op�tka;Op�tka;521833
+2694;SK0426521841;Opin�;Opin�;Opin�;521841
+2695;SK0426521850;Pa�ovce;Pa�ovce;Pa�ovce;521850
+2696;SK0426521868;Peder;Peder;Peder;521868
+2697;SK0426521876;Per�n-Chym;Per�n-Chym;Per�n-Chym;521876
+2698;SK0426521884;Plosk�;Plosk�;Plosk�;521884
+2699;SK0426521892;Popro�;Popro�;Popro�;521892
+2700;SK0426521906;R�ko�;R�ko�;R�ko�;521906
+2701;SK0426521914;Rankovce;Rankovce;Rankovce;521914
+2702;SK0426521922;Re�ica;Re�ica;Re�ica;521922
+2703;SK0426521931;Rozhanovce;Rozhanovce;Rozhanovce;521931
+2704;SK0426521949;Rudn�k;Rudn�k;Rudn�k;521949
+2705;SK0426521957;Ruskov;Ruskov;Ruskov;521957
+2706;SK0426521965;Sady nad Torysou;Sady nad Torysou;Sady nad Torysou;521965
+2707;SK0426521973;Se�a;Se�a;Se�a;521973
+2708;SK0426521981;Sk�ro�;Sk�ro�;Sk�ro�;521981
+2709;SK0426522007;Slanec;Slanec;Slanec;522007
+2710;SK0426522015;Slansk� Huta;Slansk� Huta;Slansk� Huta;522015
+2711;SK0426522023;Slansk� Nov� Mesto;Slansk� Nov� Mesto;Slansk� Nov� Mesto;522023
+2712;SK0426522031;Soko�;Soko�;Soko�;522031
+2713;SK0426522040;Svinica;Svinica;Svinica;522040
+2714;SK0426522066;�em�a;�em�a;�em�a;522066
+2715;SK0426522074;�t�s;�t�s;�t�s;522074
+2716;SK0426522082;Trebejov;Trebejov;Trebejov;522082
+2717;SK0426522091;Trs�any;Trs�any;Trs�any;522091
+2718;SK0426522104;Trsten� pri Horn�de;Trsten� pri Horn�de;Trsten� pri Horn�de;522104
+2719;SK0426522121;Vajkovce;Vajkovce;Vajkovce;522121
+2720;SK0426522139;Valaliky;Valaliky;Valaliky;522139
+2721;SK0426522147;Ve�k� Ida;Ve�k� Ida;Ve�k� Ida;522147
+2722;SK0426522155;Ve�k� Lodina;Ve�k� Lodina;Ve�k� Lodina;522155
+2723;SK0426522163;Vt��kovce;Vt��kovce;Vt��kovce;522163
+2724;SK0426522171;Vy�n� Hutka;Vy�n� Hutka;Vy�n� Hutka;522171
+2725;SK0426522180;Vy�n� Kamenica;Vy�n� Kamenica;Vy�n� Kamenica;522180
+2726;SK0426522198;Vy�n� My��a;Vy�n� My��a;Vy�n� My��a;522198
+2727;SK0426522201;Vy�n� �aj;Vy�n� �aj;Vy�n� �aj;522201
+2728;SK0426522210;Vy�n� Kl�tov;Vy�n� Kl�tov;Vy�n� Kl�tov;522210
+2729;SK0426522244;Zlat� Idka;Zlat� Idka;Zlat� Idka;522244
+2730;SK0426522252;�arnov;�arnov;�arnov;522252
+2731;SK0426522261;�da�a;�da�a;�da�a;522261
+2732;SK0426559687;Kechnec;Kechnec;Kechnec;559687
+2733;SK0426559784;Tur�a nad Bodvou;Tur�a nad Bodvou;Tur�a nad Bodvou;559784
+2734;SK0426559831;Bo�iar;Bo�iar;Bo�iar;559831
+2735;SK0426559865;Soko�any;Soko�any;Soko�any;559865
+2736;SK0426559873;Dvorn�ky-V�el�re;Dvorn�ky-V�el�re;Dvorn�ky-V�el�re;559873
+2737;SK0426559881;Z�diel;Z�diel;Z�diel;559881
+2738;SK0426580252;Milhos�;Milhos�;Milhos�;580252
+2739;SK0426582093;Vy�n� Medzev;Vy�n� Medzev;Vy�n� Medzev;582093
+2740;SK0426582514;Kosto�any nad Horn�dom;Kosto�any nad Horn�dom;Kosto�any nad Horn�dom;582514
+2741;SK0426599310;Chorv�ty;Chorv�ty;Chorv�ty;599310
+2742;SK0427513857;Budince;Budince;Budince;513857
+2743;SK0427522279;Michalovce;Michalovce;Michalovce;522279
+2744;SK0427522287;Bajany;Bajany;Bajany;522287
+2745;SK0427522295;B�novce nad Ondavou;B�novce nad Ondavou;B�novce nad Ondavou;522295
+2746;SK0427522368;Bracovce;Bracovce;Bracovce;522368
+2747;SK0427522376;Budkovce;Budkovce;Budkovce;522376
+2748;SK0427522392;�e�ehov;�e�ehov;�e�ehov;522392
+2749;SK0427522406;D�bravka;D�bravka;D�bravka;522406
+2750;SK0427522414;Falku�ovce;Falku�ovce;Falku�ovce;522414
+2751;SK0427522431;Hatalov;Hatalov;Hatalov;522431
+2752;SK0427522449;Ha��n;Ha��n;Ha��n;522449
+2753;SK0427522465;Hnojn�;Hnojn�;Hnojn�;522465
+2754;SK0427522481;Horovce;Horovce;Horovce;522481
+2755;SK0427522511;I�a�ovce;I�a�ovce;I�a�ovce;522511
+2756;SK0427522546;Jastrabie pri Michalovciach;Jastrabie pri Michalovciach;Jastrabie pri Michalov.;522546
+2757;SK0427522562;Jovsa;Jovsa;Jovsa;522562
+2758;SK0427522571;Ka�anov;Ka�anov;Ka�anov;522571
+2759;SK0427522589;Kalu�a;Kalu�a;Kalu�a;522589
+2760;SK0427522597;Kloko�ov;Kloko�ov;Kloko�ov;522597
+2761;SK0427522635;Zempl�nske Kop�any;Zempl�nske Kop�any;Zempl�nske Kop�any;522635
+2762;SK0427522651;Kr�snovce;Kr�snovce;Kr�snovce;522651
+2763;SK0427522686;Kus�n;Kus�n;Kus�n;522686
+2764;SK0427522694;Lastom�r;Lastom�r;Lastom�r;522694
+2765;SK0427522708;La�kovce;La�kovce;La�kovce;522708
+2766;SK0427522724;Lesn�;Lesn�;Lesn�;522724
+2767;SK0427522732;Lo��n;Lo��n;Lo��n;522732
+2768;SK0427522741;L��ky;L��ky;L��ky;522741
+2769;SK0427522759;Mal�ice;Mal�ice;Mal�ice;522759
+2770;SK0427522767;Mal� Ra�kovce;Mal� Ra�kovce;Mal� Ra�kovce;522767
+2771;SK0427522783;Markovce;Markovce;Markovce;522783
+2772;SK0427522791;Moravany;Moravany;Moravany;522791
+2773;SK0427522805;Nacina Ves;Nacina Ves;Nacina Ves;522805
+2774;SK0427522848;Oresk�;Oresk�;Oresk�;522848
+2775;SK0427522864;Pal�n;Pal�n;Pal�n;522864
+2776;SK0427522872;Pavlovce nad Uhom;Pavlovce nad Uhom;Pavlovce nad Uhom;522872
+2777;SK0427522881;Petrikovce;Petrikovce;Petrikovce;522881
+2778;SK0427522902;Petrovce nad Laborcom;Petrovce nad Laborcom;Petrovce nad Laborcom;522902
+2779;SK0427522945;Poruba pod Vihorlatom;Poruba pod Vihorlatom;Poruba pod Vihorlatom;522945
+2780;SK0427522961;Pozdi�ovce;Pozdi�ovce;Pozdi�ovce;522961
+2781;SK0427522988;Pust� �emern�;Pust� �emern�;Pust� �emern�;522988
+2782;SK0427522996;Rakovec nad Ondavou;Rakovec nad Ondavou;Rakovec nad Ondavou;522996
+2783;SK0427523054;Senn�;Senn�;Senn�;523054
+2784;SK0427523062;Slavkovce;Slavkovce;Slavkovce;523062
+2785;SK0427523071;Sliepkovce;Sliepkovce;Sliepkovce;523071
+2786;SK0427523097;Star�;Star�;Star�;523097
+2787;SK0427523101;Str�ske;Str�ske;Str�ske;523101
+2788;SK0427523119;Stretava;Stretava;Stretava;523119
+2789;SK0427523127;Stretavka;Stretavka;Stretavka;523127
+2790;SK0427523135;Such�;Such�;Such�;523135
+2791;SK0427523151;�amudovce;�amudovce;�amudovce;523151
+2792;SK0427523186;Trhovi�te;Trhovi�te;Trhovi�te;523186
+2793;SK0427523194;Trnava pri Laborci;Trnava pri Laborci;Trnava pri Laborci;523194
+2794;SK0427523208;Tu�ice;Tu�ice;Tu�ice;523208
+2795;SK0427523216;Tu�ick� Nov� Ves;Tu�ick� Nov� Ves;Tu�ick� Nov� Ves;523216
+2796;SK0427523241;Zalu�ice;Zalu�ice;Zalu�ice;523241
+2797;SK0427523259;Vinn�;Vinn�;Vinn�;523259
+2798;SK0427523275;Vo�a;Vo�a;Vo�a;523275
+2799;SK0427523283;Vrbnica;Vrbnica;Vrbnica;523283
+2800;SK0427523291;Vysok� nad Uhom;Vysok� nad Uhom;Vysok� nad Uhom;523291
+2801;SK0427523348;Z�vadka;Z�vadka;Z�vadka;523348
+2802;SK0427523356;Zbudza;Zbudza;Zbudza;523356
+2803;SK0427523364;Zempl�nska �irok�;Zempl�nska �irok�;Zempl�nska �irok�;523364
+2804;SK0427523372;�bince;�bince;�bince;523372
+2805;SK0427528137;Be�a;Be�a;Be�a;528137
+2806;SK0427528277;�i�arovce;�i�arovce;�i�arovce;528277
+2807;SK0427528307;�ierne Pole;�ierne Pole;�ierne Pole;528307
+2808;SK0427528331;Drah�ov;Drah�ov;Drah�ov;528331
+2809;SK0427528391;I�kovce;I�kovce;I�kovce;528391
+2810;SK0427528404;Kapu�ianske K�a�any;Kapu�ianske K�a�any;Kapu�ianske K�a�any;528404
+2811;SK0427528463;Kri�ovsk� Lieskov�;Kri�ovsk� Lieskov�;Kri�ovsk� Lieskov�;528463
+2812;SK0427528579;Ma�ovsk� Vojkovce;Ma�ovsk� Vojkovce;Ma�ovsk� Vojkovce;528579
+2813;SK0427528633;Obor�n;Obor�n;Obor�n;528633
+2814;SK0427528692;Ptruk�a;Ptruk�a;Ptruk�a;528692
+2815;SK0427528714;Rusk�;Rusk�;Rusk�;528714
+2816;SK0427543853;Ve�k� Kapu�any;Ve�k� Kapu�any;Ve�k� Kapu�any;543853
+2817;SK0427543870;Ve�k� Ra�kovce;Ve�k� Ra�kovce;Ve�k� Ra�kovce;543870
+2818;SK0427543888;Ve�k� Slemence;Ve�k� Slemence;Ve�k� Slemence;543888
+2819;SK0427543942;Vojany;Vojany;Vojany;543942
+2820;SK0428514578;Bretka;Bretka;Bretka;514578
+2821;SK0428514748;Gemersk� Panica;Gemersk� Panica;Gemersk� Panica;514748
+2822;SK0428525529;Ro��ava;Ro��ava;Ro��ava;525529
+2823;SK0428525537;Ardovo;Ardovo;Ardovo;525537
+2824;SK0428525545;Betliar;Betliar;Betliar;525545
+2825;SK0428525553;Boh��ovo;Boh��ovo;Boh��ovo;525553
+2826;SK0428525561;B�rka;B�rka;B�rka;525561
+2827;SK0428525570;Brd�rka;Brd�rka;Brd�rka;525570
+2828;SK0428525596;�ierna Lehota;�ierna Lehota;�ierna Lehota;525596
+2829;SK0428525600;�oltovo;�oltovo;�oltovo;525600
+2830;SK0428525618;Dedinky;Dedinky;Dedinky;525618
+2831;SK0428525626;Dlh� Ves;Dlh� Ves;Dlh� Ves;525626
+2832;SK0428525634;Dob�in�;Dob�in�;Dob�in�;525634
+2833;SK0428525642;Drnava;Drnava;Drnava;525642
+2834;SK0428525651;Gemersk� H�rka;Gemersk� H�rka;Gemersk� H�rka;525651
+2835;SK0428525669;Gemersk� Poloma;Gemersk� Poloma;Gemersk� Poloma;525669
+2836;SK0428525693;Go�altovo;Go�altovo;Go�altovo;525693
+2837;SK0428525707;Go�ovo;Go�ovo;Go�ovo;525707
+2838;SK0428525715;Hankov�;Hankov�;Hankov�;525715
+2839;SK0428525723;Henckovce;Henckovce;Henckovce;525723
+2840;SK0428525731;Honce;Honce;Honce;525731
+2841;SK0428525740;Hrhov;Hrhov;Hrhov;525740
+2842;SK0428525758;Hru�ov;Hru�ov;Hru�ov;525758
+2843;SK0428525782;Jablonov nad Tur�ou;Jablonov nad Tur�ou;Jablonov nad Tur�ou;525782
+2844;SK0428525821;Ke�ovo;Ke�ovo;Ke�ovo;525821
+2845;SK0428525839;Kobeliarovo;Kobeliarovo;Kobeliarovo;525839
+2846;SK0428525847;Koce�ovce;Koce�ovce;Koce�ovce;525847
+2847;SK0428525855;Kov��ov�;Kov��ov�;Kov��ov�;525855
+2848;SK0428525863;Kr�snohorsk� Dlh� L�ka;Kr�snohorsk� Dlh� L�ka;Kr�snohorsk� Dlh� L�ka;525863
+2849;SK0428525871;Kr�snohorsk� Podhradie;Kr�snohorsk� Podhradie;Kr�snohorsk� Podhradie;525871
+2850;SK0428525898;Kunova Teplica;Kunova Teplica;Kunova Teplica;525898
+2851;SK0428525910;Lipovn�k;Lipovn�k;Lipovn�k;525910
+2852;SK0428525936;L��ka;L��ka;L��ka;525936
+2853;SK0428525952;Marku�ka;Marku�ka;Marku�ka;525952
+2854;SK0428525961;Meliata;Meliata;Meliata;525961
+2855;SK0428526045;Ni�n� Slan�;Ni�n� Slan�;Ni�n� Slan�;526045
+2856;SK0428526053;Ochtin�;Ochtin�;Ochtin�;526053
+2857;SK0428526061;Pa�a;Pa�a;Pa�a;526061
+2858;SK0428526070;Pa�kov�;Pa�kov�;Pa�kov�;526070
+2859;SK0428526088;Petrovo;Petrovo;Petrovo;526088
+2860;SK0428526096;Ple�ivec;Ple�ivec;Ple�ivec;526096
+2861;SK0428526126;Rakovnica;Rakovnica;Rakovnica;526126
+2862;SK0428526134;Rejdov�;Rejdov�;Rejdov�;526134
+2863;SK0428526177;Rochovce;Rochovce;Rochovce;526177
+2864;SK0428526185;Ro�t�r;Ro�t�r;Ro�t�r;526185
+2865;SK0428526193;Rozlo�n�;Rozlo�n�;Rozlo�n�;526193
+2866;SK0428526207;Ro��avsk� Bystr�;Ro��avsk� Bystr�;Ro��avsk� Bystr�;526207
+2867;SK0428526215;Rudn�;Rudn�;Rudn�;526215
+2868;SK0428526223;Silica;Silica;Silica;526223
+2869;SK0428526231;Silick� Brezov�;Silick� Brezov�;Silick� Brezov�;526231
+2870;SK0428526240;Silick� Jablonica;Silick� Jablonica;Silick� Jablonica;526240
+2871;SK0428526266;Slavec;Slavec;Slavec;526266
+2872;SK0428526274;Slavo�ka;Slavo�ka;Slavo�ka;526274
+2873;SK0428526282;Slavo�ovce;Slavo�ovce;Slavo�ovce;526282
+2874;SK0428526291;Straten�;Straten�;Straten�;526291
+2875;SK0428526312;�t�tnik;�t�tnik;�t�tnik;526312
+2876;SK0428526339;Vlachovo;Vlachovo;Vlachovo;526339
+2877;SK0428526347;Vy�n� Slan�;Vy�n� Slan�;Vy�n� Slan�;526347
+2878;SK0428560022;Brzot�n;Brzot�n;Brzot�n;560022
+2879;SK0428560031;�u�ma;�u�ma;�u�ma;560031
+2880;SK0428560049;Jovice;Jovice;Jovice;560049
+2881;SK0428560065;Kru�n�;Kru�n�;Kru�n�;560065
+2882;SK0429522309;Ba�kovce;Ba�kovce;Ba�kovce;522309
+2883;SK0429522317;Be�atina;Be�atina;Be�atina;522317
+2884;SK0429522325;Be�ovce;Be�ovce;Be�ovce;522325
+2885;SK0429522333;Blatn� Polianka;Blatn� Polianka;Blatn� Polianka;522333
+2886;SK0429522341;Blatn� Remety;Blatn� Remety;Blatn� Remety;522341
+2887;SK0429522350;Blatn� Revi�tia;Blatn� Revi�tia;Blatn� Revi�tia;522350
+2888;SK0429522384;Bunkovce;Bunkovce;Bunkovce;522384
+2889;SK0429522422;Feki�ovce;Feki�ovce;Feki�ovce;522422
+2890;SK0429522457;Hlivi�tia;Hlivi�tia;Hlivi�tia;522457
+2891;SK0429522473;Hor�a;Hor�a;Hor�a;522473
+2892;SK0429522490;Hus�k;Hus�k;Hus�k;522490
+2893;SK0429522503;Cho�kovce;Cho�kovce;Cho�kovce;522503
+2894;SK0429522520;Inovce;Inovce;Inovce;522520
+2895;SK0429522538;Jasenov;Jasenov;Jasenov;522538
+2896;SK0429522554;Jenkovce;Jenkovce;Jenkovce;522554
+2897;SK0429522601;Kolibabovce;Kolibabovce;Kolibabovce;522601
+2898;SK0429522627;Ko�u�;Ko�u�;Ko�u�;522627
+2899;SK0429522643;Korom�a;Korom�a;Korom�a;522643
+2900;SK0429522660;Kr�ava;Kr�ava;Kr�ava;522660
+2901;SK0429522678;Kristy;Kristy;Kristy;522678
+2902;SK0429522716;Lek�rovce;Lek�rovce;Lek�rovce;522716
+2903;SK0429522813;Ni�n� Rybnica;Ni�n� Rybnica;Ni�n� Rybnica;522813
+2904;SK0429522821;Ni�n� Nemeck�;Ni�n� Nemeck�;Ni�n� Nemeck�;522821
+2905;SK0429522830;Orechov�;Orechov�;Orechov�;522830
+2906;SK0429522856;Ostrov;Ostrov;Ostrov;522856
+2907;SK0429522899;Petrovce;Petrovce;Petrovce;522899
+2908;SK0429522911;Pinkovce;Pinkovce;Pinkovce;522911
+2909;SK0429522929;Podhoro�;Podhoro�;Podhoro�;522929
+2910;SK0429522937;Porostov;Porostov;Porostov;522937
+2911;SK0429522953;Por�bka;Por�bka;Por�bka;522953
+2912;SK0429522970;Priekopa;Priekopa;Priekopa;522970
+2913;SK0429523003;Remetsk� H�mre;Remetsk� H�mre;Remetsk� H�mre;523003
+2914;SK0429523011;Rusk� Bystr�;Rusk� Bystr�;Rusk� Bystr�;523011
+2915;SK0429523020;Ruskovce;Ruskovce;Ruskovce;523020
+2916;SK0429523038;Rusk� Hrabovec;Rusk� Hrabovec;Rusk� Hrabovec;523038
+2917;SK0429523046;Sejkov;Sejkov;Sejkov;523046
+2918;SK0429523089;Sobrance;Sobrance;Sobrance;523089
+2919;SK0429523143;Sv�tu�;Sv�tu�;Sv�tu�;523143
+2920;SK0429523160;Ta�u�a;Ta�u�a;Ta�u�a;523160
+2921;SK0429523178;Tibava;Tibava;Tibava;523178
+2922;SK0429523224;�bre�;�bre�;�bre�;523224
+2923;SK0429523232;Ve�k� Revi�tia;Ve�k� Revi�tia;Ve�k� Revi�tia;523232
+2924;SK0429523267;Vojnatina;Vojnatina;Vojnatina;523267
+2925;SK0429523305;Vy�n� Rybnica;Vy�n� Rybnica;Vy�n� Rybnica;523305
+2926;SK0429523313;Vy�n� Nemeck�;Vy�n� Nemeck�;Vy�n� Nemeck�;523313
+2927;SK0429523321;Vy�n� Remety;Vy�n� Remety;Vy�n� Remety;523321
+2928;SK0429523330;Z�hor;Z�hor;Z�hor;523330
+2929;SKZZZZ;Zahrani�ie;Zahrani�ie;Zahrani�ie 
+2930;SKZZZZZZZZZZ;Zahrani�ie;Zahrani�ie;Zahrani�ies
